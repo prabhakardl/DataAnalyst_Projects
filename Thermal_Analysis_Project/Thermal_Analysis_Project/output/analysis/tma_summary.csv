@@ -1,0 +1,3 @@
+parameter,min,max,mean
+Temperature_C,25.0,180.0,102.5
+Dimension_mm,10.0,15.06,11.847805165723134
