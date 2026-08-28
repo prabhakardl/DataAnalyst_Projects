@@ -1,0 +1,7 @@
+technology_id,technology_name,technology_category,vendor
+T01,Oracle,Relational DB,Oracle
+T02,MySQL,Relational DB,Oracle
+T03,SQL Server,Relational DB,Microsoft
+T04,PostgreSQL,Relational DB,Open Source
+T05,SAP HANA,Enterprise DB,SAP
+T06,MongoDB,NoSQL,MongoDB

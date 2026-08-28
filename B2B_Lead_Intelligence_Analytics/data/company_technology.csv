@@ -1,0 +1,1001 @@
+company_id,technology_id,technology_version,technology_evidence,confidence_score,source
+C00001,T01,HANA 2.0,Public case study,0.61,Industry Directory
+C00002,T04,8.x,Public case study,0.78,Company Website
+C00003,T06,HANA 2.0,Technical page,0.84,Public Case Study
+C00004,T05,2022,Technical page,0.78,Technology Directory
+C00005,T01,8.x,Technology directory,0.65,Public Case Study
+C00006,T01,11g,Technology directory,0.76,Company Website
+C00007,T06,2022,Technical page,0.76,Technology Directory
+C00008,T06,2022,Job posting,0.67,Public Case Study
+C00009,T03,HANA 2.0,Technical page,0.89,Job Posting
+C00010,T03,15,Public case study,0.73,Industry Directory
+C00011,T02,11g,Public case study,0.83,Technology Directory
+C00012,T02,2022,Job posting,0.8,Job Posting
+C00013,T01,15,Job posting,0.94,Company Website
+C00014,T01,2019,Technical page,0.65,Company Website
+C00015,T01,8.x,Technology directory,0.64,Technology Directory
+C00016,T05,16,Job posting,0.72,Technology Directory
+C00017,T01,2022,Technical page,0.77,Industry Directory
+C00018,T01,15,Job posting,0.72,Public Case Study
+C00019,T03,2019,Job posting,0.9,Company Website
+C00020,T01,19c,Public case study,0.7,Technology Directory
+C00021,T01,2019,Technical page,0.63,Technology Directory
+C00022,T03,HANA 2.0,Technical page,0.76,Company Website
+C00023,T02,2022,Technology directory,0.9,Public Case Study
+C00024,T03,15,Job posting,0.93,Technology Directory
+C00025,T05,12c,Job posting,0.89,Company Website
+C00026,T01,HANA 2.0,Technology directory,0.82,Technology Directory
+C00027,T05,19c,Public case study,0.88,Public Case Study
+C00028,T05,HANA 2.0,Job posting,0.87,Job Posting
+C00029,T05,2019,Technical page,0.69,Job Posting
+C00030,T03,HANA 2.0,Public case study,0.81,Company Website
+C00031,T03,HANA 2.0,Technical page,0.9,Job Posting
+C00032,T03,15,Public case study,0.72,Industry Directory
+C00033,T04,HANA 2.0,Public case study,0.86,Public Case Study
+C00034,T01,2022,Technical page,0.79,Company Website
+C00035,T06,16,Technology directory,0.8,Technology Directory
+C00036,T03,12c,Technical page,0.64,Company Website
+C00037,T04,11g,Technology directory,0.86,Technology Directory
+C00038,T02,2019,Job posting,0.94,Company Website
+C00039,T01,16,Technical page,0.66,Public Case Study
+C00040,T03,15,Public case study,0.74,Technology Directory
+C00041,T03,2019,Technology directory,0.62,Public Case Study
+C00042,T02,2019,Job posting,0.61,Technology Directory
+C00043,T02,2022,Technology directory,0.99,Job Posting
+C00044,T01,16,Job posting,0.79,Job Posting
+C00045,T03,16,Technical page,0.74,Job Posting
+C00046,T02,11g,Technical page,0.71,Technology Directory
+C00047,T06,2022,Technical page,0.98,Technology Directory
+C00048,T01,8.x,Technology directory,0.7,Public Case Study
+C00049,T02,16,Public case study,0.88,Company Website
+C00050,T01,2019,Technology directory,0.71,Job Posting
+C00051,T03,HANA 2.0,Technical page,0.63,Industry Directory
+C00052,T03,8.x,Technology directory,0.87,Industry Directory
+C00053,T03,15,Technical page,0.6,Industry Directory
+C00054,T06,11g,Public case study,0.86,Job Posting
+C00055,T01,HANA 2.0,Public case study,0.7,Company Website
+C00056,T04,12c,Public case study,0.89,Company Website
+C00057,T01,8.x,Public case study,0.9,Company Website
+C00058,T01,16,Technical page,0.88,Industry Directory
+C00059,T02,HANA 2.0,Public case study,0.61,Industry Directory
+C00060,T01,2019,Technology directory,0.87,Industry Directory
+C00061,T03,2019,Technical page,0.99,Public Case Study
+C00062,T04,11g,Public case study,0.69,Job Posting
+C00063,T04,HANA 2.0,Job posting,0.71,Technology Directory
+C00064,T03,11g,Technical page,0.92,Industry Directory
+C00065,T03,11g,Technology directory,0.66,Industry Directory
+C00066,T02,2019,Public case study,0.86,Technology Directory
+C00067,T01,11g,Job posting,0.89,Industry Directory
+C00068,T01,12c,Public case study,0.61,Job Posting
+C00069,T03,2022,Technology directory,0.82,Technology Directory
+C00070,T06,15,Job posting,0.82,Industry Directory
+C00071,T01,19c,Job posting,0.72,Job Posting
+C00072,T03,16,Technical page,0.94,Public Case Study
+C00073,T04,2022,Public case study,0.66,Technology Directory
+C00074,T05,19c,Technical page,0.74,Job Posting
+C00075,T03,15,Technology directory,0.93,Job Posting
+C00076,T03,2022,Technology directory,0.67,Public Case Study
+C00077,T04,16,Public case study,0.92,Technology Directory
+C00078,T05,12c,Technical page,0.63,Job Posting
+C00079,T01,19c,Job posting,0.79,Public Case Study
+C00080,T06,19c,Technology directory,0.63,Company Website
+C00081,T01,8.x,Technology directory,0.86,Company Website
+C00082,T05,16,Technical page,0.91,Industry Directory
+C00083,T01,15,Public case study,0.93,Public Case Study
+C00084,T01,2019,Technology directory,0.98,Technology Directory
+C00085,T01,2019,Public case study,0.86,Company Website
+C00086,T02,16,Job posting,0.9,Technology Directory
+C00087,T02,2019,Public case study,0.8,Technology Directory
+C00088,T01,19c,Technology directory,0.96,Technology Directory
+C00089,T02,12c,Technology directory,0.85,Company Website
+C00090,T02,19c,Technical page,0.94,Technology Directory
+C00091,T04,2022,Public case study,0.69,Technology Directory
+C00092,T05,2019,Technical page,0.79,Job Posting
+C00093,T03,8.x,Public case study,0.88,Company Website
+C00094,T01,2019,Job posting,0.68,Industry Directory
+C00095,T01,HANA 2.0,Technical page,0.68,Public Case Study
+C00096,T05,HANA 2.0,Technical page,0.98,Public Case Study
+C00097,T01,12c,Technical page,0.77,Public Case Study
+C00098,T02,12c,Technical page,0.67,Public Case Study
+C00099,T06,19c,Job posting,0.73,Company Website
+C00100,T06,16,Public case study,0.75,Technology Directory
+C00101,T02,2019,Technical page,0.84,Industry Directory
+C00102,T04,16,Technology directory,0.96,Job Posting
+C00103,T02,2022,Job posting,0.98,Industry Directory
+C00104,T04,2019,Public case study,0.85,Company Website
+C00105,T01,19c,Job posting,0.87,Job Posting
+C00106,T01,8.x,Public case study,0.73,Job Posting
+C00107,T03,12c,Technical page,0.93,Public Case Study
+C00108,T01,2019,Technical page,0.68,Company Website
+C00109,T04,19c,Public case study,0.64,Job Posting
+C00110,T02,19c,Technology directory,0.98,Public Case Study
+C00111,T05,11g,Technical page,0.94,Job Posting
+C00112,T05,16,Technology directory,0.72,Industry Directory
+C00113,T03,HANA 2.0,Job posting,0.86,Industry Directory
+C00114,T04,2019,Technical page,0.78,Job Posting
+C00115,T01,2019,Technical page,0.73,Technology Directory
+C00116,T03,HANA 2.0,Technology directory,0.71,Job Posting
+C00117,T01,2019,Job posting,0.65,Job Posting
+C00118,T05,2022,Technical page,0.81,Public Case Study
+C00119,T05,8.x,Technical page,0.77,Job Posting
+C00120,T05,2019,Technology directory,0.8,Company Website
+C00121,T05,2019,Technical page,0.68,Job Posting
+C00122,T06,15,Technology directory,0.97,Industry Directory
+C00123,T01,2022,Public case study,0.85,Job Posting
+C00124,T06,2019,Public case study,0.95,Job Posting
+C00125,T03,11g,Technology directory,0.64,Public Case Study
+C00126,T02,HANA 2.0,Job posting,0.84,Company Website
+C00127,T03,16,Technical page,0.93,Job Posting
+C00128,T02,12c,Public case study,0.73,Company Website
+C00129,T01,19c,Job posting,0.68,Industry Directory
+C00130,T01,HANA 2.0,Job posting,0.7,Industry Directory
+C00131,T01,19c,Job posting,0.71,Public Case Study
+C00132,T03,16,Technology directory,0.77,Job Posting
+C00133,T05,16,Public case study,0.73,Public Case Study
+C00134,T03,16,Technical page,0.71,Public Case Study
+C00135,T03,11g,Public case study,0.85,Industry Directory
+C00136,T02,2019,Public case study,0.62,Company Website
+C00137,T02,2022,Technology directory,0.73,Public Case Study
+C00138,T01,16,Technology directory,0.87,Company Website
+C00139,T05,19c,Technology directory,0.67,Technology Directory
+C00140,T01,19c,Job posting,0.69,Industry Directory
+C00141,T04,12c,Technology directory,0.68,Company Website
+C00142,T04,15,Technical page,0.6,Company Website
+C00143,T03,HANA 2.0,Technical page,0.78,Industry Directory
+C00144,T05,12c,Public case study,0.62,Company Website
+C00145,T01,19c,Public case study,0.71,Public Case Study
+C00146,T05,19c,Technical page,0.99,Technology Directory
+C00147,T04,HANA 2.0,Technology directory,0.96,Job Posting
+C00148,T04,2019,Job posting,0.68,Industry Directory
+C00149,T04,19c,Job posting,0.72,Industry Directory
+C00150,T05,19c,Job posting,0.78,Job Posting
+C00151,T06,2022,Technology directory,0.93,Company Website
+C00152,T02,8.x,Technical page,0.91,Company Website
+C00153,T05,12c,Technical page,0.65,Company Website
+C00154,T04,16,Public case study,0.65,Industry Directory
+C00155,T02,8.x,Technical page,0.76,Technology Directory
+C00156,T06,19c,Public case study,0.94,Public Case Study
+C00157,T02,15,Job posting,0.94,Job Posting
+C00158,T03,15,Job posting,0.64,Industry Directory
+C00159,T01,12c,Technology directory,0.82,Public Case Study
+C00160,T01,11g,Technical page,0.66,Public Case Study
+C00161,T05,11g,Job posting,0.87,Technology Directory
+C00162,T02,15,Technical page,0.96,Public Case Study
+C00163,T02,2022,Technical page,0.78,Technology Directory
+C00164,T01,16,Technical page,0.63,Job Posting
+C00165,T03,2022,Technical page,0.83,Technology Directory
+C00166,T05,8.x,Public case study,0.76,Job Posting
+C00167,T05,2022,Job posting,0.92,Industry Directory
+C00168,T01,15,Technical page,0.73,Public Case Study
+C00169,T03,8.x,Technical page,0.94,Public Case Study
+C00170,T02,HANA 2.0,Public case study,0.71,Public Case Study
+C00171,T03,HANA 2.0,Technology directory,0.66,Technology Directory
+C00172,T02,16,Technology directory,0.72,Industry Directory
+C00173,T02,HANA 2.0,Technical page,0.61,Job Posting
+C00174,T02,8.x,Public case study,0.71,Technology Directory
+C00175,T03,12c,Job posting,0.86,Company Website
+C00176,T03,2019,Public case study,0.66,Job Posting
+C00177,T02,15,Job posting,0.64,Technology Directory
+C00178,T05,16,Job posting,0.65,Technology Directory
+C00179,T04,8.x,Public case study,0.63,Industry Directory
+C00180,T02,19c,Job posting,0.94,Public Case Study
+C00181,T05,2019,Technical page,0.97,Technology Directory
+C00182,T05,16,Job posting,0.62,Technology Directory
+C00183,T01,11g,Public case study,0.9,Public Case Study
+C00184,T03,19c,Technology directory,0.89,Public Case Study
+C00185,T01,19c,Public case study,0.99,Job Posting
+C00186,T04,16,Technology directory,0.74,Technology Directory
+C00187,T01,2019,Technical page,0.71,Technology Directory
+C00188,T04,11g,Job posting,0.78,Company Website
+C00189,T01,19c,Job posting,0.93,Industry Directory
+C00190,T03,11g,Job posting,0.88,Technology Directory
+C00191,T06,2019,Job posting,0.78,Job Posting
+C00192,T02,HANA 2.0,Technical page,0.7,Public Case Study
+C00193,T05,2022,Job posting,0.88,Public Case Study
+C00194,T06,16,Public case study,0.93,Industry Directory
+C00195,T05,15,Job posting,0.76,Company Website
+C00196,T01,16,Public case study,0.86,Technology Directory
+C00197,T05,19c,Technical page,0.76,Company Website
+C00198,T01,HANA 2.0,Public case study,0.79,Technology Directory
+C00199,T02,19c,Public case study,0.8,Technology Directory
+C00200,T05,8.x,Technology directory,0.9,Technology Directory
+C00201,T04,15,Technical page,0.98,Industry Directory
+C00202,T03,19c,Technical page,0.77,Technology Directory
+C00203,T02,19c,Public case study,0.73,Technology Directory
+C00204,T05,12c,Public case study,0.75,Company Website
+C00205,T04,11g,Technical page,0.65,Job Posting
+C00206,T02,2019,Public case study,0.72,Industry Directory
+C00207,T05,HANA 2.0,Technical page,0.63,Technology Directory
+C00208,T01,12c,Technical page,0.77,Industry Directory
+C00209,T01,8.x,Technical page,0.67,Technology Directory
+C00210,T03,HANA 2.0,Technology directory,0.74,Technology Directory
+C00211,T06,15,Public case study,0.91,Technology Directory
+C00212,T01,11g,Job posting,0.7,Technology Directory
+C00213,T01,2019,Technology directory,0.84,Company Website
+C00214,T01,12c,Public case study,0.95,Company Website
+C00215,T05,19c,Job posting,0.82,Technology Directory
+C00216,T01,19c,Public case study,0.68,Technology Directory
+C00217,T03,2022,Public case study,0.73,Technology Directory
+C00218,T06,12c,Technology directory,0.83,Technology Directory
+C00219,T01,19c,Technical page,0.8,Job Posting
+C00220,T03,19c,Public case study,0.66,Public Case Study
+C00221,T03,8.x,Technical page,0.77,Public Case Study
+C00222,T05,2022,Technical page,0.81,Company Website
+C00223,T02,8.x,Public case study,0.7,Technology Directory
+C00224,T02,19c,Technology directory,0.84,Public Case Study
+C00225,T01,2019,Technology directory,0.63,Public Case Study
+C00226,T04,2022,Technology directory,0.73,Job Posting
+C00227,T04,11g,Public case study,0.91,Industry Directory
+C00228,T01,HANA 2.0,Public case study,0.7,Public Case Study
+C00229,T02,HANA 2.0,Technical page,0.84,Technology Directory
+C00230,T05,2022,Technology directory,0.76,Public Case Study
+C00231,T01,2022,Technical page,0.72,Industry Directory
+C00232,T01,15,Technical page,0.96,Job Posting
+C00233,T03,8.x,Technology directory,0.73,Company Website
+C00234,T02,8.x,Public case study,0.69,Technology Directory
+C00235,T01,8.x,Technical page,0.95,Company Website
+C00236,T02,12c,Technology directory,0.89,Industry Directory
+C00237,T01,16,Technology directory,0.87,Industry Directory
+C00238,T03,19c,Technical page,0.62,Public Case Study
+C00239,T04,19c,Public case study,0.65,Industry Directory
+C00240,T03,HANA 2.0,Technical page,0.85,Company Website
+C00241,T01,2019,Public case study,0.68,Public Case Study
+C00242,T05,2022,Technology directory,0.69,Technology Directory
+C00243,T01,19c,Public case study,0.9,Job Posting
+C00244,T04,19c,Technology directory,0.71,Job Posting
+C00245,T02,15,Public case study,0.63,Technology Directory
+C00246,T04,2019,Technology directory,0.61,Public Case Study
+C00247,T01,12c,Technical page,0.77,Company Website
+C00248,T01,16,Technical page,0.84,Public Case Study
+C00249,T03,8.x,Technical page,0.94,Industry Directory
+C00250,T01,15,Technology directory,0.64,Company Website
+C00251,T01,8.x,Public case study,0.68,Industry Directory
+C00252,T04,2022,Job posting,0.81,Public Case Study
+C00253,T05,15,Job posting,0.74,Job Posting
+C00254,T01,16,Public case study,0.79,Public Case Study
+C00255,T05,12c,Technology directory,0.96,Public Case Study
+C00256,T04,15,Technical page,0.81,Public Case Study
+C00257,T05,HANA 2.0,Public case study,0.76,Company Website
+C00258,T04,2022,Technology directory,0.99,Company Website
+C00259,T04,12c,Public case study,0.63,Public Case Study
+C00260,T03,12c,Technology directory,0.96,Job Posting
+C00261,T03,12c,Public case study,0.8,Job Posting
+C00262,T05,11g,Public case study,0.8,Technology Directory
+C00263,T01,15,Technology directory,0.96,Public Case Study
+C00264,T02,HANA 2.0,Public case study,0.8,Company Website
+C00265,T01,2019,Job posting,0.77,Industry Directory
+C00266,T06,2022,Technical page,0.71,Technology Directory
+C00267,T02,15,Job posting,0.86,Company Website
+C00268,T04,8.x,Public case study,0.82,Company Website
+C00269,T05,2019,Job posting,0.68,Industry Directory
+C00270,T06,2022,Public case study,0.88,Company Website
+C00271,T01,19c,Technical page,0.85,Technology Directory
+C00272,T04,11g,Job posting,0.75,Public Case Study
+C00273,T05,2022,Job posting,0.6,Technology Directory
+C00274,T01,16,Public case study,0.77,Job Posting
+C00275,T04,11g,Job posting,0.6,Company Website
+C00276,T02,12c,Technology directory,0.63,Public Case Study
+C00277,T03,19c,Technology directory,0.77,Technology Directory
+C00278,T03,16,Public case study,0.63,Company Website
+C00279,T01,2019,Job posting,0.71,Company Website
+C00280,T01,2019,Technology directory,0.86,Technology Directory
+C00281,T01,2022,Public case study,0.72,Company Website
+C00282,T01,19c,Technical page,0.99,Job Posting
+C00283,T03,15,Job posting,0.96,Company Website
+C00284,T02,11g,Public case study,0.83,Public Case Study
+C00285,T01,12c,Technology directory,0.98,Public Case Study
+C00286,T04,16,Job posting,0.94,Public Case Study
+C00287,T04,2022,Job posting,0.72,Company Website
+C00288,T03,12c,Technical page,0.89,Job Posting
+C00289,T06,8.x,Public case study,0.65,Job Posting
+C00290,T02,11g,Technical page,0.87,Public Case Study
+C00291,T05,15,Technical page,0.79,Industry Directory
+C00292,T01,15,Technical page,0.61,Job Posting
+C00293,T04,19c,Job posting,0.71,Public Case Study
+C00294,T06,8.x,Job posting,0.97,Technology Directory
+C00295,T05,19c,Job posting,0.72,Industry Directory
+C00296,T03,8.x,Public case study,0.67,Company Website
+C00297,T03,19c,Technology directory,0.67,Industry Directory
+C00298,T02,19c,Technical page,0.79,Technology Directory
+C00299,T04,8.x,Job posting,0.93,Job Posting
+C00300,T04,16,Technical page,0.9,Company Website
+C00301,T06,15,Technology directory,0.77,Industry Directory
+C00302,T03,19c,Job posting,0.68,Industry Directory
+C00303,T01,HANA 2.0,Technical page,0.62,Company Website
+C00304,T03,12c,Public case study,0.78,Technology Directory
+C00305,T01,HANA 2.0,Technical page,0.92,Public Case Study
+C00306,T01,19c,Technical page,0.88,Technology Directory
+C00307,T02,2019,Technical page,0.76,Company Website
+C00308,T04,12c,Technical page,0.83,Job Posting
+C00309,T01,15,Public case study,0.77,Job Posting
+C00310,T01,19c,Public case study,0.83,Job Posting
+C00311,T01,16,Job posting,0.8,Industry Directory
+C00312,T05,11g,Job posting,0.87,Job Posting
+C00313,T04,2019,Technical page,0.8,Public Case Study
+C00314,T01,12c,Technology directory,0.97,Industry Directory
+C00315,T01,HANA 2.0,Job posting,0.77,Public Case Study
+C00316,T03,8.x,Job posting,0.61,Public Case Study
+C00317,T01,15,Public case study,0.69,Company Website
+C00318,T03,16,Technical page,0.8,Company Website
+C00319,T02,2019,Job posting,0.81,Public Case Study
+C00320,T06,11g,Job posting,0.82,Public Case Study
+C00321,T01,12c,Public case study,0.88,Public Case Study
+C00322,T04,12c,Public case study,0.71,Technology Directory
+C00323,T01,HANA 2.0,Public case study,0.86,Technology Directory
+C00324,T06,HANA 2.0,Technical page,0.87,Company Website
+C00325,T06,2019,Public case study,0.76,Job Posting
+C00326,T04,HANA 2.0,Technology directory,0.76,Technology Directory
+C00327,T02,19c,Technical page,0.67,Company Website
+C00328,T01,15,Technical page,0.76,Company Website
+C00329,T05,8.x,Job posting,0.91,Company Website
+C00330,T04,19c,Public case study,0.95,Job Posting
+C00331,T01,19c,Job posting,0.83,Industry Directory
+C00332,T02,8.x,Job posting,0.72,Public Case Study
+C00333,T02,8.x,Public case study,0.87,Industry Directory
+C00334,T05,12c,Job posting,0.89,Job Posting
+C00335,T04,8.x,Technology directory,0.73,Technology Directory
+C00336,T03,12c,Technical page,0.92,Industry Directory
+C00337,T03,HANA 2.0,Technical page,0.63,Job Posting
+C00338,T01,8.x,Public case study,0.6,Public Case Study
+C00339,T02,11g,Public case study,0.65,Public Case Study
+C00340,T01,2022,Technical page,0.66,Industry Directory
+C00341,T04,16,Technology directory,0.94,Industry Directory
+C00342,T02,8.x,Technology directory,0.77,Public Case Study
+C00343,T02,16,Job posting,0.71,Technology Directory
+C00344,T01,2022,Public case study,0.77,Industry Directory
+C00345,T01,15,Technical page,0.75,Public Case Study
+C00346,T03,19c,Technology directory,0.72,Job Posting
+C00347,T01,11g,Technical page,0.65,Public Case Study
+C00348,T01,8.x,Technical page,0.86,Technology Directory
+C00349,T04,HANA 2.0,Public case study,0.65,Job Posting
+C00350,T02,16,Technology directory,0.9,Technology Directory
+C00351,T02,16,Job posting,0.68,Public Case Study
+C00352,T02,16,Public case study,0.89,Industry Directory
+C00353,T05,8.x,Technical page,0.91,Technology Directory
+C00354,T02,19c,Public case study,0.65,Company Website
+C00355,T04,HANA 2.0,Public case study,0.63,Industry Directory
+C00356,T06,2022,Technology directory,0.97,Technology Directory
+C00357,T04,19c,Technology directory,0.78,Job Posting
+C00358,T02,19c,Public case study,0.85,Public Case Study
+C00359,T04,16,Public case study,0.61,Job Posting
+C00360,T02,11g,Technology directory,0.71,Job Posting
+C00361,T02,11g,Job posting,0.8,Industry Directory
+C00362,T03,15,Public case study,0.95,Industry Directory
+C00363,T02,11g,Technology directory,0.71,Technology Directory
+C00364,T01,12c,Job posting,0.9,Job Posting
+C00365,T02,HANA 2.0,Technology directory,0.86,Industry Directory
+C00366,T01,8.x,Public case study,0.64,Company Website
+C00367,T02,15,Technical page,0.71,Public Case Study
+C00368,T03,2019,Technical page,0.69,Technology Directory
+C00369,T06,11g,Technical page,0.77,Industry Directory
+C00370,T01,12c,Technology directory,0.85,Technology Directory
+C00371,T03,15,Technology directory,0.77,Industry Directory
+C00372,T02,11g,Technology directory,0.7,Company Website
+C00373,T01,2022,Public case study,0.87,Public Case Study
+C00374,T01,8.x,Job posting,0.83,Company Website
+C00375,T01,8.x,Technology directory,0.8,Public Case Study
+C00376,T01,HANA 2.0,Job posting,0.82,Company Website
+C00377,T01,2022,Job posting,0.69,Industry Directory
+C00378,T02,2022,Job posting,0.87,Public Case Study
+C00379,T03,8.x,Technology directory,0.75,Company Website
+C00380,T01,8.x,Technical page,0.74,Industry Directory
+C00381,T01,15,Job posting,0.66,Job Posting
+C00382,T01,11g,Job posting,0.83,Technology Directory
+C00383,T03,19c,Technical page,0.84,Company Website
+C00384,T02,2022,Public case study,0.73,Company Website
+C00385,T03,2022,Technology directory,0.94,Job Posting
+C00386,T01,11g,Public case study,0.93,Technology Directory
+C00387,T01,16,Public case study,0.64,Technology Directory
+C00388,T06,2019,Technology directory,0.87,Industry Directory
+C00389,T01,19c,Technology directory,0.75,Company Website
+C00390,T01,15,Technical page,0.99,Public Case Study
+C00391,T01,HANA 2.0,Technology directory,0.69,Company Website
+C00392,T06,8.x,Public case study,0.71,Job Posting
+C00393,T03,19c,Technology directory,0.77,Company Website
+C00394,T03,19c,Job posting,0.7,Company Website
+C00395,T06,2022,Job posting,0.87,Technology Directory
+C00396,T01,11g,Technology directory,0.79,Industry Directory
+C00397,T06,2019,Public case study,0.69,Public Case Study
+C00398,T01,11g,Job posting,0.8,Industry Directory
+C00399,T03,11g,Technology directory,0.95,Technology Directory
+C00400,T02,8.x,Job posting,0.91,Company Website
+C00401,T02,15,Public case study,0.79,Job Posting
+C00402,T06,16,Job posting,0.71,Industry Directory
+C00403,T01,11g,Job posting,0.67,Company Website
+C00404,T06,19c,Technology directory,0.94,Company Website
+C00405,T02,8.x,Technology directory,0.88,Industry Directory
+C00406,T03,2022,Job posting,0.82,Company Website
+C00407,T06,HANA 2.0,Job posting,0.94,Industry Directory
+C00408,T01,15,Public case study,0.65,Public Case Study
+C00409,T06,2019,Job posting,0.87,Public Case Study
+C00410,T03,11g,Public case study,0.68,Technology Directory
+C00411,T04,11g,Technology directory,0.65,Company Website
+C00412,T01,12c,Technology directory,0.78,Technology Directory
+C00413,T03,2022,Job posting,0.75,Industry Directory
+C00414,T04,19c,Job posting,0.97,Industry Directory
+C00415,T02,19c,Public case study,0.73,Technology Directory
+C00416,T01,15,Job posting,0.92,Industry Directory
+C00417,T01,16,Public case study,0.89,Public Case Study
+C00418,T05,8.x,Technical page,0.86,Company Website
+C00419,T01,16,Public case study,0.96,Public Case Study
+C00420,T04,15,Job posting,0.76,Public Case Study
+C00421,T06,15,Technology directory,0.75,Technology Directory
+C00422,T01,16,Public case study,0.66,Public Case Study
+C00423,T01,12c,Job posting,0.71,Industry Directory
+C00424,T04,15,Technical page,0.94,Technology Directory
+C00425,T01,HANA 2.0,Job posting,0.79,Job Posting
+C00426,T03,HANA 2.0,Technical page,0.73,Industry Directory
+C00427,T04,2022,Technical page,0.68,Industry Directory
+C00428,T03,15,Job posting,0.79,Public Case Study
+C00429,T02,16,Public case study,0.88,Public Case Study
+C00430,T04,16,Public case study,0.71,Company Website
+C00431,T03,HANA 2.0,Job posting,0.9,Technology Directory
+C00432,T01,16,Job posting,0.85,Company Website
+C00433,T03,8.x,Job posting,0.91,Technology Directory
+C00434,T05,15,Public case study,0.7,Industry Directory
+C00435,T04,8.x,Technical page,0.85,Job Posting
+C00436,T02,16,Job posting,0.66,Industry Directory
+C00437,T02,16,Job posting,0.74,Company Website
+C00438,T01,HANA 2.0,Technology directory,0.88,Company Website
+C00439,T01,2022,Technical page,0.85,Industry Directory
+C00440,T01,2019,Public case study,0.67,Company Website
+C00441,T06,12c,Technical page,0.93,Public Case Study
+C00442,T01,2022,Job posting,0.62,Public Case Study
+C00443,T05,2022,Technical page,0.83,Job Posting
+C00444,T01,2019,Job posting,0.98,Company Website
+C00445,T01,15,Public case study,0.81,Job Posting
+C00446,T02,16,Technical page,0.91,Company Website
+C00447,T02,12c,Technical page,0.83,Public Case Study
+C00448,T04,8.x,Job posting,0.91,Industry Directory
+C00449,T06,15,Technology directory,0.86,Industry Directory
+C00450,T05,16,Job posting,0.87,Industry Directory
+C00451,T01,16,Public case study,0.69,Public Case Study
+C00452,T04,16,Technology directory,0.89,Industry Directory
+C00453,T01,16,Public case study,0.69,Public Case Study
+C00454,T05,HANA 2.0,Public case study,0.98,Public Case Study
+C00455,T03,2022,Technology directory,0.69,Industry Directory
+C00456,T02,19c,Job posting,0.69,Job Posting
+C00457,T01,2022,Technology directory,0.93,Technology Directory
+C00458,T01,15,Public case study,0.69,Industry Directory
+C00459,T01,11g,Technical page,0.74,Job Posting
+C00460,T05,15,Technical page,0.88,Job Posting
+C00461,T04,2019,Public case study,0.66,Company Website
+C00462,T06,HANA 2.0,Technology directory,0.66,Job Posting
+C00463,T01,12c,Public case study,0.79,Technology Directory
+C00464,T03,HANA 2.0,Job posting,0.7,Industry Directory
+C00465,T01,2019,Technical page,0.69,Company Website
+C00466,T03,2022,Public case study,0.6,Public Case Study
+C00467,T02,2022,Technical page,0.74,Public Case Study
+C00468,T01,2022,Technology directory,0.72,Industry Directory
+C00469,T03,HANA 2.0,Public case study,0.61,Public Case Study
+C00470,T01,12c,Job posting,0.84,Company Website
+C00471,T02,15,Public case study,0.84,Technology Directory
+C00472,T03,HANA 2.0,Job posting,0.63,Industry Directory
+C00473,T01,12c,Technical page,0.72,Industry Directory
+C00474,T06,19c,Technical page,0.94,Public Case Study
+C00475,T03,2019,Technology directory,0.83,Industry Directory
+C00476,T05,15,Technology directory,0.76,Public Case Study
+C00477,T03,HANA 2.0,Technical page,0.78,Company Website
+C00478,T04,16,Public case study,0.68,Industry Directory
+C00479,T04,16,Public case study,0.92,Company Website
+C00480,T05,8.x,Public case study,0.96,Job Posting
+C00481,T03,2022,Public case study,0.96,Job Posting
+C00482,T01,12c,Technology directory,0.69,Public Case Study
+C00483,T01,2019,Technology directory,0.72,Company Website
+C00484,T03,12c,Technology directory,0.66,Public Case Study
+C00485,T01,11g,Job posting,0.72,Industry Directory
+C00486,T01,16,Technical page,0.73,Public Case Study
+C00487,T01,16,Technical page,0.85,Job Posting
+C00488,T03,2019,Public case study,0.67,Industry Directory
+C00489,T01,11g,Public case study,0.96,Job Posting
+C00490,T03,11g,Public case study,0.64,Public Case Study
+C00491,T04,12c,Technical page,0.6,Technology Directory
+C00492,T05,15,Technical page,0.93,Company Website
+C00493,T02,12c,Technical page,0.87,Company Website
+C00494,T03,19c,Technology directory,0.74,Company Website
+C00495,T03,16,Technical page,0.83,Industry Directory
+C00496,T02,16,Job posting,0.69,Industry Directory
+C00497,T03,15,Technology directory,0.67,Technology Directory
+C00498,T01,19c,Job posting,0.78,Industry Directory
+C00499,T06,2022,Public case study,0.74,Company Website
+C00500,T01,12c,Technology directory,0.84,Industry Directory
+C00501,T05,16,Technical page,0.69,Job Posting
+C00502,T03,11g,Technical page,0.86,Company Website
+C00503,T01,15,Technical page,0.9,Public Case Study
+C00504,T04,2019,Job posting,0.66,Job Posting
+C00505,T01,15,Job posting,0.62,Job Posting
+C00506,T04,2019,Job posting,0.77,Public Case Study
+C00507,T03,12c,Technical page,0.9,Job Posting
+C00508,T01,15,Public case study,0.85,Public Case Study
+C00509,T01,2022,Job posting,0.87,Company Website
+C00510,T04,2019,Technology directory,0.76,Company Website
+C00511,T01,8.x,Public case study,0.69,Job Posting
+C00512,T05,8.x,Job posting,0.81,Public Case Study
+C00513,T04,2019,Technology directory,0.68,Job Posting
+C00514,T04,19c,Job posting,0.88,Company Website
+C00515,T01,19c,Public case study,0.68,Public Case Study
+C00516,T04,19c,Technical page,0.71,Technology Directory
+C00517,T06,11g,Public case study,0.8,Technology Directory
+C00518,T01,HANA 2.0,Technology directory,0.79,Job Posting
+C00519,T02,19c,Technology directory,0.83,Company Website
+C00520,T01,12c,Technical page,0.77,Company Website
+C00521,T02,12c,Public case study,0.96,Public Case Study
+C00522,T04,HANA 2.0,Technology directory,0.93,Company Website
+C00523,T02,2019,Public case study,0.94,Job Posting
+C00524,T03,19c,Technology directory,0.85,Industry Directory
+C00525,T02,8.x,Technical page,0.85,Job Posting
+C00526,T01,11g,Technical page,0.84,Public Case Study
+C00527,T01,19c,Public case study,0.77,Job Posting
+C00528,T05,19c,Technology directory,0.73,Industry Directory
+C00529,T03,16,Technology directory,0.83,Industry Directory
+C00530,T02,11g,Public case study,0.61,Technology Directory
+C00531,T04,8.x,Public case study,0.6,Public Case Study
+C00532,T01,16,Public case study,0.93,Technology Directory
+C00533,T01,16,Technical page,0.62,Industry Directory
+C00534,T01,2019,Technical page,0.8,Job Posting
+C00535,T06,19c,Technical page,0.84,Industry Directory
+C00536,T04,8.x,Technology directory,0.68,Public Case Study
+C00537,T03,19c,Public case study,0.95,Public Case Study
+C00538,T01,2022,Technology directory,0.67,Job Posting
+C00539,T01,19c,Job posting,0.94,Industry Directory
+C00540,T03,2022,Technology directory,0.9,Public Case Study
+C00541,T02,2022,Public case study,0.69,Industry Directory
+C00542,T06,HANA 2.0,Technology directory,0.66,Industry Directory
+C00543,T04,8.x,Technical page,0.72,Company Website
+C00544,T02,HANA 2.0,Technical page,0.76,Industry Directory
+C00545,T04,8.x,Job posting,0.7,Industry Directory
+C00546,T06,15,Technology directory,0.99,Job Posting
+C00547,T02,2022,Public case study,0.69,Industry Directory
+C00548,T03,16,Technology directory,0.92,Technology Directory
+C00549,T05,2019,Job posting,0.66,Job Posting
+C00550,T01,16,Job posting,0.98,Job Posting
+C00551,T05,8.x,Technology directory,0.69,Job Posting
+C00552,T01,2019,Job posting,0.76,Company Website
+C00553,T03,2019,Public case study,0.82,Public Case Study
+C00554,T04,15,Technical page,0.65,Public Case Study
+C00555,T03,2022,Technology directory,0.92,Public Case Study
+C00556,T03,11g,Technology directory,0.71,Technology Directory
+C00557,T03,16,Technology directory,0.81,Job Posting
+C00558,T01,15,Technical page,0.81,Public Case Study
+C00559,T01,11g,Public case study,0.84,Industry Directory
+C00560,T01,HANA 2.0,Public case study,0.62,Company Website
+C00561,T03,2022,Technology directory,0.67,Job Posting
+C00562,T02,11g,Job posting,0.66,Industry Directory
+C00563,T01,2019,Technology directory,0.72,Industry Directory
+C00564,T05,16,Technical page,0.66,Industry Directory
+C00565,T02,19c,Job posting,0.96,Company Website
+C00566,T02,HANA 2.0,Public case study,0.8,Technology Directory
+C00567,T02,8.x,Technology directory,0.84,Company Website
+C00568,T01,19c,Job posting,0.74,Industry Directory
+C00569,T04,8.x,Job posting,0.71,Technology Directory
+C00570,T02,2019,Technology directory,0.8,Job Posting
+C00571,T01,15,Technology directory,0.71,Company Website
+C00572,T06,HANA 2.0,Job posting,0.73,Public Case Study
+C00573,T05,12c,Technology directory,0.78,Industry Directory
+C00574,T04,HANA 2.0,Technology directory,0.8,Industry Directory
+C00575,T05,2019,Technology directory,0.98,Industry Directory
+C00576,T05,12c,Job posting,0.69,Industry Directory
+C00577,T02,HANA 2.0,Public case study,0.79,Public Case Study
+C00578,T03,8.x,Technology directory,0.66,Industry Directory
+C00579,T03,2022,Technology directory,0.74,Industry Directory
+C00580,T01,15,Public case study,0.88,Technology Directory
+C00581,T01,11g,Job posting,0.67,Public Case Study
+C00582,T01,12c,Job posting,0.83,Industry Directory
+C00583,T03,15,Technical page,0.76,Company Website
+C00584,T04,19c,Job posting,0.62,Public Case Study
+C00585,T04,11g,Job posting,0.96,Job Posting
+C00586,T02,11g,Job posting,0.76,Company Website
+C00587,T01,16,Technology directory,0.91,Company Website
+C00588,T02,12c,Public case study,0.76,Company Website
+C00589,T03,11g,Public case study,0.97,Industry Directory
+C00590,T05,2022,Technology directory,0.71,Public Case Study
+C00591,T05,12c,Technical page,0.76,Company Website
+C00592,T05,2022,Technical page,0.9,Public Case Study
+C00593,T05,2019,Job posting,0.73,Public Case Study
+C00594,T06,2022,Technical page,0.74,Technology Directory
+C00595,T02,2019,Job posting,0.99,Public Case Study
+C00596,T01,16,Public case study,0.82,Industry Directory
+C00597,T01,2022,Technology directory,0.87,Technology Directory
+C00598,T02,8.x,Public case study,0.85,Public Case Study
+C00599,T01,11g,Technical page,0.92,Technology Directory
+C00600,T01,19c,Public case study,0.94,Job Posting
+C00601,T06,12c,Technology directory,0.82,Industry Directory
+C00602,T01,11g,Technical page,0.71,Technology Directory
+C00603,T06,19c,Technical page,0.61,Public Case Study
+C00604,T04,12c,Public case study,0.84,Public Case Study
+C00605,T03,11g,Job posting,0.92,Public Case Study
+C00606,T04,19c,Technology directory,0.78,Public Case Study
+C00607,T02,2019,Technical page,0.66,Public Case Study
+C00608,T03,12c,Technical page,0.71,Technology Directory
+C00609,T01,19c,Public case study,0.8,Public Case Study
+C00610,T06,11g,Job posting,0.93,Technology Directory
+C00611,T02,11g,Job posting,0.67,Job Posting
+C00612,T01,12c,Job posting,0.84,Public Case Study
+C00613,T04,2019,Technical page,0.89,Industry Directory
+C00614,T03,2022,Public case study,0.97,Public Case Study
+C00615,T02,16,Job posting,0.65,Public Case Study
+C00616,T03,2022,Technical page,0.96,Industry Directory
+C00617,T01,2022,Technology directory,0.83,Job Posting
+C00618,T04,HANA 2.0,Technology directory,0.9,Company Website
+C00619,T01,19c,Job posting,0.62,Job Posting
+C00620,T01,16,Public case study,0.8,Public Case Study
+C00621,T01,HANA 2.0,Job posting,0.84,Industry Directory
+C00622,T02,2022,Public case study,0.72,Technology Directory
+C00623,T02,16,Technology directory,0.77,Public Case Study
+C00624,T02,12c,Technology directory,0.82,Company Website
+C00625,T01,16,Job posting,0.82,Public Case Study
+C00626,T01,2022,Technical page,0.62,Public Case Study
+C00627,T03,12c,Technology directory,0.77,Technology Directory
+C00628,T01,11g,Technology directory,0.68,Public Case Study
+C00629,T04,15,Technical page,0.96,Technology Directory
+C00630,T06,8.x,Job posting,0.98,Technology Directory
+C00631,T02,19c,Technical page,0.72,Public Case Study
+C00632,T05,8.x,Public case study,0.67,Public Case Study
+C00633,T01,HANA 2.0,Technical page,0.69,Job Posting
+C00634,T01,8.x,Technology directory,0.79,Job Posting
+C00635,T04,11g,Technology directory,0.94,Technology Directory
+C00636,T04,19c,Technology directory,0.8,Job Posting
+C00637,T05,12c,Job posting,0.62,Job Posting
+C00638,T01,15,Technology directory,0.62,Job Posting
+C00639,T04,16,Technology directory,0.69,Job Posting
+C00640,T02,16,Technical page,0.93,Technology Directory
+C00641,T02,2022,Public case study,0.84,Technology Directory
+C00642,T01,15,Technology directory,0.82,Public Case Study
+C00643,T06,8.x,Technology directory,0.72,Job Posting
+C00644,T01,2022,Public case study,0.96,Industry Directory
+C00645,T05,11g,Job posting,0.73,Technology Directory
+C00646,T03,2019,Public case study,0.93,Public Case Study
+C00647,T04,2022,Public case study,0.95,Company Website
+C00648,T04,11g,Job posting,0.79,Company Website
+C00649,T05,2019,Technology directory,0.95,Technology Directory
+C00650,T01,15,Job posting,0.71,Job Posting
+C00651,T01,8.x,Technology directory,0.86,Technology Directory
+C00652,T03,2019,Public case study,0.63,Company Website
+C00653,T02,19c,Technical page,0.78,Technology Directory
+C00654,T01,19c,Job posting,0.68,Public Case Study
+C00655,T01,12c,Job posting,0.62,Public Case Study
+C00656,T02,19c,Public case study,0.6,Job Posting
+C00657,T01,16,Technical page,0.73,Job Posting
+C00658,T01,HANA 2.0,Technology directory,0.83,Technology Directory
+C00659,T05,2022,Job posting,0.78,Technology Directory
+C00660,T02,2022,Technology directory,0.72,Public Case Study
+C00661,T06,2022,Technology directory,0.99,Job Posting
+C00662,T06,2019,Job posting,0.97,Public Case Study
+C00663,T01,8.x,Public case study,0.65,Industry Directory
+C00664,T04,2022,Technology directory,0.76,Job Posting
+C00665,T03,16,Technical page,0.85,Industry Directory
+C00666,T04,8.x,Job posting,0.89,Job Posting
+C00667,T01,2022,Technology directory,0.74,Job Posting
+C00668,T01,2019,Technical page,0.89,Public Case Study
+C00669,T01,19c,Job posting,0.65,Public Case Study
+C00670,T03,19c,Technology directory,0.73,Technology Directory
+C00671,T06,11g,Public case study,0.88,Job Posting
+C00672,T04,8.x,Job posting,0.84,Company Website
+C00673,T04,15,Technical page,0.93,Industry Directory
+C00674,T06,15,Job posting,0.62,Industry Directory
+C00675,T04,HANA 2.0,Technology directory,0.67,Industry Directory
+C00676,T01,11g,Job posting,0.62,Technology Directory
+C00677,T05,15,Technology directory,0.67,Industry Directory
+C00678,T02,16,Public case study,0.6,Technology Directory
+C00679,T01,8.x,Public case study,0.8,Company Website
+C00680,T03,19c,Technology directory,0.81,Company Website
+C00681,T06,8.x,Technology directory,0.86,Job Posting
+C00682,T01,15,Job posting,0.75,Job Posting
+C00683,T03,16,Job posting,0.6,Industry Directory
+C00684,T01,2022,Job posting,0.86,Job Posting
+C00685,T01,2019,Public case study,0.62,Public Case Study
+C00686,T01,2022,Public case study,0.94,Job Posting
+C00687,T04,11g,Job posting,0.61,Public Case Study
+C00688,T05,2022,Job posting,0.81,Technology Directory
+C00689,T01,11g,Public case study,0.95,Company Website
+C00690,T01,HANA 2.0,Public case study,0.82,Technology Directory
+C00691,T01,HANA 2.0,Technical page,0.84,Company Website
+C00692,T01,2019,Technology directory,0.87,Industry Directory
+C00693,T03,8.x,Technology directory,0.65,Public Case Study
+C00694,T04,15,Technology directory,0.86,Industry Directory
+C00695,T03,2022,Technical page,0.94,Industry Directory
+C00696,T02,15,Technology directory,0.98,Job Posting
+C00697,T03,2019,Public case study,0.77,Public Case Study
+C00698,T01,19c,Public case study,0.73,Company Website
+C00699,T01,11g,Technical page,0.89,Industry Directory
+C00700,T06,19c,Technology directory,0.81,Public Case Study
+C00701,T04,2019,Public case study,0.7,Public Case Study
+C00702,T06,8.x,Job posting,0.67,Industry Directory
+C00703,T05,2019,Technology directory,0.67,Industry Directory
+C00704,T03,19c,Job posting,0.78,Industry Directory
+C00705,T06,HANA 2.0,Public case study,0.67,Company Website
+C00706,T02,8.x,Public case study,0.61,Company Website
+C00707,T01,16,Public case study,0.62,Industry Directory
+C00708,T01,8.x,Job posting,0.96,Job Posting
+C00709,T01,8.x,Technical page,0.63,Technology Directory
+C00710,T01,2022,Technology directory,0.63,Company Website
+C00711,T02,19c,Job posting,0.78,Public Case Study
+C00712,T04,12c,Public case study,0.7,Industry Directory
+C00713,T04,8.x,Technology directory,0.98,Industry Directory
+C00714,T03,16,Technology directory,0.96,Technology Directory
+C00715,T01,12c,Public case study,0.76,Public Case Study
+C00716,T04,8.x,Technical page,0.78,Technology Directory
+C00717,T02,15,Public case study,0.75,Technology Directory
+C00718,T01,15,Technical page,0.61,Technology Directory
+C00719,T01,8.x,Public case study,0.71,Industry Directory
+C00720,T02,11g,Public case study,0.65,Job Posting
+C00721,T01,11g,Public case study,0.64,Technology Directory
+C00722,T05,2019,Job posting,0.82,Public Case Study
+C00723,T04,16,Technology directory,0.64,Technology Directory
+C00724,T04,11g,Public case study,0.64,Company Website
+C00725,T01,16,Technology directory,0.79,Job Posting
+C00726,T05,15,Public case study,0.77,Public Case Study
+C00727,T04,11g,Technology directory,0.65,Public Case Study
+C00728,T01,8.x,Technology directory,0.6,Public Case Study
+C00729,T03,12c,Technology directory,0.68,Industry Directory
+C00730,T03,HANA 2.0,Public case study,0.69,Public Case Study
+C00731,T02,2019,Public case study,0.91,Technology Directory
+C00732,T01,19c,Job posting,0.96,Job Posting
+C00733,T03,19c,Technical page,0.76,Job Posting
+C00734,T01,2022,Technical page,0.76,Industry Directory
+C00735,T01,11g,Technology directory,0.88,Technology Directory
+C00736,T01,19c,Public case study,0.84,Public Case Study
+C00737,T06,12c,Technical page,0.67,Company Website
+C00738,T01,2022,Job posting,0.64,Company Website
+C00739,T02,15,Public case study,0.77,Job Posting
+C00740,T02,2019,Technical page,0.82,Company Website
+C00741,T05,12c,Job posting,0.65,Public Case Study
+C00742,T03,8.x,Technical page,0.71,Public Case Study
+C00743,T05,16,Technology directory,0.72,Technology Directory
+C00744,T01,12c,Job posting,0.7,Job Posting
+C00745,T01,12c,Technical page,0.78,Technology Directory
+C00746,T03,12c,Public case study,0.85,Company Website
+C00747,T02,16,Job posting,0.8,Technology Directory
+C00748,T05,12c,Job posting,0.68,Company Website
+C00749,T05,2022,Technology directory,0.64,Company Website
+C00750,T02,HANA 2.0,Public case study,0.92,Company Website
+C00751,T06,2022,Job posting,0.79,Company Website
+C00752,T03,8.x,Job posting,0.62,Technology Directory
+C00753,T01,12c,Technical page,0.7,Technology Directory
+C00754,T03,11g,Public case study,0.91,Public Case Study
+C00755,T01,12c,Public case study,0.89,Technology Directory
+C00756,T05,HANA 2.0,Job posting,0.94,Company Website
+C00757,T01,12c,Public case study,0.83,Company Website
+C00758,T02,11g,Technology directory,0.76,Public Case Study
+C00759,T03,16,Job posting,0.77,Industry Directory
+C00760,T01,8.x,Job posting,0.68,Job Posting
+C00761,T01,8.x,Technology directory,0.85,Job Posting
+C00762,T04,15,Public case study,0.83,Job Posting
+C00763,T01,2019,Technology directory,0.66,Job Posting
+C00764,T02,HANA 2.0,Technical page,0.95,Job Posting
+C00765,T02,2019,Technical page,0.74,Technology Directory
+C00766,T01,15,Job posting,0.62,Public Case Study
+C00767,T01,16,Job posting,0.73,Public Case Study
+C00768,T04,2019,Technical page,0.94,Industry Directory
+C00769,T06,19c,Job posting,0.96,Job Posting
+C00770,T01,HANA 2.0,Technology directory,0.79,Technology Directory
+C00771,T06,19c,Public case study,0.97,Job Posting
+C00772,T03,11g,Technology directory,0.94,Company Website
+C00773,T03,2022,Public case study,0.92,Job Posting
+C00774,T04,HANA 2.0,Technical page,0.94,Job Posting
+C00775,T04,11g,Public case study,0.75,Technology Directory
+C00776,T05,16,Job posting,0.9,Company Website
+C00777,T03,16,Technology directory,0.83,Public Case Study
+C00778,T03,HANA 2.0,Public case study,0.88,Industry Directory
+C00779,T02,8.x,Job posting,0.67,Industry Directory
+C00780,T01,19c,Public case study,0.89,Company Website
+C00781,T04,2019,Public case study,0.97,Company Website
+C00782,T01,12c,Job posting,0.72,Industry Directory
+C00783,T01,16,Job posting,0.98,Industry Directory
+C00784,T01,2022,Technology directory,0.75,Technology Directory
+C00785,T01,2019,Technical page,0.68,Job Posting
+C00786,T03,2019,Public case study,0.64,Technology Directory
+C00787,T03,15,Job posting,0.91,Technology Directory
+C00788,T02,2019,Public case study,0.82,Industry Directory
+C00789,T01,16,Job posting,0.72,Technology Directory
+C00790,T02,HANA 2.0,Technical page,0.84,Company Website
+C00791,T02,HANA 2.0,Public case study,0.73,Public Case Study
+C00792,T04,2022,Technical page,0.77,Public Case Study
+C00793,T03,15,Public case study,0.94,Job Posting
+C00794,T03,19c,Job posting,0.86,Company Website
+C00795,T03,11g,Technical page,0.9,Company Website
+C00796,T06,8.x,Technology directory,0.83,Industry Directory
+C00797,T04,16,Technical page,0.99,Technology Directory
+C00798,T03,12c,Job posting,0.69,Technology Directory
+C00799,T02,2019,Technology directory,0.7,Industry Directory
+C00800,T01,12c,Technology directory,0.64,Company Website
+C00801,T06,8.x,Public case study,0.82,Job Posting
+C00802,T02,12c,Technology directory,0.84,Industry Directory
+C00803,T01,15,Technology directory,0.88,Technology Directory
+C00804,T06,16,Public case study,0.73,Company Website
+C00805,T04,15,Public case study,0.6,Public Case Study
+C00806,T01,15,Job posting,0.85,Company Website
+C00807,T01,19c,Public case study,0.99,Public Case Study
+C00808,T01,2019,Technical page,0.71,Public Case Study
+C00809,T03,11g,Technology directory,0.67,Industry Directory
+C00810,T01,8.x,Technical page,0.71,Technology Directory
+C00811,T06,2019,Technology directory,0.77,Job Posting
+C00812,T06,15,Public case study,0.7,Industry Directory
+C00813,T03,11g,Public case study,0.74,Technology Directory
+C00814,T03,16,Technology directory,0.85,Public Case Study
+C00815,T01,2019,Technical page,0.73,Company Website
+C00816,T01,16,Technical page,0.75,Public Case Study
+C00817,T04,2019,Technical page,0.62,Technology Directory
+C00818,T01,2019,Technology directory,0.96,Job Posting
+C00819,T01,15,Technology directory,0.76,Public Case Study
+C00820,T02,16,Job posting,0.73,Company Website
+C00821,T01,12c,Technical page,0.63,Public Case Study
+C00822,T02,2019,Technical page,0.85,Industry Directory
+C00823,T04,11g,Public case study,0.94,Technology Directory
+C00824,T05,2019,Job posting,0.62,Company Website
+C00825,T03,16,Public case study,0.66,Technology Directory
+C00826,T05,16,Public case study,0.66,Technology Directory
+C00827,T02,19c,Job posting,0.83,Technology Directory
+C00828,T05,8.x,Job posting,0.96,Job Posting
+C00829,T03,2019,Public case study,0.77,Public Case Study
+C00830,T01,8.x,Technical page,0.73,Job Posting
+C00831,T06,12c,Technology directory,0.9,Technology Directory
+C00832,T01,19c,Technology directory,0.89,Technology Directory
+C00833,T01,8.x,Technology directory,0.7,Public Case Study
+C00834,T01,2019,Public case study,0.66,Public Case Study
+C00835,T02,HANA 2.0,Technology directory,0.74,Industry Directory
+C00836,T02,2019,Job posting,0.9,Public Case Study
+C00837,T03,8.x,Technical page,0.87,Public Case Study
+C00838,T05,2022,Job posting,0.86,Industry Directory
+C00839,T01,15,Public case study,0.92,Job Posting
+C00840,T03,8.x,Public case study,0.71,Job Posting
+C00841,T02,2019,Technical page,0.73,Technology Directory
+C00842,T05,12c,Technical page,0.62,Technology Directory
+C00843,T01,16,Public case study,0.94,Public Case Study
+C00844,T01,16,Job posting,0.83,Company Website
+C00845,T03,12c,Public case study,0.72,Company Website
+C00846,T04,8.x,Public case study,0.63,Public Case Study
+C00847,T04,19c,Job posting,0.88,Industry Directory
+C00848,T03,HANA 2.0,Job posting,0.89,Job Posting
+C00849,T04,11g,Technical page,0.86,Job Posting
+C00850,T02,12c,Public case study,0.68,Technology Directory
+C00851,T01,19c,Technical page,0.96,Technology Directory
+C00852,T01,2022,Technical page,0.89,Company Website
+C00853,T01,19c,Public case study,0.86,Technology Directory
+C00854,T02,2019,Job posting,0.85,Industry Directory
+C00855,T03,15,Public case study,0.95,Public Case Study
+C00856,T02,16,Job posting,0.96,Industry Directory
+C00857,T03,11g,Job posting,0.83,Public Case Study
+C00858,T03,12c,Job posting,0.76,Industry Directory
+C00859,T04,11g,Technical page,0.74,Job Posting
+C00860,T04,HANA 2.0,Job posting,0.92,Company Website
+C00861,T02,2022,Technology directory,0.85,Company Website
+C00862,T02,2019,Technical page,0.63,Industry Directory
+C00863,T03,16,Technology directory,0.66,Public Case Study
+C00864,T03,2022,Technology directory,0.95,Job Posting
+C00865,T02,19c,Technology directory,0.94,Industry Directory
+C00866,T02,2019,Technology directory,0.97,Job Posting
+C00867,T04,15,Job posting,0.77,Technology Directory
+C00868,T03,11g,Technical page,0.91,Job Posting
+C00869,T01,2022,Public case study,0.92,Company Website
+C00870,T02,2019,Public case study,0.72,Job Posting
+C00871,T05,11g,Job posting,0.66,Job Posting
+C00872,T01,19c,Public case study,0.99,Technology Directory
+C00873,T05,2019,Technology directory,0.61,Company Website
+C00874,T01,8.x,Technology directory,0.83,Job Posting
+C00875,T03,19c,Technical page,0.85,Technology Directory
+C00876,T02,2022,Job posting,0.87,Job Posting
+C00877,T01,8.x,Technical page,0.7,Public Case Study
+C00878,T05,2019,Technical page,0.88,Public Case Study
+C00879,T02,16,Technical page,0.68,Industry Directory
+C00880,T06,11g,Technical page,0.92,Industry Directory
+C00881,T01,8.x,Technical page,0.69,Job Posting
+C00882,T05,11g,Job posting,0.87,Public Case Study
+C00883,T06,HANA 2.0,Technical page,0.91,Public Case Study
+C00884,T03,12c,Technical page,0.67,Technology Directory
+C00885,T01,16,Job posting,0.69,Public Case Study
+C00886,T04,12c,Technology directory,0.9,Company Website
+C00887,T03,19c,Public case study,0.63,Job Posting
+C00888,T06,2022,Technology directory,0.67,Industry Directory
+C00889,T02,16,Public case study,0.78,Industry Directory
+C00890,T01,12c,Job posting,0.96,Company Website
+C00891,T01,12c,Technology directory,0.82,Technology Directory
+C00892,T04,16,Technical page,0.75,Job Posting
+C00893,T06,19c,Public case study,0.98,Company Website
+C00894,T01,12c,Technical page,0.78,Company Website
+C00895,T04,15,Technical page,0.77,Technology Directory
+C00896,T06,11g,Technical page,0.76,Public Case Study
+C00897,T01,16,Technical page,0.72,Technology Directory
+C00898,T01,16,Public case study,0.73,Job Posting
+C00899,T04,16,Public case study,0.87,Public Case Study
+C00900,T03,19c,Job posting,0.62,Public Case Study
+C00901,T01,12c,Job posting,0.87,Industry Directory
+C00902,T05,8.x,Technology directory,0.68,Job Posting
+C00903,T03,8.x,Public case study,0.75,Job Posting
+C00904,T05,HANA 2.0,Technology directory,0.66,Technology Directory
+C00905,T05,2022,Public case study,0.82,Technology Directory
+C00906,T05,HANA 2.0,Public case study,0.88,Technology Directory
+C00907,T03,15,Technology directory,0.74,Industry Directory
+C00908,T01,15,Public case study,0.66,Company Website
+C00909,T03,12c,Technical page,0.69,Technology Directory
+C00910,T01,11g,Public case study,0.92,Technology Directory
+C00911,T03,11g,Job posting,0.7,Job Posting
+C00912,T01,2022,Technical page,0.9,Public Case Study
+C00913,T03,12c,Public case study,0.73,Industry Directory
+C00914,T01,HANA 2.0,Job posting,0.67,Technology Directory
+C00915,T01,12c,Public case study,0.88,Company Website
+C00916,T01,HANA 2.0,Public case study,0.78,Company Website
+C00917,T03,15,Technical page,0.61,Technology Directory
+C00918,T04,11g,Job posting,0.97,Public Case Study
+C00919,T01,11g,Public case study,0.66,Job Posting
+C00920,T05,8.x,Technology directory,0.74,Job Posting
+C00921,T05,8.x,Public case study,0.75,Industry Directory
+C00922,T02,19c,Technical page,0.79,Company Website
+C00923,T03,2019,Public case study,0.91,Company Website
+C00924,T02,12c,Technical page,0.6,Company Website
+C00925,T01,12c,Technical page,0.96,Industry Directory
+C00926,T03,15,Technical page,0.85,Technology Directory
+C00927,T01,HANA 2.0,Job posting,0.97,Company Website
+C00928,T05,19c,Technology directory,0.92,Job Posting
+C00929,T06,HANA 2.0,Public case study,0.96,Industry Directory
+C00930,T05,8.x,Job posting,0.83,Public Case Study
+C00931,T03,8.x,Technology directory,0.74,Job Posting
+C00932,T03,11g,Job posting,0.77,Job Posting
+C00933,T06,8.x,Public case study,0.86,Company Website
+C00934,T01,2019,Job posting,0.77,Public Case Study
+C00935,T01,2022,Technical page,0.89,Company Website
+C00936,T03,12c,Public case study,0.64,Job Posting
+C00937,T02,12c,Technology directory,0.92,Job Posting
+C00938,T02,8.x,Technology directory,0.68,Public Case Study
+C00939,T01,11g,Technology directory,0.97,Public Case Study
+C00940,T03,12c,Job posting,0.66,Public Case Study
+C00941,T01,2022,Job posting,0.65,Job Posting
+C00942,T01,HANA 2.0,Technology directory,0.92,Job Posting
+C00943,T01,2022,Technology directory,0.92,Job Posting
+C00944,T02,12c,Technical page,0.89,Company Website
+C00945,T05,HANA 2.0,Job posting,0.97,Public Case Study
+C00946,T02,2019,Public case study,0.71,Technology Directory
+C00947,T04,15,Job posting,0.92,Technology Directory
+C00948,T04,12c,Job posting,0.74,Industry Directory
+C00949,T02,2022,Technology directory,0.81,Company Website
+C00950,T05,11g,Technical page,0.77,Industry Directory
+C00951,T04,2022,Job posting,0.6,Public Case Study
+C00952,T03,12c,Public case study,0.82,Job Posting
+C00953,T01,HANA 2.0,Technical page,0.89,Public Case Study
+C00954,T01,11g,Public case study,0.67,Public Case Study
+C00955,T06,2022,Technology directory,0.96,Job Posting
+C00956,T04,12c,Job posting,0.81,Job Posting
+C00957,T06,15,Public case study,0.67,Industry Directory
+C00958,T05,2019,Technology directory,0.85,Company Website
+C00959,T01,HANA 2.0,Technical page,0.67,Company Website
+C00960,T04,2022,Technology directory,0.62,Public Case Study
+C00961,T02,8.x,Technical page,0.87,Industry Directory
+C00962,T04,11g,Technical page,0.64,Technology Directory
+C00963,T01,2022,Technology directory,0.64,Company Website
+C00964,T01,8.x,Public case study,0.89,Technology Directory
+C00965,T04,11g,Technology directory,0.62,Job Posting
+C00966,T04,2022,Technology directory,0.92,Industry Directory
+C00967,T03,12c,Public case study,0.91,Public Case Study
+C00968,T02,19c,Job posting,0.66,Job Posting
+C00969,T02,11g,Technical page,0.8,Public Case Study
+C00970,T06,8.x,Technology directory,0.64,Public Case Study
+C00971,T02,12c,Public case study,0.85,Public Case Study
+C00972,T02,11g,Technical page,0.62,Job Posting
+C00973,T03,8.x,Technical page,0.97,Technology Directory
+C00974,T02,12c,Technology directory,0.68,Company Website
+C00975,T03,12c,Job posting,0.87,Technology Directory
+C00976,T02,2019,Job posting,0.65,Job Posting
+C00977,T05,11g,Technology directory,0.68,Technology Directory
+C00978,T05,HANA 2.0,Technical page,0.78,Industry Directory
+C00979,T06,2019,Technology directory,0.82,Industry Directory
+C00980,T03,HANA 2.0,Public case study,0.99,Technology Directory
+C00981,T02,16,Technology directory,0.61,Public Case Study
+C00982,T04,HANA 2.0,Public case study,0.6,Company Website
+C00983,T05,2019,Technology directory,0.74,Technology Directory
+C00984,T03,8.x,Technology directory,0.74,Public Case Study
+C00985,T04,15,Job posting,0.94,Public Case Study
+C00986,T04,11g,Technology directory,0.96,Industry Directory
+C00987,T04,16,Public case study,0.94,Technology Directory
+C00988,T04,19c,Job posting,0.66,Industry Directory
+C00989,T01,11g,Job posting,0.76,Industry Directory
+C00990,T03,19c,Technical page,0.89,Technology Directory
+C00991,T03,19c,Job posting,0.72,Company Website
+C00992,T01,11g,Technical page,0.86,Job Posting
+C00993,T05,15,Technology directory,0.69,Public Case Study
+C00994,T03,11g,Technical page,0.73,Technology Directory
+C00995,T01,16,Job posting,0.94,Industry Directory
+C00996,T05,2019,Technical page,0.7,Industry Directory
+C00997,T04,15,Job posting,0.98,Company Website
+C00998,T04,8.x,Technology directory,0.72,Industry Directory
+C00999,T02,12c,Job posting,0.61,Job Posting
+C01000,T05,12c,Technology directory,0.7,Industry Directory

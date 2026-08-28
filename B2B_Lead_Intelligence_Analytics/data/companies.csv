@@ -1,0 +1,1001 @@
+company_id,company_name,website,country,industry,company_size,employee_count,revenue_range
+C00001,B Solutions 0001,https://example-company-0001.com,USA,Logistics,Small,6383,> $1B
+C00002,C Industries 0002,https://example-company-0002.com,India,Telecom,Medium,16862,> $1B
+C00003,D Systems 0003,https://example-company-0003.com,Singapore,Manufacturing,Small,753,$50M-$250M
+C00004,E Group 0004,https://example-company-0004.com,Canada,Education,Medium,8955,> $1B
+C00005,F Technologies 0005,https://example-company-0005.com,Canada,Insurance,Large,16029,> $1B
+C00006,G Solutions 0006,https://example-company-0006.com,Netherlands,Education,Medium,19061,> $1B
+C00007,H Industries 0007,https://example-company-0007.com,USA,Logistics,Enterprise,5065,> $1B
+C00008,I Systems 0008,https://example-company-0008.com,Singapore,Manufacturing,Medium,13033,> $1B
+C00009,J Group 0009,https://example-company-0009.com,UAE,Telecom,Large,3834,$250M-$1B
+C00010,K Technologies 0010,https://example-company-0010.com,USA,Manufacturing,Medium,2362,$250M-$1B
+C00011,L Solutions 0011,https://example-company-0011.com,Australia,Retail,Large,7092,> $1B
+C00012,M Industries 0012,https://example-company-0012.com,Saudi Arabia,Logistics,Large,17707,> $1B
+C00013,N Systems 0013,https://example-company-0013.com,India,Insurance,Medium,13805,> $1B
+C00014,O Group 0014,https://example-company-0014.com,India,Retail,Enterprise,9810,> $1B
+C00015,P Technologies 0015,https://example-company-0015.com,India,Manufacturing,Medium,5692,> $1B
+C00016,Q Solutions 0016,https://example-company-0016.com,India,Logistics,Medium,2875,$250M-$1B
+C00017,R Industries 0017,https://example-company-0017.com,Australia,Healthcare,Large,5451,> $1B
+C00018,S Systems 0018,https://example-company-0018.com,UK,Healthcare,Large,3096,$250M-$1B
+C00019,T Group 0019,https://example-company-0019.com,Netherlands,Banking,Small,3782,$250M-$1B
+C00020,U Technologies 0020,https://example-company-0020.com,Canada,Banking,Medium,13766,> $1B
+C00021,V Solutions 0021,https://example-company-0021.com,Australia,Banking,Enterprise,2697,$250M-$1B
+C00022,W Industries 0022,https://example-company-0022.com,Germany,Banking,Large,995,$50M-$250M
+C00023,X Systems 0023,https://example-company-0023.com,UK,Logistics,Enterprise,10869,> $1B
+C00024,Y Group 0024,https://example-company-0024.com,Saudi Arabia,Logistics,Large,5767,> $1B
+C00025,Z Technologies 0025,https://example-company-0025.com,India,Logistics,Large,9121,> $1B
+C00026,A Solutions 0026,https://example-company-0026.com,Singapore,Banking,Medium,2838,$250M-$1B
+C00027,B Industries 0027,https://example-company-0027.com,Canada,Banking,Enterprise,4239,$250M-$1B
+C00028,C Systems 0028,https://example-company-0028.com,Netherlands,Retail,Medium,8849,> $1B
+C00029,D Group 0029,https://example-company-0029.com,Australia,Manufacturing,Large,13815,> $1B
+C00030,E Technologies 0030,https://example-company-0030.com,Canada,Retail,Medium,8316,> $1B
+C00031,F Solutions 0031,https://example-company-0031.com,Canada,Healthcare,Large,10857,> $1B
+C00032,G Industries 0032,https://example-company-0032.com,UAE,Insurance,Large,10461,> $1B
+C00033,H Systems 0033,https://example-company-0033.com,USA,Telecom,Large,5413,> $1B
+C00034,I Group 0034,https://example-company-0034.com,Australia,Retail,Enterprise,5628,> $1B
+C00035,J Technologies 0035,https://example-company-0035.com,Netherlands,Banking,Medium,8543,> $1B
+C00036,K Solutions 0036,https://example-company-0036.com,USA,Telecom,Large,689,$50M-$250M
+C00037,L Industries 0037,https://example-company-0037.com,Netherlands,Education,Medium,13723,> $1B
+C00038,M Systems 0038,https://example-company-0038.com,Netherlands,Banking,Medium,12307,> $1B
+C00039,N Group 0039,https://example-company-0039.com,UAE,Healthcare,Medium,6157,> $1B
+C00040,O Technologies 0040,https://example-company-0040.com,Singapore,Logistics,Small,7505,> $1B
+C00041,P Solutions 0041,https://example-company-0041.com,UK,Telecom,Small,6607,> $1B
+C00042,Q Industries 0042,https://example-company-0042.com,India,Logistics,Large,13044,> $1B
+C00043,R Systems 0043,https://example-company-0043.com,India,Healthcare,Large,15206,> $1B
+C00044,S Group 0044,https://example-company-0044.com,Germany,Retail,Large,2217,$250M-$1B
+C00045,T Technologies 0045,https://example-company-0045.com,USA,Telecom,Small,8295,> $1B
+C00046,U Solutions 0046,https://example-company-0046.com,Saudi Arabia,Insurance,Medium,324,$50M-$250M
+C00047,V Industries 0047,https://example-company-0047.com,Canada,Insurance,Medium,9072,> $1B
+C00048,W Systems 0048,https://example-company-0048.com,Netherlands,Manufacturing,Large,5003,> $1B
+C00049,X Group 0049,https://example-company-0049.com,Singapore,Telecom,Enterprise,6749,> $1B
+C00050,Y Technologies 0050,https://example-company-0050.com,India,Banking,Medium,9158,> $1B
+C00051,Z Solutions 0051,https://example-company-0051.com,India,Manufacturing,Large,6508,> $1B
+C00052,A Industries 0052,https://example-company-0052.com,UK,Retail,Small,7911,> $1B
+C00053,B Systems 0053,https://example-company-0053.com,Germany,Manufacturing,Medium,15307,> $1B
+C00054,C Group 0054,https://example-company-0054.com,Canada,Education,Small,16215,> $1B
+C00055,D Technologies 0055,https://example-company-0055.com,Canada,Banking,Medium,166,< $50M
+C00056,E Solutions 0056,https://example-company-0056.com,USA,Education,Large,7587,> $1B
+C00057,F Industries 0057,https://example-company-0057.com,Australia,Healthcare,Enterprise,16945,> $1B
+C00058,G Systems 0058,https://example-company-0058.com,UK,Logistics,Medium,10632,> $1B
+C00059,H Group 0059,https://example-company-0059.com,India,Healthcare,Large,4145,$250M-$1B
+C00060,I Technologies 0060,https://example-company-0060.com,Singapore,Retail,Large,11890,> $1B
+C00061,J Solutions 0061,https://example-company-0061.com,Saudi Arabia,Logistics,Enterprise,2941,$250M-$1B
+C00062,K Industries 0062,https://example-company-0062.com,India,Telecom,Large,485,$50M-$250M
+C00063,L Systems 0063,https://example-company-0063.com,Germany,Insurance,Medium,12666,> $1B
+C00064,M Group 0064,https://example-company-0064.com,Saudi Arabia,Telecom,Large,10326,> $1B
+C00065,N Technologies 0065,https://example-company-0065.com,Canada,Logistics,Medium,15142,> $1B
+C00066,O Solutions 0066,https://example-company-0066.com,Germany,Healthcare,Enterprise,6929,> $1B
+C00067,P Industries 0067,https://example-company-0067.com,Saudi Arabia,Education,Medium,17092,> $1B
+C00068,Q Systems 0068,https://example-company-0068.com,Germany,Telecom,Large,8454,> $1B
+C00069,R Group 0069,https://example-company-0069.com,USA,Retail,Small,14773,> $1B
+C00070,S Technologies 0070,https://example-company-0070.com,Canada,Banking,Medium,2050,$250M-$1B
+C00071,T Solutions 0071,https://example-company-0071.com,India,Telecom,Enterprise,1988,$250M-$1B
+C00072,U Industries 0072,https://example-company-0072.com,UK,Insurance,Large,15667,> $1B
+C00073,V Systems 0073,https://example-company-0073.com,Canada,Logistics,Medium,16688,> $1B
+C00074,W Group 0074,https://example-company-0074.com,UK,Manufacturing,Enterprise,18850,> $1B
+C00075,X Technologies 0075,https://example-company-0075.com,Singapore,Healthcare,Enterprise,6526,> $1B
+C00076,Y Solutions 0076,https://example-company-0076.com,Canada,Insurance,Medium,494,$50M-$250M
+C00077,Z Industries 0077,https://example-company-0077.com,Germany,Telecom,Large,19599,> $1B
+C00078,A Systems 0078,https://example-company-0078.com,UAE,Insurance,Medium,12047,> $1B
+C00079,B Group 0079,https://example-company-0079.com,Australia,Healthcare,Large,4980,$250M-$1B
+C00080,C Technologies 0080,https://example-company-0080.com,Singapore,Logistics,Medium,15288,> $1B
+C00081,D Solutions 0081,https://example-company-0081.com,Saudi Arabia,Education,Medium,18082,> $1B
+C00082,E Industries 0082,https://example-company-0082.com,Canada,Education,Enterprise,5731,> $1B
+C00083,F Systems 0083,https://example-company-0083.com,UK,Education,Enterprise,15404,> $1B
+C00084,G Group 0084,https://example-company-0084.com,Netherlands,Manufacturing,Large,15761,> $1B
+C00085,H Technologies 0085,https://example-company-0085.com,Singapore,Insurance,Enterprise,10058,> $1B
+C00086,I Solutions 0086,https://example-company-0086.com,India,Logistics,Large,12665,> $1B
+C00087,J Industries 0087,https://example-company-0087.com,USA,Logistics,Large,5426,> $1B
+C00088,K Systems 0088,https://example-company-0088.com,Germany,Education,Large,18586,> $1B
+C00089,L Group 0089,https://example-company-0089.com,India,Telecom,Medium,19662,> $1B
+C00090,M Technologies 0090,https://example-company-0090.com,Netherlands,Insurance,Medium,19621,> $1B
+C00091,N Solutions 0091,https://example-company-0091.com,Canada,Manufacturing,Medium,14755,> $1B
+C00092,O Industries 0092,https://example-company-0092.com,Netherlands,Healthcare,Large,894,$50M-$250M
+C00093,P Systems 0093,https://example-company-0093.com,Netherlands,Logistics,Medium,7360,> $1B
+C00094,Q Group 0094,https://example-company-0094.com,Germany,Healthcare,Medium,8926,> $1B
+C00095,R Technologies 0095,https://example-company-0095.com,Netherlands,Retail,Large,19198,> $1B
+C00096,S Solutions 0096,https://example-company-0096.com,UAE,Banking,Medium,10962,> $1B
+C00097,T Industries 0097,https://example-company-0097.com,UAE,Logistics,Medium,10746,> $1B
+C00098,U Systems 0098,https://example-company-0098.com,Singapore,Logistics,Large,2977,$250M-$1B
+C00099,V Group 0099,https://example-company-0099.com,Singapore,Banking,Enterprise,15884,> $1B
+C00100,W Technologies 0100,https://example-company-0100.com,UK,Healthcare,Medium,6758,> $1B
+C00101,X Solutions 0101,https://example-company-0101.com,Netherlands,Healthcare,Small,1882,$250M-$1B
+C00102,Y Industries 0102,https://example-company-0102.com,UK,Healthcare,Medium,19753,> $1B
+C00103,Z Systems 0103,https://example-company-0103.com,Netherlands,Education,Large,3841,$250M-$1B
+C00104,A Group 0104,https://example-company-0104.com,USA,Insurance,Large,373,$50M-$250M
+C00105,B Technologies 0105,https://example-company-0105.com,India,Retail,Small,1602,$250M-$1B
+C00106,C Solutions 0106,https://example-company-0106.com,India,Insurance,Large,9077,> $1B
+C00107,D Industries 0107,https://example-company-0107.com,India,Insurance,Small,2102,$250M-$1B
+C00108,E Systems 0108,https://example-company-0108.com,Singapore,Education,Medium,16860,> $1B
+C00109,F Group 0109,https://example-company-0109.com,Canada,Education,Enterprise,10273,> $1B
+C00110,G Technologies 0110,https://example-company-0110.com,India,Banking,Medium,6511,> $1B
+C00111,H Solutions 0111,https://example-company-0111.com,UAE,Telecom,Medium,112,< $50M
+C00112,I Industries 0112,https://example-company-0112.com,India,Insurance,Medium,9621,> $1B
+C00113,J Systems 0113,https://example-company-0113.com,Australia,Insurance,Large,3068,$250M-$1B
+C00114,K Group 0114,https://example-company-0114.com,Canada,Retail,Enterprise,19562,> $1B
+C00115,L Technologies 0115,https://example-company-0115.com,Australia,Insurance,Enterprise,5857,> $1B
+C00116,M Solutions 0116,https://example-company-0116.com,Australia,Healthcare,Small,9523,> $1B
+C00117,N Industries 0117,https://example-company-0117.com,USA,Education,Small,421,$50M-$250M
+C00118,O Systems 0118,https://example-company-0118.com,UK,Manufacturing,Large,2661,$250M-$1B
+C00119,P Group 0119,https://example-company-0119.com,UAE,Telecom,Medium,4189,$250M-$1B
+C00120,Q Technologies 0120,https://example-company-0120.com,UK,Healthcare,Enterprise,1081,$250M-$1B
+C00121,R Solutions 0121,https://example-company-0121.com,Canada,Banking,Large,14533,> $1B
+C00122,S Industries 0122,https://example-company-0122.com,Singapore,Banking,Small,18911,> $1B
+C00123,T Systems 0123,https://example-company-0123.com,Singapore,Retail,Large,19707,> $1B
+C00124,U Group 0124,https://example-company-0124.com,Canada,Insurance,Medium,5352,> $1B
+C00125,V Technologies 0125,https://example-company-0125.com,Netherlands,Logistics,Medium,15785,> $1B
+C00126,W Solutions 0126,https://example-company-0126.com,Australia,Logistics,Large,10106,> $1B
+C00127,X Industries 0127,https://example-company-0127.com,USA,Logistics,Large,964,$50M-$250M
+C00128,Y Systems 0128,https://example-company-0128.com,India,Telecom,Large,1859,$250M-$1B
+C00129,Z Group 0129,https://example-company-0129.com,Australia,Manufacturing,Large,10978,> $1B
+C00130,A Technologies 0130,https://example-company-0130.com,Singapore,Telecom,Enterprise,8501,> $1B
+C00131,B Solutions 0131,https://example-company-0131.com,Australia,Healthcare,Enterprise,217,< $50M
+C00132,C Industries 0132,https://example-company-0132.com,Australia,Telecom,Large,18605,> $1B
+C00133,D Systems 0133,https://example-company-0133.com,USA,Logistics,Small,14620,> $1B
+C00134,E Group 0134,https://example-company-0134.com,Australia,Logistics,Large,10073,> $1B
+C00135,F Technologies 0135,https://example-company-0135.com,India,Manufacturing,Enterprise,19740,> $1B
+C00136,G Solutions 0136,https://example-company-0136.com,Germany,Banking,Medium,19424,> $1B
+C00137,H Industries 0137,https://example-company-0137.com,Singapore,Telecom,Medium,19480,> $1B
+C00138,I Systems 0138,https://example-company-0138.com,USA,Retail,Medium,5213,> $1B
+C00139,J Group 0139,https://example-company-0139.com,Germany,Telecom,Small,17623,> $1B
+C00140,K Technologies 0140,https://example-company-0140.com,Canada,Manufacturing,Large,10115,> $1B
+C00141,L Solutions 0141,https://example-company-0141.com,Saudi Arabia,Education,Medium,14534,> $1B
+C00142,M Industries 0142,https://example-company-0142.com,UAE,Retail,Large,17197,> $1B
+C00143,N Systems 0143,https://example-company-0143.com,UAE,Education,Large,3308,$250M-$1B
+C00144,O Group 0144,https://example-company-0144.com,Canada,Logistics,Large,8992,> $1B
+C00145,P Technologies 0145,https://example-company-0145.com,Saudi Arabia,Retail,Medium,2621,$250M-$1B
+C00146,Q Solutions 0146,https://example-company-0146.com,Netherlands,Healthcare,Medium,5625,> $1B
+C00147,R Industries 0147,https://example-company-0147.com,USA,Manufacturing,Large,8299,> $1B
+C00148,S Systems 0148,https://example-company-0148.com,UAE,Logistics,Large,17116,> $1B
+C00149,T Group 0149,https://example-company-0149.com,Netherlands,Telecom,Medium,17260,> $1B
+C00150,U Technologies 0150,https://example-company-0150.com,USA,Logistics,Enterprise,7828,> $1B
+C00151,V Solutions 0151,https://example-company-0151.com,Netherlands,Retail,Small,6617,> $1B
+C00152,W Industries 0152,https://example-company-0152.com,UAE,Manufacturing,Enterprise,10637,> $1B
+C00153,X Systems 0153,https://example-company-0153.com,Saudi Arabia,Healthcare,Small,18241,> $1B
+C00154,Y Group 0154,https://example-company-0154.com,UAE,Education,Medium,19531,> $1B
+C00155,Z Technologies 0155,https://example-company-0155.com,Canada,Retail,Large,4573,$250M-$1B
+C00156,A Solutions 0156,https://example-company-0156.com,Singapore,Manufacturing,Small,3770,$250M-$1B
+C00157,B Industries 0157,https://example-company-0157.com,UK,Banking,Small,14150,> $1B
+C00158,C Systems 0158,https://example-company-0158.com,Australia,Logistics,Small,6062,> $1B
+C00159,D Group 0159,https://example-company-0159.com,Australia,Healthcare,Medium,4035,$250M-$1B
+C00160,E Technologies 0160,https://example-company-0160.com,India,Retail,Large,669,$50M-$250M
+C00161,F Solutions 0161,https://example-company-0161.com,Saudi Arabia,Manufacturing,Small,8094,> $1B
+C00162,G Industries 0162,https://example-company-0162.com,Singapore,Healthcare,Large,7867,> $1B
+C00163,H Systems 0163,https://example-company-0163.com,Canada,Logistics,Large,11283,> $1B
+C00164,I Group 0164,https://example-company-0164.com,Canada,Manufacturing,Medium,4043,$250M-$1B
+C00165,J Technologies 0165,https://example-company-0165.com,Canada,Manufacturing,Small,14301,> $1B
+C00166,K Solutions 0166,https://example-company-0166.com,Netherlands,Banking,Enterprise,13616,> $1B
+C00167,L Industries 0167,https://example-company-0167.com,Germany,Banking,Large,9273,> $1B
+C00168,M Systems 0168,https://example-company-0168.com,UK,Healthcare,Large,3667,$250M-$1B
+C00169,N Group 0169,https://example-company-0169.com,Germany,Education,Large,10163,> $1B
+C00170,O Technologies 0170,https://example-company-0170.com,USA,Education,Small,13512,> $1B
+C00171,P Solutions 0171,https://example-company-0171.com,UK,Telecom,Medium,7485,> $1B
+C00172,Q Industries 0172,https://example-company-0172.com,USA,Telecom,Large,5306,> $1B
+C00173,R Systems 0173,https://example-company-0173.com,India,Healthcare,Medium,10154,> $1B
+C00174,S Group 0174,https://example-company-0174.com,India,Insurance,Large,7136,> $1B
+C00175,T Technologies 0175,https://example-company-0175.com,Singapore,Banking,Large,8040,> $1B
+C00176,U Solutions 0176,https://example-company-0176.com,Canada,Retail,Large,7009,> $1B
+C00177,V Industries 0177,https://example-company-0177.com,India,Retail,Medium,6104,> $1B
+C00178,W Systems 0178,https://example-company-0178.com,UK,Insurance,Medium,14349,> $1B
+C00179,X Group 0179,https://example-company-0179.com,Saudi Arabia,Retail,Medium,9231,> $1B
+C00180,Y Technologies 0180,https://example-company-0180.com,Australia,Banking,Medium,9356,> $1B
+C00181,Z Solutions 0181,https://example-company-0181.com,Saudi Arabia,Manufacturing,Large,13079,> $1B
+C00182,A Industries 0182,https://example-company-0182.com,UK,Education,Small,7257,> $1B
+C00183,B Systems 0183,https://example-company-0183.com,Canada,Telecom,Small,2065,$250M-$1B
+C00184,C Group 0184,https://example-company-0184.com,Singapore,Healthcare,Medium,17059,> $1B
+C00185,D Technologies 0185,https://example-company-0185.com,Canada,Healthcare,Medium,1161,$250M-$1B
+C00186,E Solutions 0186,https://example-company-0186.com,Canada,Retail,Large,11460,> $1B
+C00187,F Industries 0187,https://example-company-0187.com,UK,Insurance,Medium,5353,> $1B
+C00188,G Systems 0188,https://example-company-0188.com,Germany,Manufacturing,Enterprise,4315,$250M-$1B
+C00189,H Group 0189,https://example-company-0189.com,UAE,Manufacturing,Small,887,$50M-$250M
+C00190,I Technologies 0190,https://example-company-0190.com,Germany,Banking,Large,18006,> $1B
+C00191,J Solutions 0191,https://example-company-0191.com,Singapore,Healthcare,Medium,8612,> $1B
+C00192,K Industries 0192,https://example-company-0192.com,Singapore,Retail,Medium,6885,> $1B
+C00193,L Systems 0193,https://example-company-0193.com,Singapore,Insurance,Enterprise,14837,> $1B
+C00194,M Group 0194,https://example-company-0194.com,Germany,Telecom,Enterprise,827,$50M-$250M
+C00195,N Technologies 0195,https://example-company-0195.com,Saudi Arabia,Manufacturing,Enterprise,11312,> $1B
+C00196,O Solutions 0196,https://example-company-0196.com,USA,Telecom,Medium,9917,> $1B
+C00197,P Industries 0197,https://example-company-0197.com,Germany,Telecom,Medium,11091,> $1B
+C00198,Q Systems 0198,https://example-company-0198.com,UK,Education,Large,2522,$250M-$1B
+C00199,R Group 0199,https://example-company-0199.com,Germany,Logistics,Medium,19053,> $1B
+C00200,S Technologies 0200,https://example-company-0200.com,Saudi Arabia,Manufacturing,Large,4807,$250M-$1B
+C00201,T Solutions 0201,https://example-company-0201.com,Germany,Education,Large,13585,> $1B
+C00202,U Industries 0202,https://example-company-0202.com,Saudi Arabia,Healthcare,Large,14954,> $1B
+C00203,V Systems 0203,https://example-company-0203.com,Canada,Education,Large,6912,> $1B
+C00204,W Group 0204,https://example-company-0204.com,Singapore,Logistics,Large,2658,$250M-$1B
+C00205,X Technologies 0205,https://example-company-0205.com,Canada,Telecom,Small,5968,> $1B
+C00206,Y Solutions 0206,https://example-company-0206.com,UAE,Education,Small,16148,> $1B
+C00207,Z Industries 0207,https://example-company-0207.com,India,Manufacturing,Large,18134,> $1B
+C00208,A Systems 0208,https://example-company-0208.com,Saudi Arabia,Telecom,Medium,18741,> $1B
+C00209,B Group 0209,https://example-company-0209.com,UAE,Retail,Medium,4564,$250M-$1B
+C00210,C Technologies 0210,https://example-company-0210.com,India,Education,Medium,12150,> $1B
+C00211,D Solutions 0211,https://example-company-0211.com,UAE,Manufacturing,Large,3063,$250M-$1B
+C00212,E Industries 0212,https://example-company-0212.com,India,Logistics,Large,14221,> $1B
+C00213,F Systems 0213,https://example-company-0213.com,India,Healthcare,Large,8346,> $1B
+C00214,G Group 0214,https://example-company-0214.com,Canada,Logistics,Medium,14286,> $1B
+C00215,H Technologies 0215,https://example-company-0215.com,India,Banking,Medium,13718,> $1B
+C00216,I Solutions 0216,https://example-company-0216.com,UAE,Banking,Large,19856,> $1B
+C00217,J Industries 0217,https://example-company-0217.com,USA,Manufacturing,Medium,9798,> $1B
+C00218,K Systems 0218,https://example-company-0218.com,USA,Telecom,Large,6863,> $1B
+C00219,L Group 0219,https://example-company-0219.com,Canada,Logistics,Large,10558,> $1B
+C00220,M Technologies 0220,https://example-company-0220.com,Saudi Arabia,Healthcare,Small,3298,$250M-$1B
+C00221,N Solutions 0221,https://example-company-0221.com,UK,Telecom,Small,2279,$250M-$1B
+C00222,O Industries 0222,https://example-company-0222.com,Canada,Manufacturing,Medium,10407,> $1B
+C00223,P Systems 0223,https://example-company-0223.com,India,Education,Enterprise,16516,> $1B
+C00224,Q Group 0224,https://example-company-0224.com,UAE,Telecom,Large,10688,> $1B
+C00225,R Technologies 0225,https://example-company-0225.com,India,Healthcare,Medium,15649,> $1B
+C00226,S Solutions 0226,https://example-company-0226.com,Germany,Education,Enterprise,3599,$250M-$1B
+C00227,T Industries 0227,https://example-company-0227.com,Netherlands,Banking,Medium,9015,> $1B
+C00228,U Systems 0228,https://example-company-0228.com,Australia,Education,Medium,12281,> $1B
+C00229,V Group 0229,https://example-company-0229.com,Australia,Insurance,Enterprise,6986,> $1B
+C00230,W Technologies 0230,https://example-company-0230.com,UK,Retail,Small,331,$50M-$250M
+C00231,X Solutions 0231,https://example-company-0231.com,Canada,Logistics,Medium,1515,$250M-$1B
+C00232,Y Industries 0232,https://example-company-0232.com,Netherlands,Telecom,Large,18556,> $1B
+C00233,Z Systems 0233,https://example-company-0233.com,USA,Education,Medium,12122,> $1B
+C00234,A Group 0234,https://example-company-0234.com,India,Telecom,Large,5328,> $1B
+C00235,B Technologies 0235,https://example-company-0235.com,Canada,Telecom,Medium,5213,> $1B
+C00236,C Solutions 0236,https://example-company-0236.com,India,Retail,Small,839,$50M-$250M
+C00237,D Industries 0237,https://example-company-0237.com,Singapore,Banking,Medium,18898,> $1B
+C00238,E Systems 0238,https://example-company-0238.com,Canada,Banking,Medium,2209,$250M-$1B
+C00239,F Group 0239,https://example-company-0239.com,Germany,Retail,Medium,15201,> $1B
+C00240,G Technologies 0240,https://example-company-0240.com,Singapore,Banking,Small,4842,$250M-$1B
+C00241,H Solutions 0241,https://example-company-0241.com,UK,Manufacturing,Enterprise,6745,> $1B
+C00242,I Industries 0242,https://example-company-0242.com,Australia,Logistics,Medium,5514,> $1B
+C00243,J Systems 0243,https://example-company-0243.com,USA,Education,Medium,16499,> $1B
+C00244,K Group 0244,https://example-company-0244.com,Singapore,Healthcare,Small,704,$50M-$250M
+C00245,L Technologies 0245,https://example-company-0245.com,Singapore,Education,Medium,7078,> $1B
+C00246,M Solutions 0246,https://example-company-0246.com,USA,Education,Medium,5623,> $1B
+C00247,N Industries 0247,https://example-company-0247.com,India,Logistics,Large,5495,> $1B
+C00248,O Systems 0248,https://example-company-0248.com,Canada,Healthcare,Medium,3899,$250M-$1B
+C00249,P Group 0249,https://example-company-0249.com,India,Retail,Enterprise,18253,> $1B
+C00250,Q Technologies 0250,https://example-company-0250.com,USA,Education,Enterprise,7603,> $1B
+C00251,R Solutions 0251,https://example-company-0251.com,UK,Insurance,Small,8393,> $1B
+C00252,S Industries 0252,https://example-company-0252.com,Canada,Healthcare,Small,7734,> $1B
+C00253,T Systems 0253,https://example-company-0253.com,UK,Banking,Small,19605,> $1B
+C00254,U Group 0254,https://example-company-0254.com,Germany,Logistics,Large,6813,> $1B
+C00255,V Technologies 0255,https://example-company-0255.com,Singapore,Telecom,Small,6866,> $1B
+C00256,W Solutions 0256,https://example-company-0256.com,UK,Banking,Enterprise,6592,> $1B
+C00257,X Industries 0257,https://example-company-0257.com,Singapore,Insurance,Large,6572,> $1B
+C00258,Y Systems 0258,https://example-company-0258.com,UK,Manufacturing,Large,1840,$250M-$1B
+C00259,Z Group 0259,https://example-company-0259.com,UK,Manufacturing,Large,12105,> $1B
+C00260,A Technologies 0260,https://example-company-0260.com,Australia,Logistics,Enterprise,552,$50M-$250M
+C00261,B Solutions 0261,https://example-company-0261.com,India,Retail,Small,4557,$250M-$1B
+C00262,C Industries 0262,https://example-company-0262.com,UK,Education,Medium,4082,$250M-$1B
+C00263,D Systems 0263,https://example-company-0263.com,UAE,Healthcare,Medium,5865,> $1B
+C00264,E Group 0264,https://example-company-0264.com,Saudi Arabia,Logistics,Enterprise,15145,> $1B
+C00265,F Technologies 0265,https://example-company-0265.com,Saudi Arabia,Insurance,Large,12009,> $1B
+C00266,G Solutions 0266,https://example-company-0266.com,Australia,Banking,Large,19816,> $1B
+C00267,H Industries 0267,https://example-company-0267.com,Canada,Banking,Medium,7056,> $1B
+C00268,I Systems 0268,https://example-company-0268.com,Germany,Retail,Enterprise,18574,> $1B
+C00269,J Group 0269,https://example-company-0269.com,Singapore,Education,Medium,946,$50M-$250M
+C00270,K Technologies 0270,https://example-company-0270.com,Australia,Banking,Medium,10109,> $1B
+C00271,L Solutions 0271,https://example-company-0271.com,UAE,Retail,Enterprise,15987,> $1B
+C00272,M Industries 0272,https://example-company-0272.com,USA,Banking,Medium,10659,> $1B
+C00273,N Systems 0273,https://example-company-0273.com,UK,Education,Medium,18669,> $1B
+C00274,O Group 0274,https://example-company-0274.com,Saudi Arabia,Telecom,Large,6325,> $1B
+C00275,P Technologies 0275,https://example-company-0275.com,Canada,Logistics,Small,714,$50M-$250M
+C00276,Q Solutions 0276,https://example-company-0276.com,Canada,Telecom,Medium,15490,> $1B
+C00277,R Industries 0277,https://example-company-0277.com,Canada,Telecom,Medium,1406,$250M-$1B
+C00278,S Systems 0278,https://example-company-0278.com,India,Logistics,Small,15306,> $1B
+C00279,T Group 0279,https://example-company-0279.com,USA,Banking,Enterprise,14681,> $1B
+C00280,U Technologies 0280,https://example-company-0280.com,USA,Logistics,Large,16893,> $1B
+C00281,V Solutions 0281,https://example-company-0281.com,UAE,Telecom,Medium,9604,> $1B
+C00282,W Industries 0282,https://example-company-0282.com,Canada,Telecom,Medium,17915,> $1B
+C00283,X Systems 0283,https://example-company-0283.com,Singapore,Healthcare,Medium,3438,$250M-$1B
+C00284,Y Group 0284,https://example-company-0284.com,Canada,Logistics,Large,8715,> $1B
+C00285,Z Technologies 0285,https://example-company-0285.com,Canada,Healthcare,Enterprise,2480,$250M-$1B
+C00286,A Solutions 0286,https://example-company-0286.com,Saudi Arabia,Banking,Enterprise,15349,> $1B
+C00287,B Industries 0287,https://example-company-0287.com,UK,Education,Medium,14299,> $1B
+C00288,C Systems 0288,https://example-company-0288.com,Australia,Insurance,Medium,16137,> $1B
+C00289,D Group 0289,https://example-company-0289.com,Australia,Banking,Medium,15298,> $1B
+C00290,E Technologies 0290,https://example-company-0290.com,Canada,Manufacturing,Large,6203,> $1B
+C00291,F Solutions 0291,https://example-company-0291.com,Netherlands,Insurance,Medium,1407,$250M-$1B
+C00292,G Industries 0292,https://example-company-0292.com,UAE,Logistics,Large,18588,> $1B
+C00293,H Systems 0293,https://example-company-0293.com,Saudi Arabia,Healthcare,Large,9881,> $1B
+C00294,I Group 0294,https://example-company-0294.com,Germany,Banking,Medium,1932,$250M-$1B
+C00295,J Technologies 0295,https://example-company-0295.com,Australia,Education,Medium,18544,> $1B
+C00296,K Solutions 0296,https://example-company-0296.com,Australia,Manufacturing,Medium,19885,> $1B
+C00297,L Industries 0297,https://example-company-0297.com,Netherlands,Retail,Small,8937,> $1B
+C00298,M Systems 0298,https://example-company-0298.com,Canada,Telecom,Medium,15413,> $1B
+C00299,N Group 0299,https://example-company-0299.com,UAE,Manufacturing,Large,774,$50M-$250M
+C00300,O Technologies 0300,https://example-company-0300.com,USA,Banking,Medium,1910,$250M-$1B
+C00301,P Solutions 0301,https://example-company-0301.com,Germany,Logistics,Medium,5567,> $1B
+C00302,Q Industries 0302,https://example-company-0302.com,Netherlands,Healthcare,Large,13141,> $1B
+C00303,R Systems 0303,https://example-company-0303.com,USA,Telecom,Large,2711,$250M-$1B
+C00304,S Group 0304,https://example-company-0304.com,Netherlands,Education,Medium,731,$50M-$250M
+C00305,T Technologies 0305,https://example-company-0305.com,Australia,Manufacturing,Large,13391,> $1B
+C00306,U Solutions 0306,https://example-company-0306.com,UK,Telecom,Enterprise,15415,> $1B
+C00307,V Industries 0307,https://example-company-0307.com,Germany,Retail,Large,14797,> $1B
+C00308,W Systems 0308,https://example-company-0308.com,Australia,Insurance,Large,15994,> $1B
+C00309,X Group 0309,https://example-company-0309.com,Germany,Healthcare,Small,16066,> $1B
+C00310,Y Technologies 0310,https://example-company-0310.com,UK,Logistics,Enterprise,12068,> $1B
+C00311,Z Solutions 0311,https://example-company-0311.com,Singapore,Manufacturing,Medium,10412,> $1B
+C00312,A Industries 0312,https://example-company-0312.com,Singapore,Retail,Enterprise,17144,> $1B
+C00313,B Systems 0313,https://example-company-0313.com,UK,Logistics,Large,6993,> $1B
+C00314,C Group 0314,https://example-company-0314.com,UAE,Logistics,Small,2002,$250M-$1B
+C00315,D Technologies 0315,https://example-company-0315.com,UAE,Education,Small,15051,> $1B
+C00316,E Solutions 0316,https://example-company-0316.com,Singapore,Retail,Large,5554,> $1B
+C00317,F Industries 0317,https://example-company-0317.com,India,Telecom,Large,19578,> $1B
+C00318,G Systems 0318,https://example-company-0318.com,India,Manufacturing,Small,8312,> $1B
+C00319,H Group 0319,https://example-company-0319.com,Saudi Arabia,Healthcare,Large,17043,> $1B
+C00320,I Technologies 0320,https://example-company-0320.com,India,Healthcare,Enterprise,897,$50M-$250M
+C00321,J Solutions 0321,https://example-company-0321.com,Germany,Banking,Medium,13201,> $1B
+C00322,K Industries 0322,https://example-company-0322.com,UK,Retail,Medium,8991,> $1B
+C00323,L Systems 0323,https://example-company-0323.com,Singapore,Manufacturing,Small,9278,> $1B
+C00324,M Group 0324,https://example-company-0324.com,Saudi Arabia,Education,Large,5341,> $1B
+C00325,N Technologies 0325,https://example-company-0325.com,Saudi Arabia,Logistics,Medium,19425,> $1B
+C00326,O Solutions 0326,https://example-company-0326.com,UAE,Insurance,Enterprise,7885,> $1B
+C00327,P Industries 0327,https://example-company-0327.com,UAE,Telecom,Medium,17017,> $1B
+C00328,Q Systems 0328,https://example-company-0328.com,USA,Banking,Large,8530,> $1B
+C00329,R Group 0329,https://example-company-0329.com,UK,Telecom,Medium,1013,$250M-$1B
+C00330,S Technologies 0330,https://example-company-0330.com,Australia,Retail,Medium,17594,> $1B
+C00331,T Solutions 0331,https://example-company-0331.com,Australia,Healthcare,Large,3742,$250M-$1B
+C00332,U Industries 0332,https://example-company-0332.com,Germany,Telecom,Medium,5443,> $1B
+C00333,V Systems 0333,https://example-company-0333.com,Germany,Healthcare,Large,17229,> $1B
+C00334,W Group 0334,https://example-company-0334.com,Netherlands,Logistics,Enterprise,17880,> $1B
+C00335,X Technologies 0335,https://example-company-0335.com,Canada,Manufacturing,Enterprise,18339,> $1B
+C00336,Y Solutions 0336,https://example-company-0336.com,Netherlands,Education,Enterprise,8548,> $1B
+C00337,Z Industries 0337,https://example-company-0337.com,Saudi Arabia,Telecom,Medium,15151,> $1B
+C00338,A Systems 0338,https://example-company-0338.com,Germany,Retail,Large,6589,> $1B
+C00339,B Group 0339,https://example-company-0339.com,UAE,Logistics,Enterprise,14820,> $1B
+C00340,C Technologies 0340,https://example-company-0340.com,Saudi Arabia,Healthcare,Medium,10075,> $1B
+C00341,D Solutions 0341,https://example-company-0341.com,Singapore,Manufacturing,Small,1086,$250M-$1B
+C00342,E Industries 0342,https://example-company-0342.com,UAE,Insurance,Large,8383,> $1B
+C00343,F Systems 0343,https://example-company-0343.com,Singapore,Banking,Medium,9381,> $1B
+C00344,G Group 0344,https://example-company-0344.com,Australia,Manufacturing,Large,5184,> $1B
+C00345,H Technologies 0345,https://example-company-0345.com,Saudi Arabia,Insurance,Enterprise,7520,> $1B
+C00346,I Solutions 0346,https://example-company-0346.com,UAE,Education,Large,10078,> $1B
+C00347,J Industries 0347,https://example-company-0347.com,Saudi Arabia,Logistics,Medium,1041,$250M-$1B
+C00348,K Systems 0348,https://example-company-0348.com,Saudi Arabia,Telecom,Medium,3078,$250M-$1B
+C00349,L Group 0349,https://example-company-0349.com,UK,Telecom,Medium,15347,> $1B
+C00350,M Technologies 0350,https://example-company-0350.com,UK,Manufacturing,Small,7071,> $1B
+C00351,N Solutions 0351,https://example-company-0351.com,Australia,Banking,Large,12187,> $1B
+C00352,O Industries 0352,https://example-company-0352.com,USA,Healthcare,Large,11337,> $1B
+C00353,P Systems 0353,https://example-company-0353.com,UAE,Healthcare,Medium,11046,> $1B
+C00354,Q Group 0354,https://example-company-0354.com,Canada,Education,Medium,8297,> $1B
+C00355,R Technologies 0355,https://example-company-0355.com,Saudi Arabia,Insurance,Enterprise,9692,> $1B
+C00356,S Solutions 0356,https://example-company-0356.com,Saudi Arabia,Healthcare,Small,16487,> $1B
+C00357,T Industries 0357,https://example-company-0357.com,UK,Retail,Large,19302,> $1B
+C00358,U Systems 0358,https://example-company-0358.com,Netherlands,Insurance,Medium,5171,> $1B
+C00359,V Group 0359,https://example-company-0359.com,USA,Banking,Large,13406,> $1B
+C00360,W Technologies 0360,https://example-company-0360.com,India,Retail,Medium,19396,> $1B
+C00361,X Solutions 0361,https://example-company-0361.com,Netherlands,Banking,Large,201,< $50M
+C00362,Y Industries 0362,https://example-company-0362.com,Netherlands,Banking,Medium,15705,> $1B
+C00363,Z Systems 0363,https://example-company-0363.com,UAE,Retail,Large,9961,> $1B
+C00364,A Group 0364,https://example-company-0364.com,Netherlands,Insurance,Small,19353,> $1B
+C00365,B Technologies 0365,https://example-company-0365.com,UK,Manufacturing,Medium,11586,> $1B
+C00366,C Solutions 0366,https://example-company-0366.com,Australia,Banking,Large,16770,> $1B
+C00367,D Industries 0367,https://example-company-0367.com,Canada,Retail,Medium,3361,$250M-$1B
+C00368,E Systems 0368,https://example-company-0368.com,Germany,Healthcare,Small,2884,$250M-$1B
+C00369,F Group 0369,https://example-company-0369.com,USA,Education,Medium,18535,> $1B
+C00370,G Technologies 0370,https://example-company-0370.com,India,Telecom,Medium,10552,> $1B
+C00371,H Solutions 0371,https://example-company-0371.com,Germany,Education,Small,11188,> $1B
+C00372,I Industries 0372,https://example-company-0372.com,Singapore,Retail,Enterprise,3441,$250M-$1B
+C00373,J Systems 0373,https://example-company-0373.com,Canada,Healthcare,Medium,4573,$250M-$1B
+C00374,K Group 0374,https://example-company-0374.com,Germany,Healthcare,Large,16373,> $1B
+C00375,L Technologies 0375,https://example-company-0375.com,Netherlands,Education,Enterprise,6101,> $1B
+C00376,M Solutions 0376,https://example-company-0376.com,USA,Education,Small,11704,> $1B
+C00377,N Industries 0377,https://example-company-0377.com,India,Education,Large,6364,> $1B
+C00378,O Systems 0378,https://example-company-0378.com,India,Logistics,Enterprise,5305,> $1B
+C00379,P Group 0379,https://example-company-0379.com,Germany,Manufacturing,Large,3362,$250M-$1B
+C00380,Q Technologies 0380,https://example-company-0380.com,UAE,Manufacturing,Medium,18595,> $1B
+C00381,R Solutions 0381,https://example-company-0381.com,USA,Education,Medium,18804,> $1B
+C00382,S Industries 0382,https://example-company-0382.com,Saudi Arabia,Retail,Small,2347,$250M-$1B
+C00383,T Systems 0383,https://example-company-0383.com,Saudi Arabia,Retail,Large,7097,> $1B
+C00384,U Group 0384,https://example-company-0384.com,UAE,Education,Enterprise,11299,> $1B
+C00385,V Technologies 0385,https://example-company-0385.com,USA,Healthcare,Enterprise,7696,> $1B
+C00386,W Solutions 0386,https://example-company-0386.com,UK,Insurance,Small,14434,> $1B
+C00387,X Industries 0387,https://example-company-0387.com,USA,Manufacturing,Large,5241,> $1B
+C00388,Y Systems 0388,https://example-company-0388.com,Netherlands,Retail,Medium,1224,$250M-$1B
+C00389,Z Group 0389,https://example-company-0389.com,Netherlands,Education,Enterprise,6771,> $1B
+C00390,A Technologies 0390,https://example-company-0390.com,UK,Education,Small,11977,> $1B
+C00391,B Solutions 0391,https://example-company-0391.com,India,Retail,Enterprise,3653,$250M-$1B
+C00392,C Industries 0392,https://example-company-0392.com,UK,Manufacturing,Large,16327,> $1B
+C00393,D Systems 0393,https://example-company-0393.com,Germany,Education,Small,294,$50M-$250M
+C00394,E Group 0394,https://example-company-0394.com,Australia,Telecom,Small,1397,$250M-$1B
+C00395,F Technologies 0395,https://example-company-0395.com,India,Insurance,Large,10201,> $1B
+C00396,G Solutions 0396,https://example-company-0396.com,Netherlands,Manufacturing,Medium,10269,> $1B
+C00397,H Industries 0397,https://example-company-0397.com,USA,Manufacturing,Large,5932,> $1B
+C00398,I Systems 0398,https://example-company-0398.com,UK,Telecom,Enterprise,5208,> $1B
+C00399,J Group 0399,https://example-company-0399.com,UAE,Banking,Large,1442,$250M-$1B
+C00400,K Technologies 0400,https://example-company-0400.com,Germany,Retail,Medium,13275,> $1B
+C00401,L Solutions 0401,https://example-company-0401.com,Saudi Arabia,Logistics,Medium,7611,> $1B
+C00402,M Industries 0402,https://example-company-0402.com,India,Insurance,Small,2417,$250M-$1B
+C00403,N Systems 0403,https://example-company-0403.com,Germany,Retail,Enterprise,8026,> $1B
+C00404,O Group 0404,https://example-company-0404.com,Saudi Arabia,Retail,Medium,18744,> $1B
+C00405,P Technologies 0405,https://example-company-0405.com,Canada,Insurance,Medium,5261,> $1B
+C00406,Q Solutions 0406,https://example-company-0406.com,Australia,Insurance,Medium,17899,> $1B
+C00407,R Industries 0407,https://example-company-0407.com,Canada,Retail,Enterprise,5211,> $1B
+C00408,S Systems 0408,https://example-company-0408.com,UK,Logistics,Small,3760,$250M-$1B
+C00409,T Group 0409,https://example-company-0409.com,Saudi Arabia,Banking,Enterprise,5249,> $1B
+C00410,U Technologies 0410,https://example-company-0410.com,USA,Retail,Large,6499,> $1B
+C00411,V Solutions 0411,https://example-company-0411.com,UK,Banking,Large,2456,$250M-$1B
+C00412,W Industries 0412,https://example-company-0412.com,UAE,Manufacturing,Enterprise,11773,> $1B
+C00413,X Systems 0413,https://example-company-0413.com,UAE,Retail,Large,6702,> $1B
+C00414,Y Group 0414,https://example-company-0414.com,UK,Logistics,Enterprise,14375,> $1B
+C00415,Z Technologies 0415,https://example-company-0415.com,USA,Manufacturing,Small,9845,> $1B
+C00416,A Solutions 0416,https://example-company-0416.com,Singapore,Logistics,Large,8880,> $1B
+C00417,B Industries 0417,https://example-company-0417.com,Saudi Arabia,Telecom,Large,9446,> $1B
+C00418,C Systems 0418,https://example-company-0418.com,UK,Healthcare,Large,3168,$250M-$1B
+C00419,D Group 0419,https://example-company-0419.com,UAE,Logistics,Enterprise,14271,> $1B
+C00420,E Technologies 0420,https://example-company-0420.com,Australia,Healthcare,Enterprise,2127,$250M-$1B
+C00421,F Solutions 0421,https://example-company-0421.com,Saudi Arabia,Education,Large,14444,> $1B
+C00422,G Industries 0422,https://example-company-0422.com,Singapore,Education,Medium,19995,> $1B
+C00423,H Systems 0423,https://example-company-0423.com,India,Manufacturing,Medium,15291,> $1B
+C00424,I Group 0424,https://example-company-0424.com,Australia,Telecom,Medium,9134,> $1B
+C00425,J Technologies 0425,https://example-company-0425.com,Canada,Retail,Medium,6323,> $1B
+C00426,K Solutions 0426,https://example-company-0426.com,UK,Logistics,Medium,17457,> $1B
+C00427,L Industries 0427,https://example-company-0427.com,Netherlands,Telecom,Small,5180,> $1B
+C00428,M Systems 0428,https://example-company-0428.com,Netherlands,Education,Small,9673,> $1B
+C00429,N Group 0429,https://example-company-0429.com,USA,Retail,Large,15428,> $1B
+C00430,O Technologies 0430,https://example-company-0430.com,India,Logistics,Medium,18451,> $1B
+C00431,P Solutions 0431,https://example-company-0431.com,USA,Healthcare,Enterprise,18423,> $1B
+C00432,Q Industries 0432,https://example-company-0432.com,India,Insurance,Large,1800,$250M-$1B
+C00433,R Systems 0433,https://example-company-0433.com,Netherlands,Insurance,Small,17970,> $1B
+C00434,S Group 0434,https://example-company-0434.com,UK,Manufacturing,Medium,2324,$250M-$1B
+C00435,T Technologies 0435,https://example-company-0435.com,Canada,Retail,Medium,11710,> $1B
+C00436,U Solutions 0436,https://example-company-0436.com,UK,Banking,Enterprise,18596,> $1B
+C00437,V Industries 0437,https://example-company-0437.com,Australia,Healthcare,Medium,13113,> $1B
+C00438,W Systems 0438,https://example-company-0438.com,Saudi Arabia,Telecom,Large,18952,> $1B
+C00439,X Group 0439,https://example-company-0439.com,USA,Retail,Enterprise,6919,> $1B
+C00440,Y Technologies 0440,https://example-company-0440.com,Germany,Education,Enterprise,6328,> $1B
+C00441,Z Solutions 0441,https://example-company-0441.com,Saudi Arabia,Logistics,Medium,6558,> $1B
+C00442,A Industries 0442,https://example-company-0442.com,Germany,Manufacturing,Small,7135,> $1B
+C00443,B Systems 0443,https://example-company-0443.com,UK,Education,Medium,13671,> $1B
+C00444,C Group 0444,https://example-company-0444.com,Canada,Healthcare,Small,9076,> $1B
+C00445,D Technologies 0445,https://example-company-0445.com,Australia,Insurance,Medium,14761,> $1B
+C00446,E Solutions 0446,https://example-company-0446.com,Singapore,Banking,Large,8352,> $1B
+C00447,F Industries 0447,https://example-company-0447.com,Germany,Education,Enterprise,6189,> $1B
+C00448,G Systems 0448,https://example-company-0448.com,Saudi Arabia,Education,Large,3841,$250M-$1B
+C00449,H Group 0449,https://example-company-0449.com,Australia,Telecom,Large,11043,> $1B
+C00450,I Technologies 0450,https://example-company-0450.com,UAE,Banking,Medium,17972,> $1B
+C00451,J Solutions 0451,https://example-company-0451.com,Saudi Arabia,Retail,Large,17186,> $1B
+C00452,K Industries 0452,https://example-company-0452.com,Saudi Arabia,Banking,Large,5103,> $1B
+C00453,L Systems 0453,https://example-company-0453.com,Canada,Banking,Enterprise,9578,> $1B
+C00454,M Group 0454,https://example-company-0454.com,USA,Insurance,Enterprise,14120,> $1B
+C00455,N Technologies 0455,https://example-company-0455.com,Australia,Manufacturing,Medium,12267,> $1B
+C00456,O Solutions 0456,https://example-company-0456.com,Australia,Banking,Small,1389,$250M-$1B
+C00457,P Industries 0457,https://example-company-0457.com,UK,Education,Medium,11841,> $1B
+C00458,Q Systems 0458,https://example-company-0458.com,Singapore,Healthcare,Medium,823,$50M-$250M
+C00459,R Group 0459,https://example-company-0459.com,Netherlands,Retail,Enterprise,2374,$250M-$1B
+C00460,S Technologies 0460,https://example-company-0460.com,UK,Manufacturing,Medium,13091,> $1B
+C00461,T Solutions 0461,https://example-company-0461.com,India,Logistics,Large,2095,$250M-$1B
+C00462,U Industries 0462,https://example-company-0462.com,UK,Retail,Large,6813,> $1B
+C00463,V Systems 0463,https://example-company-0463.com,India,Banking,Medium,11789,> $1B
+C00464,W Group 0464,https://example-company-0464.com,Canada,Banking,Medium,13126,> $1B
+C00465,X Technologies 0465,https://example-company-0465.com,USA,Logistics,Large,8942,> $1B
+C00466,Y Solutions 0466,https://example-company-0466.com,Saudi Arabia,Banking,Large,1925,$250M-$1B
+C00467,Z Industries 0467,https://example-company-0467.com,UK,Telecom,Medium,15992,> $1B
+C00468,A Systems 0468,https://example-company-0468.com,Australia,Healthcare,Medium,18999,> $1B
+C00469,B Group 0469,https://example-company-0469.com,UK,Logistics,Large,17779,> $1B
+C00470,C Technologies 0470,https://example-company-0470.com,Saudi Arabia,Banking,Medium,14982,> $1B
+C00471,D Solutions 0471,https://example-company-0471.com,India,Education,Enterprise,8074,> $1B
+C00472,E Industries 0472,https://example-company-0472.com,Netherlands,Telecom,Medium,17531,> $1B
+C00473,F Systems 0473,https://example-company-0473.com,Canada,Healthcare,Small,9789,> $1B
+C00474,G Group 0474,https://example-company-0474.com,Canada,Insurance,Medium,2772,$250M-$1B
+C00475,H Technologies 0475,https://example-company-0475.com,Singapore,Education,Large,17018,> $1B
+C00476,I Solutions 0476,https://example-company-0476.com,India,Retail,Large,6437,> $1B
+C00477,J Industries 0477,https://example-company-0477.com,Netherlands,Healthcare,Medium,18777,> $1B
+C00478,K Systems 0478,https://example-company-0478.com,USA,Healthcare,Enterprise,7398,> $1B
+C00479,L Group 0479,https://example-company-0479.com,Singapore,Insurance,Medium,17394,> $1B
+C00480,M Technologies 0480,https://example-company-0480.com,UK,Healthcare,Medium,10766,> $1B
+C00481,N Solutions 0481,https://example-company-0481.com,UAE,Insurance,Medium,9374,> $1B
+C00482,O Industries 0482,https://example-company-0482.com,Netherlands,Banking,Small,5972,> $1B
+C00483,P Systems 0483,https://example-company-0483.com,UAE,Retail,Large,16722,> $1B
+C00484,Q Group 0484,https://example-company-0484.com,India,Banking,Medium,1259,$250M-$1B
+C00485,R Technologies 0485,https://example-company-0485.com,Canada,Healthcare,Large,9404,> $1B
+C00486,S Solutions 0486,https://example-company-0486.com,UAE,Logistics,Small,7409,> $1B
+C00487,T Industries 0487,https://example-company-0487.com,Germany,Insurance,Enterprise,10890,> $1B
+C00488,U Systems 0488,https://example-company-0488.com,Australia,Banking,Medium,5128,> $1B
+C00489,V Group 0489,https://example-company-0489.com,India,Banking,Enterprise,13308,> $1B
+C00490,W Technologies 0490,https://example-company-0490.com,Singapore,Manufacturing,Medium,7749,> $1B
+C00491,X Solutions 0491,https://example-company-0491.com,Saudi Arabia,Retail,Small,3803,$250M-$1B
+C00492,Y Industries 0492,https://example-company-0492.com,Netherlands,Healthcare,Large,3979,$250M-$1B
+C00493,Z Systems 0493,https://example-company-0493.com,India,Banking,Large,13945,> $1B
+C00494,A Group 0494,https://example-company-0494.com,Singapore,Retail,Large,5274,> $1B
+C00495,B Technologies 0495,https://example-company-0495.com,UAE,Healthcare,Medium,6179,> $1B
+C00496,C Solutions 0496,https://example-company-0496.com,Canada,Healthcare,Large,12557,> $1B
+C00497,D Industries 0497,https://example-company-0497.com,UK,Manufacturing,Enterprise,6629,> $1B
+C00498,E Systems 0498,https://example-company-0498.com,Germany,Logistics,Large,7793,> $1B
+C00499,F Group 0499,https://example-company-0499.com,Saudi Arabia,Healthcare,Medium,4927,$250M-$1B
+C00500,G Technologies 0500,https://example-company-0500.com,Canada,Logistics,Large,6940,> $1B
+C00501,H Solutions 0501,https://example-company-0501.com,UK,Manufacturing,Large,13870,> $1B
+C00502,I Industries 0502,https://example-company-0502.com,Singapore,Retail,Enterprise,10701,> $1B
+C00503,J Systems 0503,https://example-company-0503.com,Saudi Arabia,Insurance,Medium,19950,> $1B
+C00504,K Group 0504,https://example-company-0504.com,Netherlands,Retail,Medium,15448,> $1B
+C00505,L Technologies 0505,https://example-company-0505.com,UAE,Manufacturing,Large,385,$50M-$250M
+C00506,M Solutions 0506,https://example-company-0506.com,Canada,Insurance,Large,7608,> $1B
+C00507,N Industries 0507,https://example-company-0507.com,Australia,Education,Large,5832,> $1B
+C00508,O Systems 0508,https://example-company-0508.com,UAE,Healthcare,Medium,11771,> $1B
+C00509,P Group 0509,https://example-company-0509.com,UAE,Logistics,Medium,5349,> $1B
+C00510,Q Technologies 0510,https://example-company-0510.com,UAE,Telecom,Large,19325,> $1B
+C00511,R Solutions 0511,https://example-company-0511.com,Saudi Arabia,Retail,Small,6022,> $1B
+C00512,S Industries 0512,https://example-company-0512.com,India,Insurance,Medium,10463,> $1B
+C00513,T Systems 0513,https://example-company-0513.com,Netherlands,Telecom,Large,2502,$250M-$1B
+C00514,U Group 0514,https://example-company-0514.com,Netherlands,Retail,Large,18200,> $1B
+C00515,V Technologies 0515,https://example-company-0515.com,Saudi Arabia,Insurance,Enterprise,18241,> $1B
+C00516,W Solutions 0516,https://example-company-0516.com,UK,Education,Medium,15883,> $1B
+C00517,X Industries 0517,https://example-company-0517.com,Netherlands,Healthcare,Small,7064,> $1B
+C00518,Y Systems 0518,https://example-company-0518.com,USA,Banking,Enterprise,1221,$250M-$1B
+C00519,Z Group 0519,https://example-company-0519.com,Canada,Healthcare,Medium,14233,> $1B
+C00520,A Technologies 0520,https://example-company-0520.com,Australia,Healthcare,Medium,8610,> $1B
+C00521,B Solutions 0521,https://example-company-0521.com,Germany,Logistics,Medium,19807,> $1B
+C00522,C Industries 0522,https://example-company-0522.com,UK,Telecom,Large,13981,> $1B
+C00523,D Systems 0523,https://example-company-0523.com,UK,Insurance,Enterprise,10795,> $1B
+C00524,E Group 0524,https://example-company-0524.com,Netherlands,Insurance,Large,19734,> $1B
+C00525,F Technologies 0525,https://example-company-0525.com,Germany,Manufacturing,Large,16019,> $1B
+C00526,G Solutions 0526,https://example-company-0526.com,Germany,Banking,Medium,9194,> $1B
+C00527,H Industries 0527,https://example-company-0527.com,Saudi Arabia,Retail,Medium,426,$50M-$250M
+C00528,I Systems 0528,https://example-company-0528.com,UK,Insurance,Medium,1901,$250M-$1B
+C00529,J Group 0529,https://example-company-0529.com,Saudi Arabia,Banking,Small,8902,> $1B
+C00530,K Technologies 0530,https://example-company-0530.com,Saudi Arabia,Education,Medium,11262,> $1B
+C00531,L Solutions 0531,https://example-company-0531.com,Australia,Banking,Medium,651,$50M-$250M
+C00532,M Industries 0532,https://example-company-0532.com,UK,Banking,Small,2574,$250M-$1B
+C00533,N Systems 0533,https://example-company-0533.com,UK,Education,Large,14100,> $1B
+C00534,O Group 0534,https://example-company-0534.com,UAE,Insurance,Large,15042,> $1B
+C00535,P Technologies 0535,https://example-company-0535.com,Australia,Logistics,Small,644,$50M-$250M
+C00536,Q Solutions 0536,https://example-company-0536.com,UK,Banking,Medium,10178,> $1B
+C00537,R Industries 0537,https://example-company-0537.com,Canada,Insurance,Large,1665,$250M-$1B
+C00538,S Systems 0538,https://example-company-0538.com,UK,Banking,Large,14482,> $1B
+C00539,T Group 0539,https://example-company-0539.com,Australia,Telecom,Large,16689,> $1B
+C00540,U Technologies 0540,https://example-company-0540.com,USA,Manufacturing,Medium,17393,> $1B
+C00541,V Solutions 0541,https://example-company-0541.com,India,Healthcare,Large,11983,> $1B
+C00542,W Industries 0542,https://example-company-0542.com,USA,Insurance,Medium,12597,> $1B
+C00543,X Systems 0543,https://example-company-0543.com,UK,Banking,Medium,18535,> $1B
+C00544,Y Group 0544,https://example-company-0544.com,UK,Manufacturing,Medium,12268,> $1B
+C00545,Z Technologies 0545,https://example-company-0545.com,Netherlands,Insurance,Medium,8953,> $1B
+C00546,A Solutions 0546,https://example-company-0546.com,USA,Manufacturing,Medium,15103,> $1B
+C00547,B Industries 0547,https://example-company-0547.com,Canada,Telecom,Medium,11837,> $1B
+C00548,C Systems 0548,https://example-company-0548.com,Australia,Logistics,Large,16856,> $1B
+C00549,D Group 0549,https://example-company-0549.com,Australia,Healthcare,Medium,10517,> $1B
+C00550,E Technologies 0550,https://example-company-0550.com,Singapore,Banking,Medium,17387,> $1B
+C00551,F Solutions 0551,https://example-company-0551.com,Netherlands,Retail,Small,945,$50M-$250M
+C00552,G Industries 0552,https://example-company-0552.com,Germany,Logistics,Medium,776,$50M-$250M
+C00553,H Systems 0553,https://example-company-0553.com,Netherlands,Manufacturing,Medium,2025,$250M-$1B
+C00554,I Group 0554,https://example-company-0554.com,Germany,Manufacturing,Medium,11145,> $1B
+C00555,J Technologies 0555,https://example-company-0555.com,Saudi Arabia,Healthcare,Medium,14194,> $1B
+C00556,K Solutions 0556,https://example-company-0556.com,Australia,Insurance,Large,4364,$250M-$1B
+C00557,L Industries 0557,https://example-company-0557.com,India,Education,Enterprise,3157,$250M-$1B
+C00558,M Systems 0558,https://example-company-0558.com,Netherlands,Logistics,Medium,17213,> $1B
+C00559,N Group 0559,https://example-company-0559.com,India,Education,Large,15023,> $1B
+C00560,O Technologies 0560,https://example-company-0560.com,Netherlands,Logistics,Enterprise,12985,> $1B
+C00561,P Solutions 0561,https://example-company-0561.com,Australia,Retail,Enterprise,9792,> $1B
+C00562,Q Industries 0562,https://example-company-0562.com,USA,Retail,Large,8433,> $1B
+C00563,R Systems 0563,https://example-company-0563.com,Canada,Insurance,Enterprise,459,$50M-$250M
+C00564,S Group 0564,https://example-company-0564.com,UK,Education,Enterprise,3802,$250M-$1B
+C00565,T Technologies 0565,https://example-company-0565.com,Netherlands,Manufacturing,Large,17945,> $1B
+C00566,U Solutions 0566,https://example-company-0566.com,UAE,Healthcare,Medium,6813,> $1B
+C00567,V Industries 0567,https://example-company-0567.com,UAE,Education,Small,14105,> $1B
+C00568,W Systems 0568,https://example-company-0568.com,UAE,Manufacturing,Small,14090,> $1B
+C00569,X Group 0569,https://example-company-0569.com,Singapore,Education,Medium,6222,> $1B
+C00570,Y Technologies 0570,https://example-company-0570.com,Australia,Education,Medium,4126,$250M-$1B
+C00571,Z Solutions 0571,https://example-company-0571.com,Saudi Arabia,Banking,Medium,13848,> $1B
+C00572,A Industries 0572,https://example-company-0572.com,Canada,Retail,Large,1916,$250M-$1B
+C00573,B Systems 0573,https://example-company-0573.com,UAE,Telecom,Large,9921,> $1B
+C00574,C Group 0574,https://example-company-0574.com,USA,Logistics,Large,17766,> $1B
+C00575,D Technologies 0575,https://example-company-0575.com,USA,Insurance,Small,14241,> $1B
+C00576,E Solutions 0576,https://example-company-0576.com,Germany,Retail,Medium,15295,> $1B
+C00577,F Industries 0577,https://example-company-0577.com,Saudi Arabia,Manufacturing,Large,1711,$250M-$1B
+C00578,G Systems 0578,https://example-company-0578.com,Australia,Logistics,Large,4035,$250M-$1B
+C00579,H Group 0579,https://example-company-0579.com,Netherlands,Banking,Enterprise,5538,> $1B
+C00580,I Technologies 0580,https://example-company-0580.com,UK,Manufacturing,Enterprise,5881,> $1B
+C00581,J Solutions 0581,https://example-company-0581.com,USA,Retail,Enterprise,3921,$250M-$1B
+C00582,K Industries 0582,https://example-company-0582.com,Netherlands,Insurance,Medium,19442,> $1B
+C00583,L Systems 0583,https://example-company-0583.com,UK,Manufacturing,Medium,3340,$250M-$1B
+C00584,M Group 0584,https://example-company-0584.com,USA,Healthcare,Medium,14178,> $1B
+C00585,N Technologies 0585,https://example-company-0585.com,Canada,Telecom,Large,11755,> $1B
+C00586,O Solutions 0586,https://example-company-0586.com,Saudi Arabia,Retail,Enterprise,12229,> $1B
+C00587,P Industries 0587,https://example-company-0587.com,Singapore,Logistics,Medium,4332,$250M-$1B
+C00588,Q Systems 0588,https://example-company-0588.com,USA,Banking,Large,6187,> $1B
+C00589,R Group 0589,https://example-company-0589.com,Netherlands,Logistics,Medium,12149,> $1B
+C00590,S Technologies 0590,https://example-company-0590.com,Netherlands,Banking,Medium,6017,> $1B
+C00591,T Solutions 0591,https://example-company-0591.com,Netherlands,Telecom,Medium,13897,> $1B
+C00592,U Industries 0592,https://example-company-0592.com,Saudi Arabia,Retail,Small,838,$50M-$250M
+C00593,V Systems 0593,https://example-company-0593.com,UAE,Healthcare,Enterprise,1502,$250M-$1B
+C00594,W Group 0594,https://example-company-0594.com,Saudi Arabia,Banking,Medium,14583,> $1B
+C00595,X Technologies 0595,https://example-company-0595.com,Germany,Telecom,Large,12354,> $1B
+C00596,Y Solutions 0596,https://example-company-0596.com,Netherlands,Insurance,Large,911,$50M-$250M
+C00597,Z Industries 0597,https://example-company-0597.com,Australia,Telecom,Medium,17985,> $1B
+C00598,A Systems 0598,https://example-company-0598.com,India,Telecom,Medium,146,< $50M
+C00599,B Group 0599,https://example-company-0599.com,Singapore,Logistics,Large,19113,> $1B
+C00600,C Technologies 0600,https://example-company-0600.com,Singapore,Telecom,Medium,14603,> $1B
+C00601,D Solutions 0601,https://example-company-0601.com,Singapore,Retail,Enterprise,19763,> $1B
+C00602,E Industries 0602,https://example-company-0602.com,India,Telecom,Small,18980,> $1B
+C00603,F Systems 0603,https://example-company-0603.com,India,Logistics,Large,6296,> $1B
+C00604,G Group 0604,https://example-company-0604.com,UK,Retail,Large,15142,> $1B
+C00605,H Technologies 0605,https://example-company-0605.com,Netherlands,Banking,Medium,4257,$250M-$1B
+C00606,I Solutions 0606,https://example-company-0606.com,Australia,Education,Medium,9459,> $1B
+C00607,J Industries 0607,https://example-company-0607.com,Germany,Insurance,Enterprise,4840,$250M-$1B
+C00608,K Systems 0608,https://example-company-0608.com,Australia,Manufacturing,Medium,9746,> $1B
+C00609,L Group 0609,https://example-company-0609.com,Saudi Arabia,Insurance,Medium,17453,> $1B
+C00610,M Technologies 0610,https://example-company-0610.com,Netherlands,Insurance,Medium,8750,> $1B
+C00611,N Solutions 0611,https://example-company-0611.com,Netherlands,Logistics,Medium,1893,$250M-$1B
+C00612,O Industries 0612,https://example-company-0612.com,Canada,Insurance,Large,6526,> $1B
+C00613,P Systems 0613,https://example-company-0613.com,India,Telecom,Large,15741,> $1B
+C00614,Q Group 0614,https://example-company-0614.com,Germany,Telecom,Medium,10458,> $1B
+C00615,R Technologies 0615,https://example-company-0615.com,Singapore,Banking,Large,11225,> $1B
+C00616,S Solutions 0616,https://example-company-0616.com,Singapore,Insurance,Medium,8651,> $1B
+C00617,T Industries 0617,https://example-company-0617.com,UAE,Logistics,Small,5890,> $1B
+C00618,U Systems 0618,https://example-company-0618.com,UAE,Manufacturing,Large,11983,> $1B
+C00619,V Group 0619,https://example-company-0619.com,USA,Banking,Enterprise,12680,> $1B
+C00620,W Technologies 0620,https://example-company-0620.com,UK,Education,Small,17967,> $1B
+C00621,X Solutions 0621,https://example-company-0621.com,Canada,Retail,Medium,12374,> $1B
+C00622,Y Industries 0622,https://example-company-0622.com,Canada,Banking,Large,19900,> $1B
+C00623,Z Systems 0623,https://example-company-0623.com,UK,Education,Large,16540,> $1B
+C00624,A Group 0624,https://example-company-0624.com,Canada,Banking,Small,1620,$250M-$1B
+C00625,B Technologies 0625,https://example-company-0625.com,Singapore,Manufacturing,Medium,7873,> $1B
+C00626,C Solutions 0626,https://example-company-0626.com,UAE,Education,Large,7724,> $1B
+C00627,D Industries 0627,https://example-company-0627.com,Germany,Manufacturing,Medium,110,< $50M
+C00628,E Systems 0628,https://example-company-0628.com,Germany,Manufacturing,Medium,3655,$250M-$1B
+C00629,F Group 0629,https://example-company-0629.com,Australia,Healthcare,Medium,15255,> $1B
+C00630,G Technologies 0630,https://example-company-0630.com,Germany,Insurance,Medium,7074,> $1B
+C00631,H Solutions 0631,https://example-company-0631.com,India,Manufacturing,Medium,3000,$250M-$1B
+C00632,I Industries 0632,https://example-company-0632.com,Germany,Education,Enterprise,5785,> $1B
+C00633,J Systems 0633,https://example-company-0633.com,Canada,Banking,Large,5530,> $1B
+C00634,K Group 0634,https://example-company-0634.com,Germany,Education,Large,3532,$250M-$1B
+C00635,L Technologies 0635,https://example-company-0635.com,UK,Healthcare,Enterprise,2068,$250M-$1B
+C00636,M Solutions 0636,https://example-company-0636.com,Singapore,Manufacturing,Medium,15293,> $1B
+C00637,N Industries 0637,https://example-company-0637.com,UAE,Insurance,Medium,16499,> $1B
+C00638,O Systems 0638,https://example-company-0638.com,UAE,Manufacturing,Enterprise,9950,> $1B
+C00639,P Group 0639,https://example-company-0639.com,India,Insurance,Medium,12328,> $1B
+C00640,Q Technologies 0640,https://example-company-0640.com,Saudi Arabia,Retail,Large,18388,> $1B
+C00641,R Solutions 0641,https://example-company-0641.com,Singapore,Telecom,Large,16861,> $1B
+C00642,S Industries 0642,https://example-company-0642.com,Saudi Arabia,Banking,Small,700,$50M-$250M
+C00643,T Systems 0643,https://example-company-0643.com,Netherlands,Healthcare,Medium,19061,> $1B
+C00644,U Group 0644,https://example-company-0644.com,Canada,Manufacturing,Medium,1386,$250M-$1B
+C00645,V Technologies 0645,https://example-company-0645.com,India,Insurance,Medium,580,$50M-$250M
+C00646,W Solutions 0646,https://example-company-0646.com,Germany,Retail,Medium,8095,> $1B
+C00647,X Industries 0647,https://example-company-0647.com,Canada,Retail,Medium,14929,> $1B
+C00648,Y Systems 0648,https://example-company-0648.com,Australia,Telecom,Large,1651,$250M-$1B
+C00649,Z Group 0649,https://example-company-0649.com,Saudi Arabia,Education,Enterprise,5895,> $1B
+C00650,A Technologies 0650,https://example-company-0650.com,Netherlands,Logistics,Large,5291,> $1B
+C00651,B Solutions 0651,https://example-company-0651.com,Canada,Insurance,Medium,7977,> $1B
+C00652,C Industries 0652,https://example-company-0652.com,Singapore,Banking,Medium,19721,> $1B
+C00653,D Systems 0653,https://example-company-0653.com,UAE,Banking,Medium,6661,> $1B
+C00654,E Group 0654,https://example-company-0654.com,Netherlands,Manufacturing,Small,4218,$250M-$1B
+C00655,F Technologies 0655,https://example-company-0655.com,Australia,Insurance,Enterprise,2490,$250M-$1B
+C00656,G Solutions 0656,https://example-company-0656.com,Australia,Insurance,Medium,4002,$250M-$1B
+C00657,H Industries 0657,https://example-company-0657.com,India,Logistics,Medium,2706,$250M-$1B
+C00658,I Systems 0658,https://example-company-0658.com,Singapore,Logistics,Large,11494,> $1B
+C00659,J Group 0659,https://example-company-0659.com,USA,Logistics,Medium,8439,> $1B
+C00660,K Technologies 0660,https://example-company-0660.com,UAE,Retail,Small,9985,> $1B
+C00661,L Solutions 0661,https://example-company-0661.com,UK,Manufacturing,Medium,16651,> $1B
+C00662,M Industries 0662,https://example-company-0662.com,India,Manufacturing,Large,11629,> $1B
+C00663,N Systems 0663,https://example-company-0663.com,USA,Insurance,Large,3145,$250M-$1B
+C00664,O Group 0664,https://example-company-0664.com,UAE,Manufacturing,Medium,7565,> $1B
+C00665,P Technologies 0665,https://example-company-0665.com,Australia,Manufacturing,Enterprise,6285,> $1B
+C00666,Q Solutions 0666,https://example-company-0666.com,Singapore,Healthcare,Enterprise,16543,> $1B
+C00667,R Industries 0667,https://example-company-0667.com,Australia,Logistics,Large,6175,> $1B
+C00668,S Systems 0668,https://example-company-0668.com,Netherlands,Telecom,Medium,2814,$250M-$1B
+C00669,T Group 0669,https://example-company-0669.com,Saudi Arabia,Manufacturing,Small,14733,> $1B
+C00670,U Technologies 0670,https://example-company-0670.com,UK,Telecom,Enterprise,8596,> $1B
+C00671,V Solutions 0671,https://example-company-0671.com,Saudi Arabia,Logistics,Medium,1962,$250M-$1B
+C00672,W Industries 0672,https://example-company-0672.com,Singapore,Manufacturing,Large,13810,> $1B
+C00673,X Systems 0673,https://example-company-0673.com,Singapore,Retail,Large,4249,$250M-$1B
+C00674,Y Group 0674,https://example-company-0674.com,USA,Logistics,Small,17371,> $1B
+C00675,Z Technologies 0675,https://example-company-0675.com,Singapore,Telecom,Large,16657,> $1B
+C00676,A Solutions 0676,https://example-company-0676.com,India,Education,Enterprise,7422,> $1B
+C00677,B Industries 0677,https://example-company-0677.com,Australia,Insurance,Large,11134,> $1B
+C00678,C Systems 0678,https://example-company-0678.com,USA,Healthcare,Medium,11376,> $1B
+C00679,D Group 0679,https://example-company-0679.com,Australia,Education,Enterprise,13085,> $1B
+C00680,E Technologies 0680,https://example-company-0680.com,Saudi Arabia,Manufacturing,Large,1429,$250M-$1B
+C00681,F Solutions 0681,https://example-company-0681.com,India,Education,Large,6530,> $1B
+C00682,G Industries 0682,https://example-company-0682.com,UK,Banking,Large,3447,$250M-$1B
+C00683,H Systems 0683,https://example-company-0683.com,Saudi Arabia,Banking,Large,13965,> $1B
+C00684,I Group 0684,https://example-company-0684.com,Saudi Arabia,Logistics,Medium,1429,$250M-$1B
+C00685,J Technologies 0685,https://example-company-0685.com,UK,Retail,Small,10363,> $1B
+C00686,K Solutions 0686,https://example-company-0686.com,Netherlands,Manufacturing,Medium,14571,> $1B
+C00687,L Industries 0687,https://example-company-0687.com,Canada,Healthcare,Large,18970,> $1B
+C00688,M Systems 0688,https://example-company-0688.com,Australia,Healthcare,Large,5796,> $1B
+C00689,N Group 0689,https://example-company-0689.com,Canada,Education,Large,209,< $50M
+C00690,O Technologies 0690,https://example-company-0690.com,India,Banking,Medium,14488,> $1B
+C00691,P Solutions 0691,https://example-company-0691.com,Saudi Arabia,Logistics,Large,80,< $50M
+C00692,Q Industries 0692,https://example-company-0692.com,India,Education,Enterprise,1374,$250M-$1B
+C00693,R Systems 0693,https://example-company-0693.com,Saudi Arabia,Telecom,Medium,19810,> $1B
+C00694,S Group 0694,https://example-company-0694.com,Saudi Arabia,Healthcare,Large,17257,> $1B
+C00695,T Technologies 0695,https://example-company-0695.com,USA,Insurance,Large,14165,> $1B
+C00696,U Solutions 0696,https://example-company-0696.com,UAE,Telecom,Large,16718,> $1B
+C00697,V Industries 0697,https://example-company-0697.com,India,Healthcare,Medium,1553,$250M-$1B
+C00698,W Systems 0698,https://example-company-0698.com,Australia,Insurance,Large,1824,$250M-$1B
+C00699,X Group 0699,https://example-company-0699.com,USA,Retail,Enterprise,6051,> $1B
+C00700,Y Technologies 0700,https://example-company-0700.com,USA,Education,Large,523,$50M-$250M
+C00701,Z Solutions 0701,https://example-company-0701.com,Australia,Retail,Enterprise,17771,> $1B
+C00702,A Industries 0702,https://example-company-0702.com,Singapore,Insurance,Enterprise,1172,$250M-$1B
+C00703,B Systems 0703,https://example-company-0703.com,UK,Telecom,Medium,10903,> $1B
+C00704,C Group 0704,https://example-company-0704.com,UK,Insurance,Large,17079,> $1B
+C00705,D Technologies 0705,https://example-company-0705.com,UK,Education,Medium,14712,> $1B
+C00706,E Solutions 0706,https://example-company-0706.com,Australia,Logistics,Enterprise,4732,$250M-$1B
+C00707,F Industries 0707,https://example-company-0707.com,USA,Education,Small,9433,> $1B
+C00708,G Systems 0708,https://example-company-0708.com,Australia,Education,Medium,10988,> $1B
+C00709,H Group 0709,https://example-company-0709.com,Canada,Insurance,Enterprise,15370,> $1B
+C00710,I Technologies 0710,https://example-company-0710.com,Canada,Insurance,Medium,8553,> $1B
+C00711,J Solutions 0711,https://example-company-0711.com,Singapore,Retail,Large,5736,> $1B
+C00712,K Industries 0712,https://example-company-0712.com,Australia,Healthcare,Medium,15920,> $1B
+C00713,L Systems 0713,https://example-company-0713.com,India,Education,Enterprise,17735,> $1B
+C00714,M Group 0714,https://example-company-0714.com,India,Telecom,Enterprise,9803,> $1B
+C00715,N Technologies 0715,https://example-company-0715.com,Saudi Arabia,Telecom,Medium,609,$50M-$250M
+C00716,O Solutions 0716,https://example-company-0716.com,India,Education,Large,10038,> $1B
+C00717,P Industries 0717,https://example-company-0717.com,Australia,Telecom,Medium,17791,> $1B
+C00718,Q Systems 0718,https://example-company-0718.com,Canada,Healthcare,Large,19782,> $1B
+C00719,R Group 0719,https://example-company-0719.com,UAE,Healthcare,Large,8050,> $1B
+C00720,S Technologies 0720,https://example-company-0720.com,Australia,Manufacturing,Large,3045,$250M-$1B
+C00721,T Solutions 0721,https://example-company-0721.com,UK,Banking,Small,11464,> $1B
+C00722,U Industries 0722,https://example-company-0722.com,Saudi Arabia,Telecom,Medium,16622,> $1B
+C00723,V Systems 0723,https://example-company-0723.com,Netherlands,Telecom,Large,18902,> $1B
+C00724,W Group 0724,https://example-company-0724.com,UK,Telecom,Large,1082,$250M-$1B
+C00725,X Technologies 0725,https://example-company-0725.com,India,Manufacturing,Medium,5846,> $1B
+C00726,Y Solutions 0726,https://example-company-0726.com,UK,Logistics,Small,9579,> $1B
+C00727,Z Industries 0727,https://example-company-0727.com,India,Education,Medium,2010,$250M-$1B
+C00728,A Systems 0728,https://example-company-0728.com,USA,Manufacturing,Enterprise,17732,> $1B
+C00729,B Group 0729,https://example-company-0729.com,Canada,Healthcare,Small,2287,$250M-$1B
+C00730,C Technologies 0730,https://example-company-0730.com,Singapore,Banking,Medium,13321,> $1B
+C00731,D Solutions 0731,https://example-company-0731.com,India,Logistics,Enterprise,18376,> $1B
+C00732,E Industries 0732,https://example-company-0732.com,Canada,Education,Small,13720,> $1B
+C00733,F Systems 0733,https://example-company-0733.com,Saudi Arabia,Telecom,Large,15275,> $1B
+C00734,G Group 0734,https://example-company-0734.com,India,Logistics,Medium,5303,> $1B
+C00735,H Technologies 0735,https://example-company-0735.com,UAE,Logistics,Enterprise,16558,> $1B
+C00736,I Solutions 0736,https://example-company-0736.com,Singapore,Logistics,Large,8400,> $1B
+C00737,J Industries 0737,https://example-company-0737.com,India,Manufacturing,Enterprise,1273,$250M-$1B
+C00738,K Systems 0738,https://example-company-0738.com,Germany,Banking,Medium,7363,> $1B
+C00739,L Group 0739,https://example-company-0739.com,India,Banking,Large,7029,> $1B
+C00740,M Technologies 0740,https://example-company-0740.com,Netherlands,Insurance,Large,10452,> $1B
+C00741,N Solutions 0741,https://example-company-0741.com,Netherlands,Healthcare,Medium,5333,> $1B
+C00742,O Industries 0742,https://example-company-0742.com,India,Telecom,Medium,9271,> $1B
+C00743,P Systems 0743,https://example-company-0743.com,Singapore,Healthcare,Small,8587,> $1B
+C00744,Q Group 0744,https://example-company-0744.com,UAE,Banking,Enterprise,6571,> $1B
+C00745,R Technologies 0745,https://example-company-0745.com,India,Insurance,Large,13939,> $1B
+C00746,S Solutions 0746,https://example-company-0746.com,Germany,Education,Large,6144,> $1B
+C00747,T Industries 0747,https://example-company-0747.com,Australia,Education,Large,15327,> $1B
+C00748,U Systems 0748,https://example-company-0748.com,Germany,Healthcare,Large,5054,> $1B
+C00749,V Group 0749,https://example-company-0749.com,Germany,Logistics,Medium,17304,> $1B
+C00750,W Technologies 0750,https://example-company-0750.com,UK,Telecom,Medium,7332,> $1B
+C00751,X Solutions 0751,https://example-company-0751.com,Saudi Arabia,Education,Large,861,$50M-$250M
+C00752,Y Industries 0752,https://example-company-0752.com,UK,Education,Medium,3041,$250M-$1B
+C00753,Z Systems 0753,https://example-company-0753.com,USA,Telecom,Enterprise,16134,> $1B
+C00754,A Group 0754,https://example-company-0754.com,Saudi Arabia,Healthcare,Large,17448,> $1B
+C00755,B Technologies 0755,https://example-company-0755.com,Australia,Telecom,Medium,4278,$250M-$1B
+C00756,C Solutions 0756,https://example-company-0756.com,Canada,Retail,Large,12062,> $1B
+C00757,D Industries 0757,https://example-company-0757.com,India,Retail,Small,11508,> $1B
+C00758,E Systems 0758,https://example-company-0758.com,Germany,Manufacturing,Enterprise,2719,$250M-$1B
+C00759,F Group 0759,https://example-company-0759.com,UK,Manufacturing,Enterprise,9067,> $1B
+C00760,G Technologies 0760,https://example-company-0760.com,India,Manufacturing,Enterprise,13892,> $1B
+C00761,H Solutions 0761,https://example-company-0761.com,UK,Healthcare,Medium,19344,> $1B
+C00762,I Industries 0762,https://example-company-0762.com,Australia,Healthcare,Medium,16960,> $1B
+C00763,J Systems 0763,https://example-company-0763.com,Saudi Arabia,Banking,Medium,2001,$250M-$1B
+C00764,K Group 0764,https://example-company-0764.com,Saudi Arabia,Manufacturing,Small,4788,$250M-$1B
+C00765,L Technologies 0765,https://example-company-0765.com,Germany,Manufacturing,Small,8762,> $1B
+C00766,M Solutions 0766,https://example-company-0766.com,India,Education,Small,3054,$250M-$1B
+C00767,N Industries 0767,https://example-company-0767.com,Singapore,Manufacturing,Enterprise,11435,> $1B
+C00768,O Systems 0768,https://example-company-0768.com,Canada,Healthcare,Small,221,< $50M
+C00769,P Group 0769,https://example-company-0769.com,UK,Banking,Small,2314,$250M-$1B
+C00770,Q Technologies 0770,https://example-company-0770.com,Germany,Insurance,Large,992,$50M-$250M
+C00771,R Solutions 0771,https://example-company-0771.com,Singapore,Retail,Large,5944,> $1B
+C00772,S Industries 0772,https://example-company-0772.com,Saudi Arabia,Healthcare,Large,15256,> $1B
+C00773,T Systems 0773,https://example-company-0773.com,USA,Retail,Large,3586,$250M-$1B
+C00774,U Group 0774,https://example-company-0774.com,India,Healthcare,Enterprise,19744,> $1B
+C00775,V Technologies 0775,https://example-company-0775.com,Netherlands,Logistics,Large,5427,> $1B
+C00776,W Solutions 0776,https://example-company-0776.com,Saudi Arabia,Insurance,Large,945,$50M-$250M
+C00777,X Industries 0777,https://example-company-0777.com,Canada,Retail,Large,6743,> $1B
+C00778,Y Systems 0778,https://example-company-0778.com,UK,Insurance,Medium,14974,> $1B
+C00779,Z Group 0779,https://example-company-0779.com,UAE,Retail,Medium,2177,$250M-$1B
+C00780,A Technologies 0780,https://example-company-0780.com,Netherlands,Telecom,Medium,1483,$250M-$1B
+C00781,B Solutions 0781,https://example-company-0781.com,Netherlands,Banking,Medium,16994,> $1B
+C00782,C Industries 0782,https://example-company-0782.com,Singapore,Retail,Large,11863,> $1B
+C00783,D Systems 0783,https://example-company-0783.com,UK,Banking,Medium,6897,> $1B
+C00784,E Group 0784,https://example-company-0784.com,UK,Education,Medium,15133,> $1B
+C00785,F Technologies 0785,https://example-company-0785.com,Canada,Telecom,Medium,16894,> $1B
+C00786,G Solutions 0786,https://example-company-0786.com,Australia,Insurance,Large,7216,> $1B
+C00787,H Industries 0787,https://example-company-0787.com,USA,Insurance,Medium,11245,> $1B
+C00788,I Systems 0788,https://example-company-0788.com,Singapore,Banking,Large,268,$50M-$250M
+C00789,J Group 0789,https://example-company-0789.com,Australia,Healthcare,Enterprise,6157,> $1B
+C00790,K Technologies 0790,https://example-company-0790.com,USA,Logistics,Small,11924,> $1B
+C00791,L Solutions 0791,https://example-company-0791.com,USA,Manufacturing,Large,3982,$250M-$1B
+C00792,M Industries 0792,https://example-company-0792.com,Canada,Education,Medium,19825,> $1B
+C00793,N Systems 0793,https://example-company-0793.com,India,Retail,Medium,19424,> $1B
+C00794,O Group 0794,https://example-company-0794.com,Netherlands,Retail,Large,5189,> $1B
+C00795,P Technologies 0795,https://example-company-0795.com,Canada,Healthcare,Enterprise,7957,> $1B
+C00796,Q Solutions 0796,https://example-company-0796.com,UAE,Insurance,Medium,3830,$250M-$1B
+C00797,R Industries 0797,https://example-company-0797.com,Saudi Arabia,Education,Large,10103,> $1B
+C00798,S Systems 0798,https://example-company-0798.com,Canada,Insurance,Medium,2522,$250M-$1B
+C00799,T Group 0799,https://example-company-0799.com,Germany,Healthcare,Large,7849,> $1B
+C00800,U Technologies 0800,https://example-company-0800.com,Canada,Manufacturing,Large,11127,> $1B
+C00801,V Solutions 0801,https://example-company-0801.com,USA,Banking,Large,12256,> $1B
+C00802,W Industries 0802,https://example-company-0802.com,Germany,Healthcare,Large,11949,> $1B
+C00803,X Systems 0803,https://example-company-0803.com,Australia,Healthcare,Small,4467,$250M-$1B
+C00804,Y Group 0804,https://example-company-0804.com,Saudi Arabia,Retail,Large,15855,> $1B
+C00805,Z Technologies 0805,https://example-company-0805.com,India,Insurance,Large,13850,> $1B
+C00806,A Solutions 0806,https://example-company-0806.com,India,Banking,Large,15073,> $1B
+C00807,B Industries 0807,https://example-company-0807.com,Australia,Banking,Small,9383,> $1B
+C00808,C Systems 0808,https://example-company-0808.com,UK,Healthcare,Medium,17856,> $1B
+C00809,D Group 0809,https://example-company-0809.com,Germany,Banking,Medium,7827,> $1B
+C00810,E Technologies 0810,https://example-company-0810.com,Saudi Arabia,Education,Small,16125,> $1B
+C00811,F Solutions 0811,https://example-company-0811.com,USA,Insurance,Medium,4110,$250M-$1B
+C00812,G Industries 0812,https://example-company-0812.com,Netherlands,Telecom,Medium,4982,$250M-$1B
+C00813,H Systems 0813,https://example-company-0813.com,Singapore,Telecom,Large,10558,> $1B
+C00814,I Group 0814,https://example-company-0814.com,UAE,Healthcare,Medium,11139,> $1B
+C00815,J Technologies 0815,https://example-company-0815.com,India,Education,Large,14937,> $1B
+C00816,K Solutions 0816,https://example-company-0816.com,Netherlands,Banking,Large,5983,> $1B
+C00817,L Industries 0817,https://example-company-0817.com,USA,Insurance,Large,17459,> $1B
+C00818,M Systems 0818,https://example-company-0818.com,UK,Retail,Medium,6629,> $1B
+C00819,N Group 0819,https://example-company-0819.com,Singapore,Insurance,Medium,10706,> $1B
+C00820,O Technologies 0820,https://example-company-0820.com,Saudi Arabia,Retail,Large,18642,> $1B
+C00821,P Solutions 0821,https://example-company-0821.com,USA,Retail,Enterprise,10811,> $1B
+C00822,Q Industries 0822,https://example-company-0822.com,Singapore,Logistics,Medium,13653,> $1B
+C00823,R Systems 0823,https://example-company-0823.com,UK,Retail,Large,18177,> $1B
+C00824,S Group 0824,https://example-company-0824.com,Singapore,Education,Large,19493,> $1B
+C00825,T Technologies 0825,https://example-company-0825.com,Singapore,Logistics,Large,10013,> $1B
+C00826,U Solutions 0826,https://example-company-0826.com,USA,Education,Small,8367,> $1B
+C00827,V Industries 0827,https://example-company-0827.com,Singapore,Banking,Large,3978,$250M-$1B
+C00828,W Systems 0828,https://example-company-0828.com,Netherlands,Education,Medium,10771,> $1B
+C00829,X Group 0829,https://example-company-0829.com,Netherlands,Manufacturing,Enterprise,18370,> $1B
+C00830,Y Technologies 0830,https://example-company-0830.com,USA,Education,Medium,9767,> $1B
+C00831,Z Solutions 0831,https://example-company-0831.com,UAE,Retail,Medium,7002,> $1B
+C00832,A Industries 0832,https://example-company-0832.com,UAE,Education,Enterprise,2190,$250M-$1B
+C00833,B Systems 0833,https://example-company-0833.com,Canada,Manufacturing,Medium,7825,> $1B
+C00834,C Group 0834,https://example-company-0834.com,UK,Banking,Medium,4772,$250M-$1B
+C00835,D Technologies 0835,https://example-company-0835.com,Netherlands,Healthcare,Medium,19535,> $1B
+C00836,E Solutions 0836,https://example-company-0836.com,India,Insurance,Small,10576,> $1B
+C00837,F Industries 0837,https://example-company-0837.com,Netherlands,Education,Small,2782,$250M-$1B
+C00838,G Systems 0838,https://example-company-0838.com,UK,Retail,Medium,1394,$250M-$1B
+C00839,H Group 0839,https://example-company-0839.com,USA,Insurance,Large,17022,> $1B
+C00840,I Technologies 0840,https://example-company-0840.com,Saudi Arabia,Manufacturing,Large,18632,> $1B
+C00841,J Solutions 0841,https://example-company-0841.com,UAE,Healthcare,Small,15271,> $1B
+C00842,K Industries 0842,https://example-company-0842.com,Singapore,Banking,Large,2520,$250M-$1B
+C00843,L Systems 0843,https://example-company-0843.com,Saudi Arabia,Logistics,Medium,2010,$250M-$1B
+C00844,M Group 0844,https://example-company-0844.com,USA,Logistics,Enterprise,3999,$250M-$1B
+C00845,N Technologies 0845,https://example-company-0845.com,USA,Telecom,Medium,15035,> $1B
+C00846,O Solutions 0846,https://example-company-0846.com,USA,Manufacturing,Large,15318,> $1B
+C00847,P Industries 0847,https://example-company-0847.com,UK,Healthcare,Medium,16765,> $1B
+C00848,Q Systems 0848,https://example-company-0848.com,USA,Manufacturing,Large,1983,$250M-$1B
+C00849,R Group 0849,https://example-company-0849.com,Netherlands,Manufacturing,Medium,3106,$250M-$1B
+C00850,S Technologies 0850,https://example-company-0850.com,Singapore,Insurance,Large,18010,> $1B
+C00851,T Solutions 0851,https://example-company-0851.com,Saudi Arabia,Banking,Medium,18578,> $1B
+C00852,U Industries 0852,https://example-company-0852.com,Netherlands,Retail,Enterprise,14527,> $1B
+C00853,V Systems 0853,https://example-company-0853.com,Saudi Arabia,Healthcare,Large,2165,$250M-$1B
+C00854,W Group 0854,https://example-company-0854.com,UAE,Insurance,Large,1418,$250M-$1B
+C00855,X Technologies 0855,https://example-company-0855.com,UAE,Banking,Large,1158,$250M-$1B
+C00856,Y Solutions 0856,https://example-company-0856.com,Netherlands,Logistics,Enterprise,13852,> $1B
+C00857,Z Industries 0857,https://example-company-0857.com,UAE,Retail,Medium,16927,> $1B
+C00858,A Systems 0858,https://example-company-0858.com,USA,Manufacturing,Medium,12650,> $1B
+C00859,B Group 0859,https://example-company-0859.com,Singapore,Manufacturing,Medium,5278,> $1B
+C00860,C Technologies 0860,https://example-company-0860.com,Netherlands,Telecom,Medium,15159,> $1B
+C00861,D Solutions 0861,https://example-company-0861.com,Saudi Arabia,Telecom,Large,1229,$250M-$1B
+C00862,E Industries 0862,https://example-company-0862.com,Saudi Arabia,Retail,Enterprise,16572,> $1B
+C00863,F Systems 0863,https://example-company-0863.com,UK,Logistics,Enterprise,17843,> $1B
+C00864,G Group 0864,https://example-company-0864.com,India,Retail,Large,14381,> $1B
+C00865,H Technologies 0865,https://example-company-0865.com,Netherlands,Logistics,Large,17591,> $1B
+C00866,I Solutions 0866,https://example-company-0866.com,Singapore,Healthcare,Enterprise,11744,> $1B
+C00867,J Industries 0867,https://example-company-0867.com,Netherlands,Banking,Enterprise,9393,> $1B
+C00868,K Systems 0868,https://example-company-0868.com,Netherlands,Logistics,Medium,6483,> $1B
+C00869,L Group 0869,https://example-company-0869.com,Canada,Banking,Large,18438,> $1B
+C00870,M Technologies 0870,https://example-company-0870.com,USA,Logistics,Large,13960,> $1B
+C00871,N Solutions 0871,https://example-company-0871.com,Canada,Banking,Medium,3850,$250M-$1B
+C00872,O Industries 0872,https://example-company-0872.com,UAE,Insurance,Medium,19141,> $1B
+C00873,P Systems 0873,https://example-company-0873.com,UK,Manufacturing,Enterprise,1231,$250M-$1B
+C00874,Q Group 0874,https://example-company-0874.com,UK,Education,Enterprise,11771,> $1B
+C00875,R Technologies 0875,https://example-company-0875.com,Singapore,Healthcare,Enterprise,3851,$250M-$1B
+C00876,S Solutions 0876,https://example-company-0876.com,Australia,Banking,Large,13303,> $1B
+C00877,T Industries 0877,https://example-company-0877.com,Australia,Insurance,Medium,8282,> $1B
+C00878,U Systems 0878,https://example-company-0878.com,India,Education,Medium,8770,> $1B
+C00879,V Group 0879,https://example-company-0879.com,Australia,Telecom,Large,13447,> $1B
+C00880,W Technologies 0880,https://example-company-0880.com,Singapore,Banking,Large,15134,> $1B
+C00881,X Solutions 0881,https://example-company-0881.com,USA,Healthcare,Large,7631,> $1B
+C00882,Y Industries 0882,https://example-company-0882.com,Netherlands,Retail,Large,19953,> $1B
+C00883,Z Systems 0883,https://example-company-0883.com,Canada,Insurance,Medium,9994,> $1B
+C00884,A Group 0884,https://example-company-0884.com,UK,Logistics,Large,3249,$250M-$1B
+C00885,B Technologies 0885,https://example-company-0885.com,Netherlands,Manufacturing,Medium,177,< $50M
+C00886,C Solutions 0886,https://example-company-0886.com,India,Insurance,Medium,4087,$250M-$1B
+C00887,D Industries 0887,https://example-company-0887.com,USA,Telecom,Small,13837,> $1B
+C00888,E Systems 0888,https://example-company-0888.com,UK,Healthcare,Medium,10811,> $1B
+C00889,F Group 0889,https://example-company-0889.com,USA,Banking,Enterprise,6789,> $1B
+C00890,G Technologies 0890,https://example-company-0890.com,UAE,Healthcare,Medium,9653,> $1B
+C00891,H Solutions 0891,https://example-company-0891.com,USA,Insurance,Medium,16770,> $1B
+C00892,I Industries 0892,https://example-company-0892.com,India,Insurance,Large,11452,> $1B
+C00893,J Systems 0893,https://example-company-0893.com,Australia,Education,Large,1209,$250M-$1B
+C00894,K Group 0894,https://example-company-0894.com,Saudi Arabia,Telecom,Small,1029,$250M-$1B
+C00895,L Technologies 0895,https://example-company-0895.com,India,Insurance,Medium,9666,> $1B
+C00896,M Solutions 0896,https://example-company-0896.com,Singapore,Logistics,Medium,8115,> $1B
+C00897,N Industries 0897,https://example-company-0897.com,Australia,Manufacturing,Large,17017,> $1B
+C00898,O Systems 0898,https://example-company-0898.com,USA,Logistics,Medium,11680,> $1B
+C00899,P Group 0899,https://example-company-0899.com,USA,Telecom,Small,15149,> $1B
+C00900,Q Technologies 0900,https://example-company-0900.com,Singapore,Retail,Small,11724,> $1B
+C00901,R Solutions 0901,https://example-company-0901.com,USA,Manufacturing,Large,6938,> $1B
+C00902,S Industries 0902,https://example-company-0902.com,USA,Manufacturing,Small,13163,> $1B
+C00903,T Systems 0903,https://example-company-0903.com,UAE,Telecom,Large,12447,> $1B
+C00904,U Group 0904,https://example-company-0904.com,Netherlands,Insurance,Medium,14418,> $1B
+C00905,V Technologies 0905,https://example-company-0905.com,Canada,Retail,Large,3825,$250M-$1B
+C00906,W Solutions 0906,https://example-company-0906.com,India,Insurance,Medium,12848,> $1B
+C00907,X Industries 0907,https://example-company-0907.com,Canada,Retail,Medium,5745,> $1B
+C00908,Y Systems 0908,https://example-company-0908.com,UK,Insurance,Small,15815,> $1B
+C00909,Z Group 0909,https://example-company-0909.com,Germany,Banking,Large,15980,> $1B
+C00910,A Technologies 0910,https://example-company-0910.com,USA,Education,Enterprise,12513,> $1B
+C00911,B Solutions 0911,https://example-company-0911.com,India,Banking,Small,18936,> $1B
+C00912,C Industries 0912,https://example-company-0912.com,UK,Education,Medium,10773,> $1B
+C00913,D Systems 0913,https://example-company-0913.com,Germany,Banking,Enterprise,551,$50M-$250M
+C00914,E Group 0914,https://example-company-0914.com,Saudi Arabia,Logistics,Large,12143,> $1B
+C00915,F Technologies 0915,https://example-company-0915.com,Australia,Retail,Medium,15565,> $1B
+C00916,G Solutions 0916,https://example-company-0916.com,Canada,Manufacturing,Medium,2068,$250M-$1B
+C00917,H Industries 0917,https://example-company-0917.com,Australia,Retail,Large,2136,$250M-$1B
+C00918,I Systems 0918,https://example-company-0918.com,India,Healthcare,Large,5499,> $1B
+C00919,J Group 0919,https://example-company-0919.com,UAE,Healthcare,Large,16892,> $1B
+C00920,K Technologies 0920,https://example-company-0920.com,Singapore,Manufacturing,Enterprise,10571,> $1B
+C00921,L Solutions 0921,https://example-company-0921.com,Netherlands,Healthcare,Medium,19529,> $1B
+C00922,M Industries 0922,https://example-company-0922.com,Australia,Manufacturing,Medium,17466,> $1B
+C00923,N Systems 0923,https://example-company-0923.com,Canada,Logistics,Medium,11118,> $1B
+C00924,O Group 0924,https://example-company-0924.com,UK,Healthcare,Medium,13597,> $1B
+C00925,P Technologies 0925,https://example-company-0925.com,UAE,Retail,Medium,6653,> $1B
+C00926,Q Solutions 0926,https://example-company-0926.com,Saudi Arabia,Insurance,Small,1853,$250M-$1B
+C00927,R Industries 0927,https://example-company-0927.com,Australia,Retail,Medium,8004,> $1B
+C00928,S Systems 0928,https://example-company-0928.com,Germany,Insurance,Large,11865,> $1B
+C00929,T Group 0929,https://example-company-0929.com,Canada,Insurance,Small,3684,$250M-$1B
+C00930,U Technologies 0930,https://example-company-0930.com,Australia,Education,Medium,4473,$250M-$1B
+C00931,V Solutions 0931,https://example-company-0931.com,Australia,Banking,Large,349,$50M-$250M
+C00932,W Industries 0932,https://example-company-0932.com,Singapore,Healthcare,Large,14693,> $1B
+C00933,X Systems 0933,https://example-company-0933.com,UAE,Logistics,Large,17993,> $1B
+C00934,Y Group 0934,https://example-company-0934.com,Singapore,Education,Large,16557,> $1B
+C00935,Z Technologies 0935,https://example-company-0935.com,Canada,Insurance,Large,7630,> $1B
+C00936,A Solutions 0936,https://example-company-0936.com,Saudi Arabia,Insurance,Small,11889,> $1B
+C00937,B Industries 0937,https://example-company-0937.com,UK,Retail,Medium,19218,> $1B
+C00938,C Systems 0938,https://example-company-0938.com,UK,Manufacturing,Large,11847,> $1B
+C00939,D Group 0939,https://example-company-0939.com,Canada,Education,Medium,5952,> $1B
+C00940,E Technologies 0940,https://example-company-0940.com,Australia,Insurance,Small,6804,> $1B
+C00941,F Solutions 0941,https://example-company-0941.com,Singapore,Insurance,Medium,14556,> $1B
+C00942,G Industries 0942,https://example-company-0942.com,Canada,Retail,Medium,8952,> $1B
+C00943,H Systems 0943,https://example-company-0943.com,Saudi Arabia,Logistics,Medium,16754,> $1B
+C00944,I Group 0944,https://example-company-0944.com,Canada,Banking,Medium,17288,> $1B
+C00945,J Technologies 0945,https://example-company-0945.com,UK,Healthcare,Large,764,$50M-$250M
+C00946,K Solutions 0946,https://example-company-0946.com,UK,Banking,Enterprise,14480,> $1B
+C00947,L Industries 0947,https://example-company-0947.com,Saudi Arabia,Insurance,Medium,7430,> $1B
+C00948,M Systems 0948,https://example-company-0948.com,UK,Education,Enterprise,10419,> $1B
+C00949,N Group 0949,https://example-company-0949.com,Saudi Arabia,Banking,Small,5332,> $1B
+C00950,O Technologies 0950,https://example-company-0950.com,UAE,Retail,Enterprise,7396,> $1B
+C00951,P Solutions 0951,https://example-company-0951.com,USA,Education,Enterprise,6641,> $1B
+C00952,Q Industries 0952,https://example-company-0952.com,Germany,Manufacturing,Small,1055,$250M-$1B
+C00953,R Systems 0953,https://example-company-0953.com,Singapore,Banking,Large,15666,> $1B
+C00954,S Group 0954,https://example-company-0954.com,Canada,Healthcare,Enterprise,2902,$250M-$1B
+C00955,T Technologies 0955,https://example-company-0955.com,India,Education,Enterprise,7547,> $1B
+C00956,U Solutions 0956,https://example-company-0956.com,Singapore,Healthcare,Enterprise,3900,$250M-$1B
+C00957,V Industries 0957,https://example-company-0957.com,Canada,Manufacturing,Large,3254,$250M-$1B
+C00958,W Systems 0958,https://example-company-0958.com,Singapore,Manufacturing,Small,7499,> $1B
+C00959,X Group 0959,https://example-company-0959.com,Saudi Arabia,Telecom,Large,18379,> $1B
+C00960,Y Technologies 0960,https://example-company-0960.com,Canada,Insurance,Large,18885,> $1B
+C00961,Z Solutions 0961,https://example-company-0961.com,UK,Logistics,Large,7664,> $1B
+C00962,A Industries 0962,https://example-company-0962.com,Canada,Education,Medium,10127,> $1B
+C00963,B Systems 0963,https://example-company-0963.com,Netherlands,Insurance,Large,19714,> $1B
+C00964,C Group 0964,https://example-company-0964.com,UAE,Logistics,Medium,4735,$250M-$1B
+C00965,D Technologies 0965,https://example-company-0965.com,Saudi Arabia,Logistics,Large,18896,> $1B
+C00966,E Solutions 0966,https://example-company-0966.com,Australia,Telecom,Small,2159,$250M-$1B
+C00967,F Industries 0967,https://example-company-0967.com,Singapore,Retail,Large,4555,$250M-$1B
+C00968,G Systems 0968,https://example-company-0968.com,Germany,Healthcare,Large,6799,> $1B
+C00969,H Group 0969,https://example-company-0969.com,Saudi Arabia,Logistics,Medium,789,$50M-$250M
+C00970,I Technologies 0970,https://example-company-0970.com,USA,Insurance,Large,16323,> $1B
+C00971,J Solutions 0971,https://example-company-0971.com,UAE,Logistics,Medium,17115,> $1B
+C00972,K Industries 0972,https://example-company-0972.com,Canada,Education,Enterprise,7697,> $1B
+C00973,L Systems 0973,https://example-company-0973.com,Canada,Telecom,Large,16735,> $1B
+C00974,M Group 0974,https://example-company-0974.com,Canada,Retail,Medium,15461,> $1B
+C00975,N Technologies 0975,https://example-company-0975.com,UK,Manufacturing,Medium,16038,> $1B
+C00976,O Solutions 0976,https://example-company-0976.com,UAE,Banking,Medium,16063,> $1B
+C00977,P Industries 0977,https://example-company-0977.com,USA,Education,Medium,11490,> $1B
+C00978,Q Systems 0978,https://example-company-0978.com,Australia,Retail,Enterprise,2260,$250M-$1B
+C00979,R Group 0979,https://example-company-0979.com,Germany,Banking,Large,18473,> $1B
+C00980,S Technologies 0980,https://example-company-0980.com,Australia,Logistics,Medium,12192,> $1B
+C00981,T Solutions 0981,https://example-company-0981.com,Australia,Telecom,Enterprise,18030,> $1B
+C00982,U Industries 0982,https://example-company-0982.com,India,Manufacturing,Medium,19183,> $1B
+C00983,V Systems 0983,https://example-company-0983.com,Australia,Banking,Enterprise,3783,$250M-$1B
+C00984,W Group 0984,https://example-company-0984.com,Singapore,Logistics,Medium,8072,> $1B
+C00985,X Technologies 0985,https://example-company-0985.com,Australia,Telecom,Large,3890,$250M-$1B
+C00986,Y Solutions 0986,https://example-company-0986.com,Singapore,Logistics,Enterprise,1066,$250M-$1B
+C00987,Z Industries 0987,https://example-company-0987.com,Singapore,Logistics,Medium,19329,> $1B
+C00988,A Systems 0988,https://example-company-0988.com,Germany,Insurance,Large,18469,> $1B
+C00989,B Group 0989,https://example-company-0989.com,UAE,Insurance,Enterprise,18638,> $1B
+C00990,C Technologies 0990,https://example-company-0990.com,India,Education,Medium,17679,> $1B
+C00991,D Solutions 0991,https://example-company-0991.com,Germany,Manufacturing,Small,12993,> $1B
+C00992,E Industries 0992,https://example-company-0992.com,Australia,Healthcare,Large,10466,> $1B
+C00993,F Systems 0993,https://example-company-0993.com,UK,Retail,Medium,19829,> $1B
+C00994,G Group 0994,https://example-company-0994.com,Canada,Telecom,Small,11067,> $1B
+C00995,H Technologies 0995,https://example-company-0995.com,Australia,Logistics,Medium,12866,> $1B
+C00996,I Solutions 0996,https://example-company-0996.com,Singapore,Banking,Large,4274,$250M-$1B
+C00997,J Industries 0997,https://example-company-0997.com,Australia,Manufacturing,Medium,14946,> $1B
+C00998,K Systems 0998,https://example-company-0998.com,Germany,Education,Medium,16398,> $1B
+C00999,L Group 0999,https://example-company-0999.com,Saudi Arabia,Retail,Large,13586,> $1B
+C01000,M Technologies 1000,https://example-company-1000.com,Australia,Retail,Large,9997,> $1B

@@ -1,0 +1,1001 @@
+lead_id,company_id,country,industry,contact_name,designation,email,phone,technology,lead_source,lead_score,lead_status,created_date,company_country,email_domain,priority
+L00001,C00001,USA,Logistics,Contact 0001,Database Manager,contact0001@example-company-0001.com,+1-555-001-0007,Oracle,Public Case Study,67,Warm,2026-01-18,Usa,example-company-0001.com,Warm
+L00002,C00002,India,Telecom,Contact 0002,CTO,contact0002@example-company-0002.com,+1-555-002-0014,PostgreSQL,Industry Directory,85,Hot,2026-04-28,India,example-company-0002.com,Hot
+L00003,C00003,Singapore,Manufacturing,Contact 0003,IT Director,contact0003@example-company-0003.com,+1-555-003-0021,MongoDB,Company Website,40,Cold,2026-05-14,Singapore,example-company-0003.com,Cold
+L00004,C00004,Canada,Education,Contact 0004,IT Director,contact0004@example-company-0004.com,+1-555-004-0028,SAP HANA,Job Posting,89,Hot,2026-06-22,Canada,example-company-0004.com,Hot
+L00005,C00005,Canada,Insurance,Contact 0005,Database Manager,contact0005@example-company-0005.com,+1-555-005-0035,Oracle,Job Posting,79,Qualified,2026-05-15,Canada,example-company-0005.com,Qualified
+L00006,C00006,Netherlands,Education,Contact 0006,Database Manager,contact0006@example-company-0006.com,+1-555-006-0042,Oracle,Technology Directory,79,Qualified,2026-02-14,Netherlands,example-company-0006.com,Qualified
+L00007,C00007,USA,Logistics,Contact 0007,Database Manager,contact0007@example-company-0007.com,+1-555-007-0049,MongoDB,Technology Directory,46,Cold,2026-03-28,Usa,example-company-0007.com,Cold
+L00008,C00008,Singapore,Manufacturing,Contact 0008,IT Director,contact0008@example-company-0008.com,+1-555-008-0056,MongoDB,Industry Directory,67,Warm,2026-04-15,Singapore,example-company-0008.com,Warm
+L00009,C00009,UAE,Telecom,Contact 0009,Database Manager,contact0009@example-company-0009.com,+1-555-009-0063,SQL Server,Industry Directory,40,Cold,2026-08-20,Uae,example-company-0009.com,Cold
+L00010,C00010,USA,Manufacturing,Contact 0010,IT Director,contact0010@example-company-0010.com,+1-555-010-0070,SQL Server,Public Case Study,89,Hot,2026-05-06,Usa,example-company-0010.com,Hot
+L00011,C00011,Australia,Retail,Contact 0011,IT Director,contact0011@example-company-0011.com,+1-555-011-0077,MySQL,Company Website,80,Qualified,2026-05-30,Australia,example-company-0011.com,Qualified
+L00012,C00012,Saudi Arabia,Logistics,Contact 0012,CTO,contact0012@example-company-0012.com,+1-555-012-0084,MySQL,Company Website,62,Warm,2026-06-22,Saudi Arabia,example-company-0012.com,Warm
+L00013,C00013,India,Insurance,Contact 0013,Database Manager,contact0013@example-company-0013.com,+1-555-013-0091,Oracle,Industry Directory,98,Priority,2026-03-27,India,example-company-0013.com,Priority
+L00014,C00014,India,Retail,Contact 0014,Database Manager,contact0014@example-company-0014.com,+1-555-014-0098,Oracle,Industry Directory,92,Hot,2026-08-15,India,example-company-0014.com,Hot
+L00015,C00015,India,Manufacturing,Contact 0015,Procurement Manager,contact0015@example-company-0015.com,+1-555-015-0105,Oracle,Job Posting,50,Cold,2026-06-08,India,example-company-0015.com,Cold
+L00016,C00016,India,Logistics,Contact 0016,Procurement Manager,contact0016@example-company-0016.com,+1-555-016-0112,SAP HANA,Company Website,38,New,2026-07-19,India,example-company-0016.com,Low
+L00017,C00017,Australia,Healthcare,Contact 0017,CTO,contact0017@example-company-0017.com,+1-555-017-0119,Oracle,Public Case Study,58,Cold,2026-06-26,Australia,example-company-0017.com,Cold
+L00018,C00018,UK,Healthcare,Contact 0018,IT Manager,contact0018@example-company-0018.com,+1-555-018-0126,Oracle,Technology Directory,43,Cold,2026-05-27,Uk,example-company-0018.com,Cold
+L00019,C00019,Netherlands,Banking,Contact 0019,IT Director,contact0019@example-company-0019.com,+1-555-019-0133,SQL Server,Industry Directory,74,Warm,2026-01-08,Netherlands,example-company-0019.com,Warm
+L00020,C00020,Canada,Banking,Contact 0020,Procurement Manager,contact0020@example-company-0020.com,+1-555-020-0140,Oracle,Technology Directory,80,Qualified,2026-05-18,Canada,example-company-0020.com,Qualified
+L00021,C00021,Australia,Banking,Contact 0021,CTO,contact0021@example-company-0021.com,+1-555-021-0147,Oracle,Public Case Study,80,Qualified,2026-01-31,Australia,example-company-0021.com,Qualified
+L00022,C00022,Germany,Banking,Contact 0022,IT Manager,contact0022@example-company-0022.com,+1-555-022-0154,SQL Server,Public Case Study,44,Cold,2026-05-22,Germany,example-company-0022.com,Cold
+L00023,C00023,UK,Logistics,Contact 0023,Procurement Manager,contact0023@example-company-0023.com,+1-555-023-0161,MySQL,Company Website,91,Hot,2026-06-14,Uk,example-company-0023.com,Hot
+L00024,C00024,Saudi Arabia,Logistics,Contact 0024,IT Manager,contact0024@example-company-0024.com,+1-555-024-0168,SQL Server,Company Website,94,Hot,2026-05-09,Saudi Arabia,example-company-0024.com,Hot
+L00025,C00025,India,Logistics,Contact 0025,Procurement Manager,contact0025@example-company-0025.com,+1-555-025-0175,SAP HANA,Public Case Study,71,Warm,2026-03-14,India,example-company-0025.com,Warm
+L00026,C00026,Singapore,Banking,Contact 0026,IT Director,contact0026@example-company-0026.com,+1-555-026-0182,Oracle,Company Website,48,Cold,2026-01-14,Singapore,example-company-0026.com,Cold
+L00027,C00027,Canada,Banking,Contact 0027,CIO,contact0027@example-company-0027.com,+1-555-027-0189,SAP HANA,Job Posting,64,Warm,2026-06-07,Canada,example-company-0027.com,Warm
+L00028,C00028,Netherlands,Retail,Contact 0028,Database Manager,contact0028@example-company-0028.com,+1-555-028-0196,SAP HANA,Public Case Study,78,Qualified,2026-06-14,Netherlands,example-company-0028.com,Qualified
+L00029,C00029,Australia,Manufacturing,Contact 0029,Database Manager,contact0029@example-company-0029.com,+1-555-029-0203,SAP HANA,Job Posting,80,Qualified,2026-04-23,Australia,example-company-0029.com,Qualified
+L00030,C00030,Canada,Retail,Contact 0030,IT Director,contact0030@example-company-0030.com,+1-555-030-0210,SQL Server,Company Website,49,Cold,2026-06-18,Canada,example-company-0030.com,Cold
+L00031,C00031,Canada,Healthcare,Contact 0031,IT Manager,contact0031@example-company-0031.com,+1-555-031-0217,SQL Server,Company Website,85,Hot,2026-07-03,Canada,example-company-0031.com,Hot
+L00032,C00032,UAE,Insurance,Contact 0032,IT Director,contact0032@example-company-0032.com,+1-555-032-0224,SQL Server,Technology Directory,99,Priority,2026-05-01,Uae,example-company-0032.com,Priority
+L00033,C00033,USA,Telecom,Contact 0033,Procurement Manager,contact0033@example-company-0033.com,+1-555-033-0231,PostgreSQL,Public Case Study,71,Warm,2026-01-12,Usa,example-company-0033.com,Warm
+L00034,C00034,Australia,Retail,Contact 0034,IT Director,contact0034@example-company-0034.com,+1-555-034-0238,Oracle,Public Case Study,66,Warm,2026-07-24,Australia,example-company-0034.com,Warm
+L00035,C00035,Netherlands,Banking,Contact 0035,CTO,contact0035@example-company-0035.com,+1-555-035-0245,MongoDB,Industry Directory,72,Warm,2026-04-20,Netherlands,example-company-0035.com,Warm
+L00036,C00036,USA,Telecom,Contact 0036,IT Manager,contact0036@example-company-0036.com,+1-555-036-0252,SQL Server,Public Case Study,41,Cold,2026-06-08,Usa,example-company-0036.com,Cold
+L00037,C00037,Netherlands,Education,Contact 0037,Database Manager,contact0037@example-company-0037.com,+1-555-037-0259,PostgreSQL,Public Case Study,66,Warm,2026-08-03,Netherlands,example-company-0037.com,Warm
+L00038,C00038,Netherlands,Banking,Contact 0038,IT Manager,contact0038@example-company-0038.com,+1-555-038-0266,MySQL,Job Posting,41,Cold,2026-03-27,Netherlands,example-company-0038.com,Cold
+L00039,C00039,UAE,Healthcare,Contact 0039,IT Manager,contact0039@example-company-0039.com,+1-555-039-0273,Oracle,Job Posting,45,Cold,2026-05-27,Uae,example-company-0039.com,Cold
+L00040,C00040,Singapore,Logistics,Contact 0040,Procurement Manager,contact0040@example-company-0040.com,+1-555-040-0280,SQL Server,Job Posting,68,Warm,2026-01-05,Singapore,example-company-0040.com,Warm
+L00041,C00041,UK,Telecom,Contact 0041,CTO,contact0041@example-company-0041.com,+1-555-041-0287,SQL Server,Company Website,71,Warm,2026-07-27,Uk,example-company-0041.com,Warm
+L00042,C00042,India,Logistics,Contact 0042,Procurement Manager,contact0042@example-company-0042.com,+1-555-042-0294,MySQL,Industry Directory,95,Priority,2026-01-14,India,example-company-0042.com,Priority
+L00043,C00043,India,Healthcare,Contact 0043,Database Manager,contact0043@example-company-0043.com,+1-555-043-0301,MySQL,Job Posting,65,Warm,2026-05-08,India,example-company-0043.com,Warm
+L00044,C00044,Germany,Retail,Contact 0044,Procurement Manager,contact0044@example-company-0044.com,+1-555-044-0308,Oracle,Technology Directory,100,Priority,2026-03-24,Germany,example-company-0044.com,Priority
+L00045,C00045,USA,Telecom,Contact 0045,IT Manager,contact0045@example-company-0045.com,+1-555-045-0315,SQL Server,Job Posting,89,Hot,2026-01-09,Usa,example-company-0045.com,Hot
+L00046,C00046,Saudi Arabia,Insurance,Contact 0046,IT Director,contact0046@example-company-0046.com,+1-555-046-0322,MySQL,Company Website,60,Warm,2026-04-19,Saudi Arabia,example-company-0046.com,Warm
+L00047,C00047,Canada,Insurance,Contact 0047,Database Manager,contact0047@example-company-0047.com,+1-555-047-0329,MongoDB,Industry Directory,96,Priority,2026-08-08,Canada,example-company-0047.com,Priority
+L00048,C00048,Netherlands,Manufacturing,Contact 0048,Procurement Manager,contact0048@example-company-0048.com,+1-555-048-0336,Oracle,Job Posting,72,Warm,2026-02-09,Netherlands,example-company-0048.com,Warm
+L00049,C00049,Singapore,Telecom,Contact 0049,IT Director,contact0049@example-company-0049.com,+1-555-049-0343,MySQL,Company Website,76,Qualified,2026-03-10,Singapore,example-company-0049.com,Qualified
+L00050,C00050,India,Banking,Contact 0050,Procurement Manager,contact0050@example-company-0050.com,+1-555-050-0350,Oracle,Job Posting,54,Cold,2026-02-14,India,example-company-0050.com,Cold
+L00051,C00051,India,Manufacturing,Contact 0051,IT Director,contact0051@example-company-0051.com,+1-555-051-0357,SQL Server,Company Website,47,Cold,2026-01-30,India,example-company-0051.com,Cold
+L00052,C00052,UK,Retail,Contact 0052,Procurement Manager,contact0052@example-company-0052.com,+1-555-052-0364,SQL Server,Industry Directory,66,Warm,2026-02-24,Uk,example-company-0052.com,Warm
+L00053,C00053,Germany,Manufacturing,Contact 0053,IT Manager,contact0053@example-company-0053.com,+1-555-053-0371,SQL Server,Company Website,51,Cold,2026-05-15,Germany,example-company-0053.com,Cold
+L00054,C00054,Canada,Education,Contact 0054,IT Director,contact0054@example-company-0054.com,+1-555-054-0378,MongoDB,Job Posting,71,Warm,2026-07-03,Canada,example-company-0054.com,Warm
+L00055,C00055,Canada,Banking,Contact 0055,IT Manager,contact0055@example-company-0055.com,+1-555-055-0385,Oracle,Job Posting,52,Cold,2026-06-12,Canada,example-company-0055.com,Cold
+L00056,C00056,USA,Education,Contact 0056,IT Director,contact0056@example-company-0056.com,+1-555-056-0392,PostgreSQL,Company Website,50,Cold,2026-07-01,Usa,example-company-0056.com,Cold
+L00057,C00057,Australia,Healthcare,Contact 0057,Database Manager,contact0057@example-company-0057.com,+1-555-057-0399,Oracle,Company Website,83,Qualified,2026-06-18,Australia,example-company-0057.com,Qualified
+L00058,C00058,UK,Logistics,Contact 0058,Procurement Manager,contact0058@example-company-0058.com,+1-555-058-0406,Oracle,Technology Directory,80,Qualified,2026-03-31,Uk,example-company-0058.com,Qualified
+L00059,C00059,India,Healthcare,Contact 0059,CIO,contact0059@example-company-0059.com,+1-555-059-0413,MySQL,Job Posting,95,Priority,2026-07-31,India,example-company-0059.com,Priority
+L00060,C00060,Singapore,Retail,Contact 0060,CIO,contact0060@example-company-0060.com,+1-555-060-0420,Oracle,Company Website,97,Priority,2026-02-10,Singapore,example-company-0060.com,Priority
+L00061,C00061,Saudi Arabia,Logistics,Contact 0061,CTO,contact0061@example-company-0061.com,+1-555-061-0427,SQL Server,Job Posting,84,Qualified,2026-06-14,Saudi Arabia,example-company-0061.com,Qualified
+L00062,C00062,India,Telecom,Contact 0062,CTO,contact0062@example-company-0062.com,+1-555-062-0434,PostgreSQL,Job Posting,40,Cold,2026-01-27,India,example-company-0062.com,Cold
+L00063,C00063,Germany,Insurance,Contact 0063,IT Director,contact0063@example-company-0063.com,+1-555-063-0441,PostgreSQL,Technology Directory,76,Qualified,2026-06-29,Germany,example-company-0063.com,Qualified
+L00064,C00064,Saudi Arabia,Telecom,Contact 0064,CTO,contact0064@example-company-0064.com,+1-555-064-0448,SQL Server,Industry Directory,53,Cold,2026-01-21,Saudi Arabia,example-company-0064.com,Cold
+L00065,C00065,Canada,Logistics,Contact 0065,CIO,contact0065@example-company-0065.com,+1-555-065-0455,SQL Server,Job Posting,51,Cold,2026-02-20,Canada,example-company-0065.com,Cold
+L00066,C00066,Germany,Healthcare,Contact 0066,IT Director,contact0066@example-company-0066.com,+1-555-066-0462,MySQL,Public Case Study,47,Cold,2026-04-02,Germany,example-company-0066.com,Cold
+L00067,C00067,Saudi Arabia,Education,Contact 0067,CIO,contact0067@example-company-0067.com,+1-555-067-0469,Oracle,Public Case Study,70,Warm,2026-06-13,Saudi Arabia,example-company-0067.com,Warm
+L00068,C00068,Germany,Telecom,Contact 0068,IT Director,contact0068@example-company-0068.com,+1-555-068-0476,Oracle,Company Website,55,Cold,2026-01-11,Germany,example-company-0068.com,Cold
+L00069,C00069,USA,Retail,Contact 0069,Procurement Manager,contact0069@example-company-0069.com,+1-555-069-0483,SQL Server,Technology Directory,67,Warm,2026-03-02,Usa,example-company-0069.com,Warm
+L00070,C00070,Canada,Banking,Contact 0070,Procurement Manager,contact0070@example-company-0070.com,+1-555-070-0490,MongoDB,Technology Directory,50,Cold,2026-03-20,Canada,example-company-0070.com,Cold
+L00071,C00071,India,Telecom,Contact 0071,CTO,contact0071@example-company-0071.com,+1-555-071-0497,Oracle,Technology Directory,78,Qualified,2026-06-21,India,example-company-0071.com,Qualified
+L00072,C00072,UK,Insurance,Contact 0072,Procurement Manager,contact0072@example-company-0072.com,+1-555-072-0504,SQL Server,Company Website,78,Qualified,2026-08-14,Uk,example-company-0072.com,Qualified
+L00073,C00073,Canada,Logistics,Contact 0073,CTO,contact0073@example-company-0073.com,+1-555-073-0511,PostgreSQL,Technology Directory,45,Cold,2026-05-25,Canada,example-company-0073.com,Cold
+L00074,C00074,UK,Manufacturing,Contact 0074,Procurement Manager,contact0074@example-company-0074.com,+1-555-074-0518,SAP HANA,Company Website,41,Cold,2026-04-30,Uk,example-company-0074.com,Cold
+L00075,C00075,Singapore,Healthcare,Contact 0075,CIO,contact0075@example-company-0075.com,+1-555-075-0525,SQL Server,Industry Directory,84,Qualified,2026-03-21,Singapore,example-company-0075.com,Qualified
+L00076,C00076,Canada,Insurance,Contact 0076,CIO,contact0076@example-company-0076.com,+1-555-076-0532,SQL Server,Technology Directory,85,Hot,2026-07-13,Canada,example-company-0076.com,Hot
+L00077,C00077,Germany,Telecom,Contact 0077,IT Manager,contact0077@example-company-0077.com,+1-555-077-0539,PostgreSQL,Company Website,55,Cold,2026-01-26,Germany,example-company-0077.com,Cold
+L00078,C00078,UAE,Insurance,Contact 0078,CIO,contact0078@example-company-0078.com,+1-555-078-0546,SAP HANA,Technology Directory,94,Hot,2026-01-31,Uae,example-company-0078.com,Hot
+L00079,C00079,Australia,Healthcare,Contact 0079,IT Manager,contact0079@example-company-0079.com,+1-555-079-0553,Oracle,Industry Directory,56,Cold,2026-02-17,Australia,example-company-0079.com,Cold
+L00080,C00080,Singapore,Logistics,Contact 0080,CTO,contact0080@example-company-0080.com,+1-555-080-0560,MongoDB,Public Case Study,91,Hot,2026-03-04,Singapore,example-company-0080.com,Hot
+L00081,C00081,Saudi Arabia,Education,Contact 0081,CTO,contact0081@example-company-0081.com,+1-555-081-0567,Oracle,Job Posting,49,Cold,2026-04-19,Saudi Arabia,example-company-0081.com,Cold
+L00082,C00082,Canada,Education,Contact 0082,CTO,contact0082@example-company-0082.com,+1-555-082-0574,SAP HANA,Industry Directory,75,Qualified,2026-08-11,Canada,example-company-0082.com,Qualified
+L00083,C00083,UK,Education,Contact 0083,IT Manager,contact0083@example-company-0083.com,+1-555-083-0581,Oracle,Company Website,44,Cold,2026-06-02,Uk,example-company-0083.com,Cold
+L00084,C00084,Netherlands,Manufacturing,Contact 0084,IT Director,contact0084@example-company-0084.com,+1-555-084-0588,Oracle,Job Posting,55,Cold,2026-04-01,Netherlands,example-company-0084.com,Cold
+L00085,C00085,Singapore,Insurance,Contact 0085,IT Manager,contact0085@example-company-0085.com,+1-555-085-0595,Oracle,Company Website,72,Warm,2026-02-19,Singapore,example-company-0085.com,Warm
+L00086,C00086,India,Logistics,Contact 0086,IT Manager,contact0086@example-company-0086.com,+1-555-086-0602,MySQL,Industry Directory,40,Cold,2026-06-02,India,example-company-0086.com,Cold
+L00087,C00087,USA,Logistics,Contact 0087,IT Manager,contact0087@example-company-0087.com,+1-555-087-0609,MySQL,Public Case Study,62,Warm,2026-03-01,Usa,example-company-0087.com,Warm
+L00088,C00088,Germany,Education,Contact 0088,Procurement Manager,contact0088@example-company-0088.com,+1-555-088-0616,Oracle,Technology Directory,57,Cold,2026-08-18,Germany,example-company-0088.com,Cold
+L00089,C00089,India,Telecom,Contact 0089,IT Manager,contact0089@example-company-0089.com,+1-555-089-0623,MySQL,Public Case Study,46,Cold,2026-04-23,India,example-company-0089.com,Cold
+L00090,C00090,Netherlands,Insurance,Contact 0090,Database Manager,contact0090@example-company-0090.com,+1-555-090-0630,MySQL,Job Posting,98,Priority,2026-05-10,Netherlands,example-company-0090.com,Priority
+L00091,C00091,Canada,Manufacturing,Contact 0091,CTO,contact0091@example-company-0091.com,+1-555-091-0637,PostgreSQL,Company Website,94,Hot,2026-08-01,Canada,example-company-0091.com,Hot
+L00092,C00092,Netherlands,Healthcare,Contact 0092,CTO,contact0092@example-company-0092.com,+1-555-092-0644,SAP HANA,Industry Directory,93,Hot,2026-03-13,Netherlands,example-company-0092.com,Hot
+L00093,C00093,Netherlands,Logistics,Contact 0093,IT Manager,contact0093@example-company-0093.com,+1-555-093-0651,SQL Server,Industry Directory,44,Cold,2026-04-21,Netherlands,example-company-0093.com,Cold
+L00094,C00094,Germany,Healthcare,Contact 0094,CTO,contact0094@example-company-0094.com,+1-555-094-0658,Oracle,Company Website,66,Warm,2026-05-06,Germany,example-company-0094.com,Warm
+L00095,C00095,Netherlands,Retail,Contact 0095,Database Manager,contact0095@example-company-0095.com,+1-555-095-0665,Oracle,Company Website,62,Warm,2026-03-05,Netherlands,example-company-0095.com,Warm
+L00096,C00096,UAE,Banking,Contact 0096,IT Director,contact0096@example-company-0096.com,+1-555-096-0672,SAP HANA,Technology Directory,59,Cold,2026-01-13,Uae,example-company-0096.com,Cold
+L00097,C00097,UAE,Logistics,Contact 0097,CIO,contact0097@example-company-0097.com,+1-555-097-0679,Oracle,Company Website,68,Warm,2026-03-08,Uae,example-company-0097.com,Warm
+L00098,C00098,Singapore,Logistics,Contact 0098,CIO,contact0098@example-company-0098.com,+1-555-098-0686,MySQL,Public Case Study,66,Warm,2026-01-27,Singapore,example-company-0098.com,Warm
+L00099,C00099,Singapore,Banking,Contact 0099,CTO,contact0099@example-company-0099.com,+1-555-099-0693,MongoDB,Industry Directory,69,Warm,2026-06-08,Singapore,example-company-0099.com,Warm
+L00100,C00100,UK,Healthcare,Contact 0100,Database Manager,contact0100@example-company-0100.com,+1-555-100-0700,MongoDB,Job Posting,52,Cold,2026-01-02,Uk,example-company-0100.com,Cold
+L00101,C00101,Netherlands,Healthcare,Contact 0101,IT Manager,contact0101@example-company-0101.com,+1-555-101-0707,MySQL,Job Posting,94,Hot,2026-03-16,Netherlands,example-company-0101.com,Hot
+L00102,C00102,UK,Healthcare,Contact 0102,CTO,contact0102@example-company-0102.com,+1-555-102-0714,PostgreSQL,Industry Directory,94,Hot,2026-07-27,Uk,example-company-0102.com,Hot
+L00103,C00103,Netherlands,Education,Contact 0103,IT Director,contact0103@example-company-0103.com,+1-555-103-0721,MySQL,Job Posting,55,Cold,2026-05-14,Netherlands,example-company-0103.com,Cold
+L00104,C00104,USA,Insurance,Contact 0104,Database Manager,contact0104@example-company-0104.com,+1-555-104-0728,PostgreSQL,Job Posting,53,Cold,2026-06-07,Usa,example-company-0104.com,Cold
+L00105,C00105,India,Retail,Contact 0105,IT Director,contact0105@example-company-0105.com,+1-555-105-0735,Oracle,Company Website,75,Qualified,2026-06-07,India,example-company-0105.com,Qualified
+L00106,C00106,India,Insurance,Contact 0106,Procurement Manager,contact0106@example-company-0106.com,+1-555-106-0742,Oracle,Industry Directory,70,Warm,2026-03-12,India,example-company-0106.com,Warm
+L00107,C00107,India,Insurance,Contact 0107,IT Manager,contact0107@example-company-0107.com,+1-555-107-0749,SQL Server,Industry Directory,100,Priority,2026-05-29,India,example-company-0107.com,Priority
+L00108,C00108,Singapore,Education,Contact 0108,CIO,contact0108@example-company-0108.com,+1-555-108-0756,Oracle,Company Website,69,Warm,2026-02-21,Singapore,example-company-0108.com,Warm
+L00109,C00109,Canada,Education,Contact 0109,CIO,contact0109@example-company-0109.com,+1-555-109-0763,PostgreSQL,Industry Directory,37,New,2026-05-30,Canada,example-company-0109.com,Low
+L00110,C00110,India,Banking,Contact 0110,IT Director,contact0110@example-company-0110.com,+1-555-110-0770,MySQL,Company Website,47,Cold,2026-06-10,India,example-company-0110.com,Cold
+L00111,C00111,UAE,Telecom,Contact 0111,CTO,contact0111@example-company-0111.com,+1-555-111-0777,SAP HANA,Company Website,44,Cold,2026-07-25,Uae,example-company-0111.com,Cold
+L00112,C00112,India,Insurance,Contact 0112,IT Director,contact0112@example-company-0112.com,+1-555-112-0784,SAP HANA,Job Posting,63,Warm,2026-08-05,India,example-company-0112.com,Warm
+L00113,C00113,Australia,Insurance,Contact 0113,Procurement Manager,contact0113@example-company-0113.com,+1-555-113-0791,SQL Server,Technology Directory,59,Cold,2026-01-06,Australia,example-company-0113.com,Cold
+L00114,C00114,Canada,Retail,Contact 0114,IT Director,contact0114@example-company-0114.com,+1-555-114-0798,PostgreSQL,Industry Directory,87,Hot,2026-03-12,Canada,example-company-0114.com,Hot
+L00115,C00115,Australia,Insurance,Contact 0115,Database Manager,contact0115@example-company-0115.com,+1-555-115-0805,Oracle,Public Case Study,100,Priority,2026-05-09,Australia,example-company-0115.com,Priority
+L00116,C00116,Australia,Healthcare,Contact 0116,Database Manager,contact0116@example-company-0116.com,+1-555-116-0812,SQL Server,Company Website,43,Cold,2026-03-17,Australia,example-company-0116.com,Cold
+L00117,C00117,USA,Education,Contact 0117,CIO,contact0117@example-company-0117.com,+1-555-117-0819,Oracle,Technology Directory,100,Priority,2026-05-26,Usa,example-company-0117.com,Priority
+L00118,C00118,UK,Manufacturing,Contact 0118,IT Manager,contact0118@example-company-0118.com,+1-555-118-0826,SAP HANA,Industry Directory,70,Warm,2026-07-20,Uk,example-company-0118.com,Warm
+L00119,C00119,UAE,Telecom,Contact 0119,IT Director,contact0119@example-company-0119.com,+1-555-119-0833,SAP HANA,Public Case Study,58,Cold,2026-03-02,Uae,example-company-0119.com,Cold
+L00120,C00120,UK,Healthcare,Contact 0120,Procurement Manager,contact0120@example-company-0120.com,+1-555-120-0840,SAP HANA,Job Posting,59,Cold,2026-07-29,Uk,example-company-0120.com,Cold
+L00121,C00121,Canada,Banking,Contact 0121,IT Manager,contact0121@example-company-0121.com,+1-555-121-0847,SAP HANA,Company Website,66,Warm,2026-07-27,Canada,example-company-0121.com,Warm
+L00122,C00122,Singapore,Banking,Contact 0122,Database Manager,contact0122@example-company-0122.com,+1-555-122-0854,MongoDB,Technology Directory,50,Cold,2026-08-03,Singapore,example-company-0122.com,Cold
+L00123,C00123,Singapore,Retail,Contact 0123,Procurement Manager,contact0123@example-company-0123.com,+1-555-123-0861,Oracle,Technology Directory,95,Priority,2026-01-18,Singapore,example-company-0123.com,Priority
+L00124,C00124,Canada,Insurance,Contact 0124,CTO,contact0124@example-company-0124.com,+1-555-124-0868,MongoDB,Job Posting,40,Cold,2026-03-10,Canada,example-company-0124.com,Cold
+L00125,C00125,Netherlands,Logistics,Contact 0125,CIO,contact0125@example-company-0125.com,+1-555-125-0875,SQL Server,Company Website,39,New,2026-01-30,Netherlands,example-company-0125.com,Low
+L00126,C00126,Australia,Logistics,Contact 0126,IT Director,contact0126@example-company-0126.com,+1-555-126-0882,MySQL,Company Website,51,Cold,2026-01-29,Australia,example-company-0126.com,Cold
+L00127,C00127,USA,Logistics,Contact 0127,Procurement Manager,contact0127@example-company-0127.com,+1-555-127-0889,SQL Server,Technology Directory,43,Cold,2026-01-13,Usa,example-company-0127.com,Cold
+L00128,C00128,India,Telecom,Contact 0128,CTO,contact0128@example-company-0128.com,+1-555-128-0896,MySQL,Industry Directory,43,Cold,2026-04-14,India,example-company-0128.com,Cold
+L00129,C00129,Australia,Manufacturing,Contact 0129,IT Manager,contact0129@example-company-0129.com,+1-555-129-0903,Oracle,Technology Directory,66,Warm,2026-01-21,Australia,example-company-0129.com,Warm
+L00130,C00130,Singapore,Telecom,Contact 0130,CIO,contact0130@example-company-0130.com,+1-555-130-0910,Oracle,Technology Directory,70,Warm,2026-03-11,Singapore,example-company-0130.com,Warm
+L00131,C00131,Australia,Healthcare,Contact 0131,Procurement Manager,contact0131@example-company-0131.com,+1-555-131-0917,Oracle,Industry Directory,50,Cold,2026-08-19,Australia,example-company-0131.com,Cold
+L00132,C00132,Australia,Telecom,Contact 0132,Procurement Manager,contact0132@example-company-0132.com,+1-555-132-0924,SQL Server,Public Case Study,89,Hot,2026-07-27,Australia,example-company-0132.com,Hot
+L00133,C00133,USA,Logistics,Contact 0133,CIO,contact0133@example-company-0133.com,+1-555-133-0931,SAP HANA,Public Case Study,88,Hot,2026-08-09,Usa,example-company-0133.com,Hot
+L00134,C00134,Australia,Logistics,Contact 0134,CTO,contact0134@example-company-0134.com,+1-555-134-0938,SQL Server,Technology Directory,78,Qualified,2026-01-09,Australia,example-company-0134.com,Qualified
+L00135,C00135,India,Manufacturing,Contact 0135,IT Manager,contact0135@example-company-0135.com,+1-555-135-0945,SQL Server,Public Case Study,66,Warm,2026-06-05,India,example-company-0135.com,Warm
+L00136,C00136,Germany,Banking,Contact 0136,CIO,contact0136@example-company-0136.com,+1-555-136-0952,MySQL,Technology Directory,97,Priority,2026-05-29,Germany,example-company-0136.com,Priority
+L00137,C00137,Singapore,Telecom,Contact 0137,IT Director,contact0137@example-company-0137.com,+1-555-137-0959,MySQL,Public Case Study,61,Warm,2026-02-01,Singapore,example-company-0137.com,Warm
+L00138,C00138,USA,Retail,Contact 0138,CIO,contact0138@example-company-0138.com,+1-555-138-0966,Oracle,Public Case Study,69,Warm,2026-08-01,Usa,example-company-0138.com,Warm
+L00139,C00139,Germany,Telecom,Contact 0139,Database Manager,contact0139@example-company-0139.com,+1-555-139-0973,SAP HANA,Public Case Study,40,Cold,2026-04-06,Germany,example-company-0139.com,Cold
+L00140,C00140,Canada,Manufacturing,Contact 0140,IT Director,contact0140@example-company-0140.com,+1-555-140-0980,Oracle,Industry Directory,86,Hot,2026-08-18,Canada,example-company-0140.com,Hot
+L00141,C00141,Saudi Arabia,Education,Contact 0141,CTO,contact0141@example-company-0141.com,+1-555-141-0987,PostgreSQL,Job Posting,40,Cold,2026-01-27,Saudi Arabia,example-company-0141.com,Cold
+L00142,C00142,UAE,Retail,Contact 0142,Procurement Manager,contact0142@example-company-0142.com,+1-555-142-0994,PostgreSQL,Public Case Study,75,Qualified,2026-06-02,Uae,example-company-0142.com,Qualified
+L00143,C00143,UAE,Education,Contact 0143,IT Director,contact0143@example-company-0143.com,+1-555-143-1001,SQL Server,Company Website,82,Qualified,2026-01-31,Uae,example-company-0143.com,Qualified
+L00144,C00144,Canada,Logistics,Contact 0144,IT Director,contact0144@example-company-0144.com,+1-555-144-1008,SAP HANA,Technology Directory,48,Cold,2026-08-12,Canada,example-company-0144.com,Cold
+L00145,C00145,Saudi Arabia,Retail,Contact 0145,CTO,contact0145@example-company-0145.com,+1-555-145-1015,Oracle,Industry Directory,80,Qualified,2026-05-23,Saudi Arabia,example-company-0145.com,Qualified
+L00146,C00146,Netherlands,Healthcare,Contact 0146,IT Director,contact0146@example-company-0146.com,+1-555-146-1022,SAP HANA,Public Case Study,53,Cold,2026-01-18,Netherlands,example-company-0146.com,Cold
+L00147,C00147,USA,Manufacturing,Contact 0147,IT Director,contact0147@example-company-0147.com,+1-555-147-1029,PostgreSQL,Job Posting,59,Cold,2026-02-20,Usa,example-company-0147.com,Cold
+L00148,C00148,UAE,Logistics,Contact 0148,CIO,contact0148@example-company-0148.com,+1-555-148-1036,PostgreSQL,Public Case Study,67,Warm,2026-03-26,Uae,example-company-0148.com,Warm
+L00149,C00149,Netherlands,Telecom,Contact 0149,IT Director,contact0149@example-company-0149.com,+1-555-149-1043,PostgreSQL,Job Posting,55,Cold,2026-01-04,Netherlands,example-company-0149.com,Cold
+L00150,C00150,USA,Logistics,Contact 0150,IT Manager,contact0150@example-company-0150.com,+1-555-150-1050,SAP HANA,Technology Directory,83,Qualified,2026-01-03,Usa,example-company-0150.com,Qualified
+L00151,C00151,Netherlands,Retail,Contact 0151,IT Director,contact0151@example-company-0151.com,+1-555-151-1057,MongoDB,Job Posting,59,Cold,2026-08-06,Netherlands,example-company-0151.com,Cold
+L00152,C00152,UAE,Manufacturing,Contact 0152,Database Manager,contact0152@example-company-0152.com,+1-555-152-1064,MySQL,Public Case Study,63,Warm,2026-08-19,Uae,example-company-0152.com,Warm
+L00153,C00153,Saudi Arabia,Healthcare,Contact 0153,IT Manager,contact0153@example-company-0153.com,+1-555-153-1071,SAP HANA,Company Website,84,Qualified,2026-05-07,Saudi Arabia,example-company-0153.com,Qualified
+L00154,C00154,UAE,Education,Contact 0154,Database Manager,contact0154@example-company-0154.com,+1-555-154-1078,PostgreSQL,Technology Directory,48,Cold,2026-08-01,Uae,example-company-0154.com,Cold
+L00155,C00155,Canada,Retail,Contact 0155,Database Manager,contact0155@example-company-0155.com,+1-555-155-1085,MySQL,Industry Directory,62,Warm,2026-06-03,Canada,example-company-0155.com,Warm
+L00156,C00156,Singapore,Manufacturing,Contact 0156,CTO,contact0156@example-company-0156.com,+1-555-156-1092,MongoDB,Public Case Study,95,Priority,2026-01-07,Singapore,example-company-0156.com,Priority
+L00157,C00157,UK,Banking,Contact 0157,Procurement Manager,contact0157@example-company-0157.com,+1-555-157-1099,MySQL,Technology Directory,64,Warm,2026-06-17,Uk,example-company-0157.com,Warm
+L00158,C00158,Australia,Logistics,Contact 0158,IT Director,contact0158@example-company-0158.com,+1-555-158-1106,SQL Server,Industry Directory,42,Cold,2026-01-05,Australia,example-company-0158.com,Cold
+L00159,C00159,Australia,Healthcare,Contact 0159,IT Director,contact0159@example-company-0159.com,+1-555-159-1113,Oracle,Company Website,60,Warm,2026-07-11,Australia,example-company-0159.com,Warm
+L00160,C00160,India,Retail,Contact 0160,Procurement Manager,contact0160@example-company-0160.com,+1-555-160-1120,Oracle,Industry Directory,100,Priority,2026-03-28,India,example-company-0160.com,Priority
+L00161,C00161,Saudi Arabia,Manufacturing,Contact 0161,IT Director,contact0161@example-company-0161.com,+1-555-161-1127,SAP HANA,Job Posting,81,Qualified,2026-02-03,Saudi Arabia,example-company-0161.com,Qualified
+L00162,C00162,Singapore,Healthcare,Contact 0162,CIO,contact0162@example-company-0162.com,+1-555-162-1134,MySQL,Industry Directory,84,Qualified,2026-03-02,Singapore,example-company-0162.com,Qualified
+L00163,C00163,Canada,Logistics,Contact 0163,CIO,contact0163@example-company-0163.com,+1-555-163-1141,MySQL,Industry Directory,50,Cold,2026-06-10,Canada,example-company-0163.com,Cold
+L00164,C00164,Canada,Manufacturing,Contact 0164,IT Director,contact0164@example-company-0164.com,+1-555-164-1148,Oracle,Public Case Study,94,Hot,2026-07-19,Canada,example-company-0164.com,Hot
+L00165,C00165,Canada,Manufacturing,Contact 0165,IT Director,contact0165@example-company-0165.com,+1-555-165-1155,SQL Server,Public Case Study,58,Cold,2026-05-15,Canada,example-company-0165.com,Cold
+L00166,C00166,Netherlands,Banking,Contact 0166,Database Manager,contact0166@example-company-0166.com,+1-555-166-1162,SAP HANA,Public Case Study,88,Hot,2026-02-07,Netherlands,example-company-0166.com,Hot
+L00167,C00167,Germany,Banking,Contact 0167,Database Manager,contact0167@example-company-0167.com,+1-555-167-1169,SAP HANA,Job Posting,93,Hot,2026-07-31,Germany,example-company-0167.com,Hot
+L00168,C00168,UK,Healthcare,Contact 0168,IT Director,contact0168@example-company-0168.com,+1-555-168-1176,Oracle,Company Website,55,Cold,2026-07-05,Uk,example-company-0168.com,Cold
+L00169,C00169,Germany,Education,Contact 0169,Procurement Manager,contact0169@example-company-0169.com,+1-555-169-1183,SQL Server,Job Posting,92,Hot,2026-04-07,Germany,example-company-0169.com,Hot
+L00170,C00170,USA,Education,Contact 0170,IT Director,contact0170@example-company-0170.com,+1-555-170-1190,MySQL,Technology Directory,73,Warm,2026-05-11,Usa,example-company-0170.com,Warm
+L00171,C00171,UK,Telecom,Contact 0171,IT Manager,contact0171@example-company-0171.com,+1-555-171-1197,SQL Server,Public Case Study,84,Qualified,2026-08-15,Uk,example-company-0171.com,Qualified
+L00172,C00172,USA,Telecom,Contact 0172,IT Manager,contact0172@example-company-0172.com,+1-555-172-1204,MySQL,Job Posting,86,Hot,2026-03-30,Usa,example-company-0172.com,Hot
+L00173,C00173,India,Healthcare,Contact 0173,Database Manager,contact0173@example-company-0173.com,+1-555-173-1211,MySQL,Technology Directory,45,Cold,2026-01-07,India,example-company-0173.com,Cold
+L00174,C00174,India,Insurance,Contact 0174,CTO,contact0174@example-company-0174.com,+1-555-174-1218,MySQL,Company Website,85,Hot,2026-02-04,India,example-company-0174.com,Hot
+L00175,C00175,Singapore,Banking,Contact 0175,IT Director,contact0175@example-company-0175.com,+1-555-175-1225,SQL Server,Company Website,52,Cold,2026-05-22,Singapore,example-company-0175.com,Cold
+L00176,C00176,Canada,Retail,Contact 0176,CIO,contact0176@example-company-0176.com,+1-555-176-1232,SQL Server,Industry Directory,51,Cold,2026-08-23,Canada,example-company-0176.com,Cold
+L00177,C00177,India,Retail,Contact 0177,Procurement Manager,contact0177@example-company-0177.com,+1-555-177-1239,MySQL,Industry Directory,42,Cold,2026-06-23,India,example-company-0177.com,Cold
+L00178,C00178,UK,Insurance,Contact 0178,CTO,contact0178@example-company-0178.com,+1-555-178-1246,SAP HANA,Industry Directory,51,Cold,2026-05-26,Uk,example-company-0178.com,Cold
+L00179,C00179,Saudi Arabia,Retail,Contact 0179,IT Director,contact0179@example-company-0179.com,+1-555-179-1253,PostgreSQL,Job Posting,94,Hot,2026-03-17,Saudi Arabia,example-company-0179.com,Hot
+L00180,C00180,Australia,Banking,Contact 0180,IT Manager,contact0180@example-company-0180.com,+1-555-180-1260,MySQL,Technology Directory,60,Warm,2026-04-14,Australia,example-company-0180.com,Warm
+L00181,C00181,Saudi Arabia,Manufacturing,Contact 0181,IT Manager,contact0181@example-company-0181.com,+1-555-181-1267,SAP HANA,Public Case Study,58,Cold,2026-01-10,Saudi Arabia,example-company-0181.com,Cold
+L00182,C00182,UK,Education,Contact 0182,IT Director,contact0182@example-company-0182.com,+1-555-182-1274,SAP HANA,Job Posting,64,Warm,2026-03-29,Uk,example-company-0182.com,Warm
+L00183,C00183,Canada,Telecom,Contact 0183,IT Director,contact0183@example-company-0183.com,+1-555-183-1281,Oracle,Public Case Study,91,Hot,2026-05-27,Canada,example-company-0183.com,Hot
+L00184,C00184,Singapore,Healthcare,Contact 0184,IT Director,contact0184@example-company-0184.com,+1-555-184-1288,SQL Server,Public Case Study,70,Warm,2026-08-01,Singapore,example-company-0184.com,Warm
+L00185,C00185,Canada,Healthcare,Contact 0185,IT Director,contact0185@example-company-0185.com,+1-555-185-1295,Oracle,Technology Directory,75,Qualified,2026-08-05,Canada,example-company-0185.com,Qualified
+L00186,C00186,Canada,Retail,Contact 0186,Database Manager,contact0186@example-company-0186.com,+1-555-186-1302,PostgreSQL,Technology Directory,86,Hot,2026-07-12,Canada,example-company-0186.com,Hot
+L00187,C00187,UK,Insurance,Contact 0187,IT Director,contact0187@example-company-0187.com,+1-555-187-1309,Oracle,Job Posting,78,Qualified,2026-01-06,Uk,example-company-0187.com,Qualified
+L00188,C00188,Germany,Manufacturing,Contact 0188,Database Manager,contact0188@example-company-0188.com,+1-555-188-1316,PostgreSQL,Industry Directory,81,Qualified,2026-07-10,Germany,example-company-0188.com,Qualified
+L00189,C00189,UAE,Manufacturing,Contact 0189,CIO,contact0189@example-company-0189.com,+1-555-189-1323,Oracle,Industry Directory,98,Priority,2026-02-21,Uae,example-company-0189.com,Priority
+L00190,C00190,Germany,Banking,Contact 0190,Procurement Manager,contact0190@example-company-0190.com,+1-555-190-1330,SQL Server,Industry Directory,81,Qualified,2026-05-25,Germany,example-company-0190.com,Qualified
+L00191,C00191,Singapore,Healthcare,Contact 0191,IT Manager,contact0191@example-company-0191.com,+1-555-191-1337,MongoDB,Public Case Study,37,New,2026-08-11,Singapore,example-company-0191.com,Low
+L00192,C00192,Singapore,Retail,Contact 0192,CTO,contact0192@example-company-0192.com,+1-555-192-1344,MySQL,Job Posting,51,Cold,2026-07-28,Singapore,example-company-0192.com,Cold
+L00193,C00193,Singapore,Insurance,Contact 0193,CTO,contact0193@example-company-0193.com,+1-555-193-1351,SAP HANA,Public Case Study,77,Qualified,2026-06-06,Singapore,example-company-0193.com,Qualified
+L00194,C00194,Germany,Telecom,Contact 0194,IT Director,contact0194@example-company-0194.com,+1-555-194-1358,MongoDB,Job Posting,69,Warm,2026-03-12,Germany,example-company-0194.com,Warm
+L00195,C00195,Saudi Arabia,Manufacturing,Contact 0195,IT Director,contact0195@example-company-0195.com,+1-555-195-1365,SAP HANA,Industry Directory,52,Cold,2026-05-03,Saudi Arabia,example-company-0195.com,Cold
+L00196,C00196,USA,Telecom,Contact 0196,Database Manager,contact0196@example-company-0196.com,+1-555-196-1372,Oracle,Job Posting,68,Warm,2026-06-15,Usa,example-company-0196.com,Warm
+L00197,C00197,Germany,Telecom,Contact 0197,IT Director,contact0197@example-company-0197.com,+1-555-197-1379,SAP HANA,Technology Directory,44,Cold,2026-05-01,Germany,example-company-0197.com,Cold
+L00198,C00198,UK,Education,Contact 0198,Database Manager,contact0198@example-company-0198.com,+1-555-198-1386,Oracle,Company Website,57,Cold,2026-04-06,Uk,example-company-0198.com,Cold
+L00199,C00199,Germany,Logistics,Contact 0199,CTO,contact0199@example-company-0199.com,+1-555-199-1393,MySQL,Company Website,82,Qualified,2026-04-05,Germany,example-company-0199.com,Qualified
+L00200,C00200,Saudi Arabia,Manufacturing,Contact 0200,IT Director,contact0200@example-company-0200.com,+1-555-200-1400,SAP HANA,Job Posting,35,New,2026-05-21,Saudi Arabia,example-company-0200.com,Low
+L00201,C00201,Germany,Education,Contact 0201,Database Manager,contact0201@example-company-0201.com,+1-555-201-1407,PostgreSQL,Technology Directory,86,Hot,2026-01-09,Germany,example-company-0201.com,Hot
+L00202,C00202,Saudi Arabia,Healthcare,Contact 0202,Database Manager,contact0202@example-company-0202.com,+1-555-202-1414,SQL Server,Company Website,55,Cold,2026-08-23,Saudi Arabia,example-company-0202.com,Cold
+L00203,C00203,Canada,Education,Contact 0203,IT Manager,contact0203@example-company-0203.com,+1-555-203-1421,MySQL,Industry Directory,84,Qualified,2026-01-24,Canada,example-company-0203.com,Qualified
+L00204,C00204,Singapore,Logistics,Contact 0204,CIO,contact0204@example-company-0204.com,+1-555-204-1428,SAP HANA,Company Website,50,Cold,2026-08-20,Singapore,example-company-0204.com,Cold
+L00205,C00205,Canada,Telecom,Contact 0205,Database Manager,contact0205@example-company-0205.com,+1-555-205-1435,PostgreSQL,Industry Directory,90,Hot,2026-01-09,Canada,example-company-0205.com,Hot
+L00206,C00206,UAE,Education,Contact 0206,Procurement Manager,contact0206@example-company-0206.com,+1-555-206-1442,MySQL,Job Posting,69,Warm,2026-05-01,Uae,example-company-0206.com,Warm
+L00207,C00207,India,Manufacturing,Contact 0207,CIO,contact0207@example-company-0207.com,+1-555-207-1449,SAP HANA,Job Posting,86,Hot,2026-04-09,India,example-company-0207.com,Hot
+L00208,C00208,Saudi Arabia,Telecom,Contact 0208,Procurement Manager,contact0208@example-company-0208.com,+1-555-208-1456,Oracle,Company Website,51,Cold,2026-05-15,Saudi Arabia,example-company-0208.com,Cold
+L00209,C00209,UAE,Retail,Contact 0209,IT Manager,contact0209@example-company-0209.com,+1-555-209-1463,Oracle,Industry Directory,91,Hot,2026-04-12,Uae,example-company-0209.com,Hot
+L00210,C00210,India,Education,Contact 0210,CTO,contact0210@example-company-0210.com,+1-555-210-1470,SQL Server,Public Case Study,51,Cold,2026-07-30,India,example-company-0210.com,Cold
+L00211,C00211,UAE,Manufacturing,Contact 0211,Procurement Manager,contact0211@example-company-0211.com,+1-555-211-1477,MongoDB,Company Website,56,Cold,2026-01-04,Uae,example-company-0211.com,Cold
+L00212,C00212,India,Logistics,Contact 0212,Procurement Manager,contact0212@example-company-0212.com,+1-555-212-1484,Oracle,Company Website,45,Cold,2026-08-20,India,example-company-0212.com,Cold
+L00213,C00213,India,Healthcare,Contact 0213,CIO,contact0213@example-company-0213.com,+1-555-213-1491,Oracle,Public Case Study,100,Priority,2026-06-12,India,example-company-0213.com,Priority
+L00214,C00214,Canada,Logistics,Contact 0214,Procurement Manager,contact0214@example-company-0214.com,+1-555-214-1498,Oracle,Industry Directory,82,Qualified,2026-07-02,Canada,example-company-0214.com,Qualified
+L00215,C00215,India,Banking,Contact 0215,IT Director,contact0215@example-company-0215.com,+1-555-215-1505,SAP HANA,Company Website,99,Priority,2026-02-02,India,example-company-0215.com,Priority
+L00216,C00216,UAE,Banking,Contact 0216,IT Director,contact0216@example-company-0216.com,+1-555-216-1512,Oracle,Job Posting,82,Qualified,2026-01-16,Uae,example-company-0216.com,Qualified
+L00217,C00217,USA,Manufacturing,Contact 0217,IT Director,contact0217@example-company-0217.com,+1-555-217-1519,SQL Server,Technology Directory,44,Cold,2026-04-04,Usa,example-company-0217.com,Cold
+L00218,C00218,USA,Telecom,Contact 0218,CTO,contact0218@example-company-0218.com,+1-555-218-1526,MongoDB,Company Website,60,Warm,2026-03-17,Usa,example-company-0218.com,Warm
+L00219,C00219,Canada,Logistics,Contact 0219,Procurement Manager,contact0219@example-company-0219.com,+1-555-219-1533,Oracle,Job Posting,69,Warm,2026-07-03,Canada,example-company-0219.com,Warm
+L00220,C00220,Saudi Arabia,Healthcare,Contact 0220,Database Manager,contact0220@example-company-0220.com,+1-555-220-1540,SQL Server,Company Website,43,Cold,2026-07-30,Saudi Arabia,example-company-0220.com,Cold
+L00221,C00221,UK,Telecom,Contact 0221,Database Manager,contact0221@example-company-0221.com,+1-555-221-1547,SQL Server,Technology Directory,96,Priority,2026-04-11,Uk,example-company-0221.com,Priority
+L00222,C00222,Canada,Manufacturing,Contact 0222,IT Director,contact0222@example-company-0222.com,+1-555-222-1554,SAP HANA,Public Case Study,93,Hot,2026-06-30,Canada,example-company-0222.com,Hot
+L00223,C00223,India,Education,Contact 0223,Database Manager,contact0223@example-company-0223.com,+1-555-223-1561,MySQL,Technology Directory,69,Warm,2026-01-14,India,example-company-0223.com,Warm
+L00224,C00224,UAE,Telecom,Contact 0224,CTO,contact0224@example-company-0224.com,+1-555-224-1568,MySQL,Job Posting,75,Qualified,2026-06-24,Uae,example-company-0224.com,Qualified
+L00225,C00225,India,Healthcare,Contact 0225,CTO,contact0225@example-company-0225.com,+1-555-225-1575,Oracle,Technology Directory,85,Hot,2026-01-24,India,example-company-0225.com,Hot
+L00226,C00226,Germany,Education,Contact 0226,CIO,contact0226@example-company-0226.com,+1-555-226-1582,PostgreSQL,Technology Directory,76,Qualified,2026-06-06,Germany,example-company-0226.com,Qualified
+L00227,C00227,Netherlands,Banking,Contact 0227,CIO,contact0227@example-company-0227.com,+1-555-227-1589,PostgreSQL,Company Website,43,Cold,2026-03-31,Netherlands,example-company-0227.com,Cold
+L00228,C00228,Australia,Education,Contact 0228,Procurement Manager,contact0228@example-company-0228.com,+1-555-228-1596,Oracle,Company Website,75,Qualified,2026-04-08,Australia,example-company-0228.com,Qualified
+L00229,C00229,Australia,Insurance,Contact 0229,Database Manager,contact0229@example-company-0229.com,+1-555-229-1603,MySQL,Company Website,87,Hot,2026-03-06,Australia,example-company-0229.com,Hot
+L00230,C00230,UK,Retail,Contact 0230,CTO,contact0230@example-company-0230.com,+1-555-230-1610,SAP HANA,Industry Directory,84,Qualified,2026-04-05,Uk,example-company-0230.com,Qualified
+L00231,C00231,Canada,Logistics,Contact 0231,IT Director,contact0231@example-company-0231.com,+1-555-231-1617,Oracle,Public Case Study,79,Qualified,2026-07-25,Canada,example-company-0231.com,Qualified
+L00232,C00232,Netherlands,Telecom,Contact 0232,IT Manager,contact0232@example-company-0232.com,+1-555-232-1624,Oracle,Company Website,100,Priority,2026-07-10,Netherlands,example-company-0232.com,Priority
+L00233,C00233,USA,Education,Contact 0233,CTO,contact0233@example-company-0233.com,+1-555-233-1631,SQL Server,Job Posting,70,Warm,2026-03-21,Usa,example-company-0233.com,Warm
+L00234,C00234,India,Telecom,Contact 0234,CTO,contact0234@example-company-0234.com,+1-555-234-1638,MySQL,Technology Directory,63,Warm,2026-03-11,India,example-company-0234.com,Warm
+L00235,C00235,Canada,Telecom,Contact 0235,IT Manager,contact0235@example-company-0235.com,+1-555-235-1645,Oracle,Company Website,75,Qualified,2026-04-30,Canada,example-company-0235.com,Qualified
+L00236,C00236,India,Retail,Contact 0236,IT Director,contact0236@example-company-0236.com,+1-555-236-1652,MySQL,Industry Directory,77,Qualified,2026-06-10,India,example-company-0236.com,Qualified
+L00237,C00237,Singapore,Banking,Contact 0237,Database Manager,contact0237@example-company-0237.com,+1-555-237-1659,Oracle,Industry Directory,100,Priority,2026-02-12,Singapore,example-company-0237.com,Priority
+L00238,C00238,Canada,Banking,Contact 0238,Procurement Manager,contact0238@example-company-0238.com,+1-555-238-1666,SQL Server,Job Posting,54,Cold,2026-06-20,Canada,example-company-0238.com,Cold
+L00239,C00239,Germany,Retail,Contact 0239,CTO,contact0239@example-company-0239.com,+1-555-239-1673,PostgreSQL,Company Website,52,Cold,2026-08-11,Germany,example-company-0239.com,Cold
+L00240,C00240,Singapore,Banking,Contact 0240,IT Director,contact0240@example-company-0240.com,+1-555-240-1680,SQL Server,Job Posting,79,Qualified,2026-07-18,Singapore,example-company-0240.com,Qualified
+L00241,C00241,UK,Manufacturing,Contact 0241,CIO,contact0241@example-company-0241.com,+1-555-241-1687,Oracle,Technology Directory,89,Hot,2026-05-09,Uk,example-company-0241.com,Hot
+L00242,C00242,Australia,Logistics,Contact 0242,IT Director,contact0242@example-company-0242.com,+1-555-242-1694,SAP HANA,Industry Directory,59,Cold,2026-03-17,Australia,example-company-0242.com,Cold
+L00243,C00243,USA,Education,Contact 0243,Database Manager,contact0243@example-company-0243.com,+1-555-243-1701,Oracle,Job Posting,82,Qualified,2026-03-18,Usa,example-company-0243.com,Qualified
+L00244,C00244,Singapore,Healthcare,Contact 0244,CTO,contact0244@example-company-0244.com,+1-555-244-1708,PostgreSQL,Job Posting,35,New,2026-06-24,Singapore,example-company-0244.com,Low
+L00245,C00245,Singapore,Education,Contact 0245,IT Director,contact0245@example-company-0245.com,+1-555-245-1715,MySQL,Job Posting,52,Cold,2026-04-17,Singapore,example-company-0245.com,Cold
+L00246,C00246,USA,Education,Contact 0246,IT Manager,contact0246@example-company-0246.com,+1-555-246-1722,PostgreSQL,Company Website,93,Hot,2026-01-26,Usa,example-company-0246.com,Hot
+L00247,C00247,India,Logistics,Contact 0247,CIO,contact0247@example-company-0247.com,+1-555-247-1729,Oracle,Company Website,78,Qualified,2026-06-09,India,example-company-0247.com,Qualified
+L00248,C00248,Canada,Healthcare,Contact 0248,CTO,contact0248@example-company-0248.com,+1-555-248-1736,Oracle,Technology Directory,95,Priority,2026-02-02,Canada,example-company-0248.com,Priority
+L00249,C00249,India,Retail,Contact 0249,Procurement Manager,contact0249@example-company-0249.com,+1-555-249-1743,SQL Server,Public Case Study,48,Cold,2026-08-20,India,example-company-0249.com,Cold
+L00250,C00250,USA,Education,Contact 0250,IT Director,contact0250@example-company-0250.com,+1-555-250-1750,Oracle,Company Website,60,Warm,2026-04-09,Usa,example-company-0250.com,Warm
+L00251,C00251,UK,Insurance,Contact 0251,CIO,contact0251@example-company-0251.com,+1-555-251-1757,Oracle,Job Posting,100,Priority,2026-03-22,Uk,example-company-0251.com,Priority
+L00252,C00252,Canada,Healthcare,Contact 0252,CIO,contact0252@example-company-0252.com,+1-555-252-1764,PostgreSQL,Industry Directory,95,Priority,2026-01-13,Canada,example-company-0252.com,Priority
+L00253,C00253,UK,Banking,Contact 0253,Database Manager,contact0253@example-company-0253.com,+1-555-253-1771,SAP HANA,Industry Directory,93,Hot,2026-02-09,Uk,example-company-0253.com,Hot
+L00254,C00254,Germany,Logistics,Contact 0254,CIO,contact0254@example-company-0254.com,+1-555-254-1778,Oracle,Public Case Study,62,Warm,2026-08-11,Germany,example-company-0254.com,Warm
+L00255,C00255,Singapore,Telecom,Contact 0255,Procurement Manager,contact0255@example-company-0255.com,+1-555-255-1785,SAP HANA,Technology Directory,88,Hot,2026-05-07,Singapore,example-company-0255.com,Hot
+L00256,C00256,UK,Banking,Contact 0256,IT Director,contact0256@example-company-0256.com,+1-555-256-1792,PostgreSQL,Technology Directory,67,Warm,2026-07-31,Uk,example-company-0256.com,Warm
+L00257,C00257,Singapore,Insurance,Contact 0257,Procurement Manager,contact0257@example-company-0257.com,+1-555-257-1799,SAP HANA,Job Posting,91,Hot,2026-08-13,Singapore,example-company-0257.com,Hot
+L00258,C00258,UK,Manufacturing,Contact 0258,Database Manager,contact0258@example-company-0258.com,+1-555-258-1806,PostgreSQL,Job Posting,86,Hot,2026-01-12,Uk,example-company-0258.com,Hot
+L00259,C00259,UK,Manufacturing,Contact 0259,IT Director,contact0259@example-company-0259.com,+1-555-259-1813,PostgreSQL,Job Posting,61,Warm,2026-03-31,Uk,example-company-0259.com,Warm
+L00260,C00260,Australia,Logistics,Contact 0260,IT Director,contact0260@example-company-0260.com,+1-555-260-1820,SQL Server,Public Case Study,53,Cold,2026-07-17,Australia,example-company-0260.com,Cold
+L00261,C00261,India,Retail,Contact 0261,IT Director,contact0261@example-company-0261.com,+1-555-261-1827,SQL Server,Public Case Study,94,Hot,2026-04-27,India,example-company-0261.com,Hot
+L00262,C00262,UK,Education,Contact 0262,CIO,contact0262@example-company-0262.com,+1-555-262-1834,SAP HANA,Public Case Study,62,Warm,2026-04-30,Uk,example-company-0262.com,Warm
+L00263,C00263,UAE,Healthcare,Contact 0263,CIO,contact0263@example-company-0263.com,+1-555-263-1841,Oracle,Public Case Study,69,Warm,2026-05-14,Uae,example-company-0263.com,Warm
+L00264,C00264,Saudi Arabia,Logistics,Contact 0264,Database Manager,contact0264@example-company-0264.com,+1-555-264-1848,MySQL,Company Website,75,Qualified,2026-06-14,Saudi Arabia,example-company-0264.com,Qualified
+L00265,C00265,Saudi Arabia,Insurance,Contact 0265,CIO,contact0265@example-company-0265.com,+1-555-265-1855,Oracle,Public Case Study,100,Priority,2026-08-09,Saudi Arabia,example-company-0265.com,Priority
+L00266,C00266,Australia,Banking,Contact 0266,IT Manager,contact0266@example-company-0266.com,+1-555-266-1862,MongoDB,Industry Directory,47,Cold,2026-07-28,Australia,example-company-0266.com,Cold
+L00267,C00267,Canada,Banking,Contact 0267,CIO,contact0267@example-company-0267.com,+1-555-267-1869,MySQL,Public Case Study,100,Priority,2026-05-27,Canada,example-company-0267.com,Priority
+L00268,C00268,Germany,Retail,Contact 0268,CIO,contact0268@example-company-0268.com,+1-555-268-1876,PostgreSQL,Technology Directory,60,Warm,2026-05-16,Germany,example-company-0268.com,Warm
+L00269,C00269,Singapore,Education,Contact 0269,CIO,contact0269@example-company-0269.com,+1-555-269-1883,SAP HANA,Job Posting,36,New,2026-03-26,Singapore,example-company-0269.com,Low
+L00270,C00270,Australia,Banking,Contact 0270,CIO,contact0270@example-company-0270.com,+1-555-270-1890,MongoDB,Public Case Study,58,Cold,2026-01-28,Australia,example-company-0270.com,Cold
+L00271,C00271,UAE,Retail,Contact 0271,Procurement Manager,contact0271@example-company-0271.com,+1-555-271-1897,Oracle,Technology Directory,71,Warm,2026-06-16,Uae,example-company-0271.com,Warm
+L00272,C00272,USA,Banking,Contact 0272,CIO,contact0272@example-company-0272.com,+1-555-272-1904,PostgreSQL,Job Posting,81,Qualified,2026-01-01,Usa,example-company-0272.com,Qualified
+L00273,C00273,UK,Education,Contact 0273,CIO,contact0273@example-company-0273.com,+1-555-273-1911,SAP HANA,Technology Directory,69,Warm,2026-06-14,Uk,example-company-0273.com,Warm
+L00274,C00274,Saudi Arabia,Telecom,Contact 0274,Procurement Manager,contact0274@example-company-0274.com,+1-555-274-1918,Oracle,Company Website,56,Cold,2026-04-27,Saudi Arabia,example-company-0274.com,Cold
+L00275,C00275,Canada,Logistics,Contact 0275,Database Manager,contact0275@example-company-0275.com,+1-555-275-1925,PostgreSQL,Industry Directory,64,Warm,2026-07-04,Canada,example-company-0275.com,Warm
+L00276,C00276,Canada,Telecom,Contact 0276,CIO,contact0276@example-company-0276.com,+1-555-276-1932,MySQL,Public Case Study,54,Cold,2026-08-12,Canada,example-company-0276.com,Cold
+L00277,C00277,Canada,Telecom,Contact 0277,Procurement Manager,contact0277@example-company-0277.com,+1-555-277-1939,SQL Server,Job Posting,56,Cold,2026-05-10,Canada,example-company-0277.com,Cold
+L00278,C00278,India,Logistics,Contact 0278,CIO,contact0278@example-company-0278.com,+1-555-278-1946,SQL Server,Public Case Study,78,Qualified,2026-05-15,India,example-company-0278.com,Qualified
+L00279,C00279,USA,Banking,Contact 0279,IT Director,contact0279@example-company-0279.com,+1-555-279-1953,Oracle,Company Website,97,Priority,2026-04-25,Usa,example-company-0279.com,Priority
+L00280,C00280,USA,Logistics,Contact 0280,CTO,contact0280@example-company-0280.com,+1-555-280-1960,Oracle,Job Posting,52,Cold,2026-03-29,Usa,example-company-0280.com,Cold
+L00281,C00281,UAE,Telecom,Contact 0281,IT Manager,contact0281@example-company-0281.com,+1-555-281-1967,Oracle,Public Case Study,84,Qualified,2026-01-21,Uae,example-company-0281.com,Qualified
+L00282,C00282,Canada,Telecom,Contact 0282,CIO,contact0282@example-company-0282.com,+1-555-282-1974,Oracle,Company Website,73,Warm,2026-01-08,Canada,example-company-0282.com,Warm
+L00283,C00283,Singapore,Healthcare,Contact 0283,IT Manager,contact0283@example-company-0283.com,+1-555-283-1981,SQL Server,Public Case Study,55,Cold,2026-06-19,Singapore,example-company-0283.com,Cold
+L00284,C00284,Canada,Logistics,Contact 0284,IT Director,contact0284@example-company-0284.com,+1-555-284-1988,MySQL,Industry Directory,78,Qualified,2026-08-04,Canada,example-company-0284.com,Qualified
+L00285,C00285,Canada,Healthcare,Contact 0285,IT Manager,contact0285@example-company-0285.com,+1-555-285-1995,Oracle,Technology Directory,58,Cold,2026-01-13,Canada,example-company-0285.com,Cold
+L00286,C00286,Saudi Arabia,Banking,Contact 0286,IT Director,contact0286@example-company-0286.com,+1-555-286-2002,PostgreSQL,Job Posting,86,Hot,2026-03-18,Saudi Arabia,example-company-0286.com,Hot
+L00287,C00287,UK,Education,Contact 0287,CTO,contact0287@example-company-0287.com,+1-555-287-2009,PostgreSQL,Public Case Study,59,Cold,2026-05-23,Uk,example-company-0287.com,Cold
+L00288,C00288,Australia,Insurance,Contact 0288,Database Manager,contact0288@example-company-0288.com,+1-555-288-2016,SQL Server,Job Posting,45,Cold,2026-06-15,Australia,example-company-0288.com,Cold
+L00289,C00289,Australia,Banking,Contact 0289,CIO,contact0289@example-company-0289.com,+1-555-289-2023,MongoDB,Public Case Study,88,Hot,2026-06-22,Australia,example-company-0289.com,Hot
+L00290,C00290,Canada,Manufacturing,Contact 0290,Database Manager,contact0290@example-company-0290.com,+1-555-290-2030,MySQL,Public Case Study,86,Hot,2026-06-13,Canada,example-company-0290.com,Hot
+L00291,C00291,Netherlands,Insurance,Contact 0291,IT Manager,contact0291@example-company-0291.com,+1-555-291-2037,SAP HANA,Company Website,74,Warm,2026-01-20,Netherlands,example-company-0291.com,Warm
+L00292,C00292,UAE,Logistics,Contact 0292,Database Manager,contact0292@example-company-0292.com,+1-555-292-2044,Oracle,Company Website,87,Hot,2026-03-01,Uae,example-company-0292.com,Hot
+L00293,C00293,Saudi Arabia,Healthcare,Contact 0293,CTO,contact0293@example-company-0293.com,+1-555-293-2051,PostgreSQL,Company Website,44,Cold,2026-04-21,Saudi Arabia,example-company-0293.com,Cold
+L00294,C00294,Germany,Banking,Contact 0294,IT Manager,contact0294@example-company-0294.com,+1-555-294-2058,MongoDB,Company Website,60,Warm,2026-01-15,Germany,example-company-0294.com,Warm
+L00295,C00295,Australia,Education,Contact 0295,IT Manager,contact0295@example-company-0295.com,+1-555-295-2065,SAP HANA,Job Posting,56,Cold,2026-03-22,Australia,example-company-0295.com,Cold
+L00296,C00296,Australia,Manufacturing,Contact 0296,CIO,contact0296@example-company-0296.com,+1-555-296-2072,SQL Server,Company Website,81,Qualified,2026-04-01,Australia,example-company-0296.com,Qualified
+L00297,C00297,Netherlands,Retail,Contact 0297,IT Manager,contact0297@example-company-0297.com,+1-555-297-2079,SQL Server,Industry Directory,56,Cold,2026-08-18,Netherlands,example-company-0297.com,Cold
+L00298,C00298,Canada,Telecom,Contact 0298,Procurement Manager,contact0298@example-company-0298.com,+1-555-298-2086,MySQL,Industry Directory,84,Qualified,2026-03-16,Canada,example-company-0298.com,Qualified
+L00299,C00299,UAE,Manufacturing,Contact 0299,IT Manager,contact0299@example-company-0299.com,+1-555-299-2093,PostgreSQL,Company Website,53,Cold,2026-08-17,Uae,example-company-0299.com,Cold
+L00300,C00300,USA,Banking,Contact 0300,IT Manager,contact0300@example-company-0300.com,+1-555-300-2100,PostgreSQL,Job Posting,76,Qualified,2026-06-14,Usa,example-company-0300.com,Qualified
+L00301,C00301,Germany,Logistics,Contact 0301,IT Manager,contact0301@example-company-0301.com,+1-555-301-2107,MongoDB,Public Case Study,47,Cold,2026-06-12,Germany,example-company-0301.com,Cold
+L00302,C00302,Netherlands,Healthcare,Contact 0302,IT Manager,contact0302@example-company-0302.com,+1-555-302-2114,SQL Server,Public Case Study,69,Warm,2026-07-12,Netherlands,example-company-0302.com,Warm
+L00303,C00303,USA,Telecom,Contact 0303,CIO,contact0303@example-company-0303.com,+1-555-303-2121,Oracle,Technology Directory,52,Cold,2026-07-17,Usa,example-company-0303.com,Cold
+L00304,C00304,Netherlands,Education,Contact 0304,IT Manager,contact0304@example-company-0304.com,+1-555-304-2128,SQL Server,Industry Directory,79,Qualified,2026-02-22,Netherlands,example-company-0304.com,Qualified
+L00305,C00305,Australia,Manufacturing,Contact 0305,CIO,contact0305@example-company-0305.com,+1-555-305-2135,Oracle,Public Case Study,44,Cold,2026-04-09,Australia,example-company-0305.com,Cold
+L00306,C00306,UK,Telecom,Contact 0306,CTO,contact0306@example-company-0306.com,+1-555-306-2142,Oracle,Public Case Study,100,Priority,2026-05-05,Uk,example-company-0306.com,Priority
+L00307,C00307,Germany,Retail,Contact 0307,Procurement Manager,contact0307@example-company-0307.com,+1-555-307-2149,MySQL,Technology Directory,86,Hot,2026-08-18,Germany,example-company-0307.com,Hot
+L00308,C00308,Australia,Insurance,Contact 0308,CIO,contact0308@example-company-0308.com,+1-555-308-2156,PostgreSQL,Technology Directory,75,Qualified,2026-01-10,Australia,example-company-0308.com,Qualified
+L00309,C00309,Germany,Healthcare,Contact 0309,Procurement Manager,contact0309@example-company-0309.com,+1-555-309-2163,Oracle,Job Posting,98,Priority,2026-04-23,Germany,example-company-0309.com,Priority
+L00310,C00310,UK,Logistics,Contact 0310,CTO,contact0310@example-company-0310.com,+1-555-310-2170,Oracle,Technology Directory,92,Hot,2026-02-20,Uk,example-company-0310.com,Hot
+L00311,C00311,Singapore,Manufacturing,Contact 0311,CIO,contact0311@example-company-0311.com,+1-555-311-2177,Oracle,Industry Directory,51,Cold,2026-02-18,Singapore,example-company-0311.com,Cold
+L00312,C00312,Singapore,Retail,Contact 0312,IT Director,contact0312@example-company-0312.com,+1-555-312-2184,SAP HANA,Job Posting,80,Qualified,2026-06-29,Singapore,example-company-0312.com,Qualified
+L00313,C00313,UK,Logistics,Contact 0313,Database Manager,contact0313@example-company-0313.com,+1-555-313-2191,PostgreSQL,Company Website,58,Cold,2026-02-17,Uk,example-company-0313.com,Cold
+L00314,C00314,UAE,Logistics,Contact 0314,CTO,contact0314@example-company-0314.com,+1-555-314-2198,Oracle,Technology Directory,95,Priority,2026-07-06,Uae,example-company-0314.com,Priority
+L00315,C00315,UAE,Education,Contact 0315,Database Manager,contact0315@example-company-0315.com,+1-555-315-2205,Oracle,Public Case Study,95,Priority,2026-08-22,Uae,example-company-0315.com,Priority
+L00316,C00316,Singapore,Retail,Contact 0316,IT Director,contact0316@example-company-0316.com,+1-555-316-2212,SQL Server,Industry Directory,93,Hot,2026-07-02,Singapore,example-company-0316.com,Hot
+L00317,C00317,India,Telecom,Contact 0317,CIO,contact0317@example-company-0317.com,+1-555-317-2219,Oracle,Technology Directory,75,Qualified,2026-02-09,India,example-company-0317.com,Qualified
+L00318,C00318,India,Manufacturing,Contact 0318,IT Director,contact0318@example-company-0318.com,+1-555-318-2226,SQL Server,Public Case Study,46,Cold,2026-02-03,India,example-company-0318.com,Cold
+L00319,C00319,Saudi Arabia,Healthcare,Contact 0319,CIO,contact0319@example-company-0319.com,+1-555-319-2233,MySQL,Job Posting,42,Cold,2026-04-13,Saudi Arabia,example-company-0319.com,Cold
+L00320,C00320,India,Healthcare,Contact 0320,Procurement Manager,contact0320@example-company-0320.com,+1-555-320-2240,MongoDB,Technology Directory,45,Cold,2026-05-10,India,example-company-0320.com,Cold
+L00321,C00321,Germany,Banking,Contact 0321,IT Director,contact0321@example-company-0321.com,+1-555-321-2247,Oracle,Technology Directory,100,Priority,2026-07-02,Germany,example-company-0321.com,Priority
+L00322,C00322,UK,Retail,Contact 0322,IT Manager,contact0322@example-company-0322.com,+1-555-322-2254,PostgreSQL,Job Posting,70,Warm,2026-04-10,Uk,example-company-0322.com,Warm
+L00323,C00323,Singapore,Manufacturing,Contact 0323,IT Director,contact0323@example-company-0323.com,+1-555-323-2261,Oracle,Public Case Study,64,Warm,2026-02-09,Singapore,example-company-0323.com,Warm
+L00324,C00324,Saudi Arabia,Education,Contact 0324,Database Manager,contact0324@example-company-0324.com,+1-555-324-2268,MongoDB,Industry Directory,62,Warm,2026-08-21,Saudi Arabia,example-company-0324.com,Warm
+L00325,C00325,Saudi Arabia,Logistics,Contact 0325,Procurement Manager,contact0325@example-company-0325.com,+1-555-325-2275,MongoDB,Job Posting,45,Cold,2026-08-01,Saudi Arabia,example-company-0325.com,Cold
+L00326,C00326,UAE,Insurance,Contact 0326,CTO,contact0326@example-company-0326.com,+1-555-326-2282,PostgreSQL,Company Website,74,Warm,2026-06-03,Uae,example-company-0326.com,Warm
+L00327,C00327,UAE,Telecom,Contact 0327,CIO,contact0327@example-company-0327.com,+1-555-327-2289,MySQL,Industry Directory,65,Warm,2026-06-13,Uae,example-company-0327.com,Warm
+L00328,C00328,USA,Banking,Contact 0328,Database Manager,contact0328@example-company-0328.com,+1-555-328-2296,Oracle,Industry Directory,96,Priority,2026-08-08,Usa,example-company-0328.com,Priority
+L00329,C00329,UK,Telecom,Contact 0329,CIO,contact0329@example-company-0329.com,+1-555-329-2303,SAP HANA,Industry Directory,41,Cold,2026-04-22,Uk,example-company-0329.com,Cold
+L00330,C00330,Australia,Retail,Contact 0330,Procurement Manager,contact0330@example-company-0330.com,+1-555-330-2310,PostgreSQL,Job Posting,91,Hot,2026-02-04,Australia,example-company-0330.com,Hot
+L00331,C00331,Australia,Healthcare,Contact 0331,Procurement Manager,contact0331@example-company-0331.com,+1-555-331-2317,Oracle,Public Case Study,46,Cold,2026-05-23,Australia,example-company-0331.com,Cold
+L00332,C00332,Germany,Telecom,Contact 0332,Database Manager,contact0332@example-company-0332.com,+1-555-332-2324,MySQL,Public Case Study,65,Warm,2026-04-16,Germany,example-company-0332.com,Warm
+L00333,C00333,Germany,Healthcare,Contact 0333,Database Manager,contact0333@example-company-0333.com,+1-555-333-2331,MySQL,Public Case Study,55,Cold,2026-07-07,Germany,example-company-0333.com,Cold
+L00334,C00334,Netherlands,Logistics,Contact 0334,Database Manager,contact0334@example-company-0334.com,+1-555-334-2338,SAP HANA,Industry Directory,78,Qualified,2026-07-01,Netherlands,example-company-0334.com,Qualified
+L00335,C00335,Canada,Manufacturing,Contact 0335,IT Manager,contact0335@example-company-0335.com,+1-555-335-2345,PostgreSQL,Industry Directory,75,Qualified,2026-04-21,Canada,example-company-0335.com,Qualified
+L00336,C00336,Netherlands,Education,Contact 0336,CTO,contact0336@example-company-0336.com,+1-555-336-2352,SQL Server,Technology Directory,47,Cold,2026-03-28,Netherlands,example-company-0336.com,Cold
+L00337,C00337,Saudi Arabia,Telecom,Contact 0337,Procurement Manager,contact0337@example-company-0337.com,+1-555-337-2359,SQL Server,Company Website,69,Warm,2026-04-10,Saudi Arabia,example-company-0337.com,Warm
+L00338,C00338,Germany,Retail,Contact 0338,CTO,contact0338@example-company-0338.com,+1-555-338-2366,Oracle,Company Website,75,Qualified,2026-05-29,Germany,example-company-0338.com,Qualified
+L00339,C00339,UAE,Logistics,Contact 0339,IT Director,contact0339@example-company-0339.com,+1-555-339-2373,MySQL,Industry Directory,63,Warm,2026-05-30,Uae,example-company-0339.com,Warm
+L00340,C00340,Saudi Arabia,Healthcare,Contact 0340,IT Manager,contact0340@example-company-0340.com,+1-555-340-2380,Oracle,Industry Directory,44,Cold,2026-05-01,Saudi Arabia,example-company-0340.com,Cold
+L00341,C00341,Singapore,Manufacturing,Contact 0341,Database Manager,contact0341@example-company-0341.com,+1-555-341-2387,PostgreSQL,Company Website,45,Cold,2026-05-05,Singapore,example-company-0341.com,Cold
+L00342,C00342,UAE,Insurance,Contact 0342,Procurement Manager,contact0342@example-company-0342.com,+1-555-342-2394,MySQL,Job Posting,70,Warm,2026-08-22,Uae,example-company-0342.com,Warm
+L00343,C00343,Singapore,Banking,Contact 0343,CTO,contact0343@example-company-0343.com,+1-555-343-2401,MySQL,Job Posting,55,Cold,2026-03-01,Singapore,example-company-0343.com,Cold
+L00344,C00344,Australia,Manufacturing,Contact 0344,CTO,contact0344@example-company-0344.com,+1-555-344-2408,Oracle,Job Posting,76,Qualified,2026-02-10,Australia,example-company-0344.com,Qualified
+L00345,C00345,Saudi Arabia,Insurance,Contact 0345,Database Manager,contact0345@example-company-0345.com,+1-555-345-2415,Oracle,Public Case Study,57,Cold,2026-07-07,Saudi Arabia,example-company-0345.com,Cold
+L00346,C00346,UAE,Education,Contact 0346,CTO,contact0346@example-company-0346.com,+1-555-346-2422,SQL Server,Technology Directory,79,Qualified,2026-08-08,Uae,example-company-0346.com,Qualified
+L00347,C00347,Saudi Arabia,Logistics,Contact 0347,IT Manager,contact0347@example-company-0347.com,+1-555-347-2429,Oracle,Technology Directory,54,Cold,2026-05-24,Saudi Arabia,example-company-0347.com,Cold
+L00348,C00348,Saudi Arabia,Telecom,Contact 0348,CTO,contact0348@example-company-0348.com,+1-555-348-2436,Oracle,Technology Directory,87,Hot,2026-04-05,Saudi Arabia,example-company-0348.com,Hot
+L00349,C00349,UK,Telecom,Contact 0349,IT Manager,contact0349@example-company-0349.com,+1-555-349-2443,PostgreSQL,Public Case Study,91,Hot,2026-03-23,Uk,example-company-0349.com,Hot
+L00350,C00350,UK,Manufacturing,Contact 0350,CTO,contact0350@example-company-0350.com,+1-555-350-2450,MySQL,Public Case Study,56,Cold,2026-04-20,Uk,example-company-0350.com,Cold
+L00351,C00351,Australia,Banking,Contact 0351,CIO,contact0351@example-company-0351.com,+1-555-351-2457,MySQL,Company Website,48,Cold,2026-01-13,Australia,example-company-0351.com,Cold
+L00352,C00352,USA,Healthcare,Contact 0352,Procurement Manager,contact0352@example-company-0352.com,+1-555-352-2464,MySQL,Company Website,35,New,2026-05-05,Usa,example-company-0352.com,Low
+L00353,C00353,UAE,Healthcare,Contact 0353,Database Manager,contact0353@example-company-0353.com,+1-555-353-2471,SAP HANA,Job Posting,56,Cold,2026-03-05,Uae,example-company-0353.com,Cold
+L00354,C00354,Canada,Education,Contact 0354,IT Manager,contact0354@example-company-0354.com,+1-555-354-2478,MySQL,Technology Directory,42,Cold,2026-03-04,Canada,example-company-0354.com,Cold
+L00355,C00355,Saudi Arabia,Insurance,Contact 0355,Database Manager,contact0355@example-company-0355.com,+1-555-355-2485,PostgreSQL,Industry Directory,93,Hot,2026-05-12,Saudi Arabia,example-company-0355.com,Hot
+L00356,C00356,Saudi Arabia,Healthcare,Contact 0356,CTO,contact0356@example-company-0356.com,+1-555-356-2492,MongoDB,Industry Directory,94,Hot,2026-08-15,Saudi Arabia,example-company-0356.com,Hot
+L00357,C00357,UK,Retail,Contact 0357,Procurement Manager,contact0357@example-company-0357.com,+1-555-357-2499,PostgreSQL,Public Case Study,94,Hot,2026-02-18,Uk,example-company-0357.com,Hot
+L00358,C00358,Netherlands,Insurance,Contact 0358,CTO,contact0358@example-company-0358.com,+1-555-358-2506,MySQL,Company Website,96,Priority,2026-08-03,Netherlands,example-company-0358.com,Priority
+L00359,C00359,USA,Banking,Contact 0359,Procurement Manager,contact0359@example-company-0359.com,+1-555-359-2513,PostgreSQL,Company Website,75,Qualified,2026-05-03,Usa,example-company-0359.com,Qualified
+L00360,C00360,India,Retail,Contact 0360,CTO,contact0360@example-company-0360.com,+1-555-360-2520,MySQL,Technology Directory,54,Cold,2026-08-17,India,example-company-0360.com,Cold
+L00361,C00361,Netherlands,Banking,Contact 0361,IT Director,contact0361@example-company-0361.com,+1-555-361-2527,MySQL,Technology Directory,67,Warm,2026-03-31,Netherlands,example-company-0361.com,Warm
+L00362,C00362,Netherlands,Banking,Contact 0362,IT Director,contact0362@example-company-0362.com,+1-555-362-2534,SQL Server,Public Case Study,55,Cold,2026-08-23,Netherlands,example-company-0362.com,Cold
+L00363,C00363,UAE,Retail,Contact 0363,Procurement Manager,contact0363@example-company-0363.com,+1-555-363-2541,MySQL,Company Website,86,Hot,2026-06-05,Uae,example-company-0363.com,Hot
+L00364,C00364,Netherlands,Insurance,Contact 0364,Database Manager,contact0364@example-company-0364.com,+1-555-364-2548,Oracle,Industry Directory,74,Warm,2026-06-07,Netherlands,example-company-0364.com,Warm
+L00365,C00365,UK,Manufacturing,Contact 0365,CTO,contact0365@example-company-0365.com,+1-555-365-2555,MySQL,Technology Directory,58,Cold,2026-05-13,Uk,example-company-0365.com,Cold
+L00366,C00366,Australia,Banking,Contact 0366,IT Manager,contact0366@example-company-0366.com,+1-555-366-2562,Oracle,Technology Directory,90,Hot,2026-04-17,Australia,example-company-0366.com,Hot
+L00367,C00367,Canada,Retail,Contact 0367,Database Manager,contact0367@example-company-0367.com,+1-555-367-2569,MySQL,Company Website,57,Cold,2026-05-04,Canada,example-company-0367.com,Cold
+L00368,C00368,Germany,Healthcare,Contact 0368,Database Manager,contact0368@example-company-0368.com,+1-555-368-2576,SQL Server,Industry Directory,56,Cold,2026-07-19,Germany,example-company-0368.com,Cold
+L00369,C00369,USA,Education,Contact 0369,IT Manager,contact0369@example-company-0369.com,+1-555-369-2583,MongoDB,Technology Directory,48,Cold,2026-07-06,Usa,example-company-0369.com,Cold
+L00370,C00370,India,Telecom,Contact 0370,CIO,contact0370@example-company-0370.com,+1-555-370-2590,Oracle,Job Posting,52,Cold,2026-01-06,India,example-company-0370.com,Cold
+L00371,C00371,Germany,Education,Contact 0371,IT Director,contact0371@example-company-0371.com,+1-555-371-2597,SQL Server,Job Posting,37,New,2026-06-13,Germany,example-company-0371.com,Low
+L00372,C00372,Singapore,Retail,Contact 0372,IT Manager,contact0372@example-company-0372.com,+1-555-372-2604,MySQL,Job Posting,59,Cold,2026-07-16,Singapore,example-company-0372.com,Cold
+L00373,C00373,Canada,Healthcare,Contact 0373,IT Director,contact0373@example-company-0373.com,+1-555-373-2611,Oracle,Company Website,100,Priority,2026-06-24,Canada,example-company-0373.com,Priority
+L00374,C00374,Germany,Healthcare,Contact 0374,IT Manager,contact0374@example-company-0374.com,+1-555-374-2618,Oracle,Industry Directory,58,Cold,2026-04-27,Germany,example-company-0374.com,Cold
+L00375,C00375,Netherlands,Education,Contact 0375,IT Director,contact0375@example-company-0375.com,+1-555-375-2625,Oracle,Industry Directory,82,Qualified,2026-03-20,Netherlands,example-company-0375.com,Qualified
+L00376,C00376,USA,Education,Contact 0376,CIO,contact0376@example-company-0376.com,+1-555-376-2632,Oracle,Industry Directory,62,Warm,2026-06-08,Usa,example-company-0376.com,Warm
+L00377,C00377,India,Education,Contact 0377,IT Manager,contact0377@example-company-0377.com,+1-555-377-2639,Oracle,Job Posting,61,Warm,2026-06-05,India,example-company-0377.com,Warm
+L00378,C00378,India,Logistics,Contact 0378,Database Manager,contact0378@example-company-0378.com,+1-555-378-2646,MySQL,Technology Directory,44,Cold,2026-03-29,India,example-company-0378.com,Cold
+L00379,C00379,Germany,Manufacturing,Contact 0379,IT Manager,contact0379@example-company-0379.com,+1-555-379-2653,SQL Server,Technology Directory,69,Warm,2026-04-06,Germany,example-company-0379.com,Warm
+L00380,C00380,UAE,Manufacturing,Contact 0380,Database Manager,contact0380@example-company-0380.com,+1-555-380-2660,Oracle,Technology Directory,83,Qualified,2026-03-28,Uae,example-company-0380.com,Qualified
+L00381,C00381,USA,Education,Contact 0381,IT Director,contact0381@example-company-0381.com,+1-555-381-2667,Oracle,Technology Directory,64,Warm,2026-01-11,Usa,example-company-0381.com,Warm
+L00382,C00382,Saudi Arabia,Retail,Contact 0382,Procurement Manager,contact0382@example-company-0382.com,+1-555-382-2674,Oracle,Technology Directory,75,Qualified,2026-01-08,Saudi Arabia,example-company-0382.com,Qualified
+L00383,C00383,Saudi Arabia,Retail,Contact 0383,CIO,contact0383@example-company-0383.com,+1-555-383-2681,SQL Server,Public Case Study,64,Warm,2026-01-20,Saudi Arabia,example-company-0383.com,Warm
+L00384,C00384,UAE,Education,Contact 0384,IT Director,contact0384@example-company-0384.com,+1-555-384-2688,MySQL,Company Website,51,Cold,2026-04-10,Uae,example-company-0384.com,Cold
+L00385,C00385,USA,Healthcare,Contact 0385,Procurement Manager,contact0385@example-company-0385.com,+1-555-385-2695,SQL Server,Company Website,77,Qualified,2026-04-30,Usa,example-company-0385.com,Qualified
+L00386,C00386,UK,Insurance,Contact 0386,CIO,contact0386@example-company-0386.com,+1-555-386-2702,Oracle,Industry Directory,81,Qualified,2026-04-06,Uk,example-company-0386.com,Qualified
+L00387,C00387,USA,Manufacturing,Contact 0387,Database Manager,contact0387@example-company-0387.com,+1-555-387-2709,Oracle,Industry Directory,47,Cold,2026-08-13,Usa,example-company-0387.com,Cold
+L00388,C00388,Netherlands,Retail,Contact 0388,CTO,contact0388@example-company-0388.com,+1-555-388-2716,MongoDB,Industry Directory,65,Warm,2026-02-22,Netherlands,example-company-0388.com,Warm
+L00389,C00389,Netherlands,Education,Contact 0389,IT Manager,contact0389@example-company-0389.com,+1-555-389-2723,Oracle,Job Posting,66,Warm,2026-04-03,Netherlands,example-company-0389.com,Warm
+L00390,C00390,UK,Education,Contact 0390,IT Director,contact0390@example-company-0390.com,+1-555-390-2730,Oracle,Technology Directory,91,Hot,2026-02-28,Uk,example-company-0390.com,Hot
+L00391,C00391,India,Retail,Contact 0391,IT Director,contact0391@example-company-0391.com,+1-555-391-2737,Oracle,Company Website,61,Warm,2026-03-12,India,example-company-0391.com,Warm
+L00392,C00392,UK,Manufacturing,Contact 0392,CTO,contact0392@example-company-0392.com,+1-555-392-2744,MongoDB,Job Posting,93,Hot,2026-05-18,Uk,example-company-0392.com,Hot
+L00393,C00393,Germany,Education,Contact 0393,CTO,contact0393@example-company-0393.com,+1-555-393-2751,SQL Server,Public Case Study,72,Warm,2026-03-14,Germany,example-company-0393.com,Warm
+L00394,C00394,Australia,Telecom,Contact 0394,IT Manager,contact0394@example-company-0394.com,+1-555-394-2758,SQL Server,Job Posting,47,Cold,2026-03-16,Australia,example-company-0394.com,Cold
+L00395,C00395,India,Insurance,Contact 0395,Database Manager,contact0395@example-company-0395.com,+1-555-395-2765,MongoDB,Technology Directory,64,Warm,2026-06-07,India,example-company-0395.com,Warm
+L00396,C00396,Netherlands,Manufacturing,Contact 0396,IT Director,contact0396@example-company-0396.com,+1-555-396-2772,Oracle,Company Website,96,Priority,2026-07-15,Netherlands,example-company-0396.com,Priority
+L00397,C00397,USA,Manufacturing,Contact 0397,Procurement Manager,contact0397@example-company-0397.com,+1-555-397-2779,MongoDB,Technology Directory,50,Cold,2026-02-19,Usa,example-company-0397.com,Cold
+L00398,C00398,UK,Telecom,Contact 0398,CTO,contact0398@example-company-0398.com,+1-555-398-2786,Oracle,Public Case Study,90,Hot,2026-01-27,Uk,example-company-0398.com,Hot
+L00399,C00399,UAE,Banking,Contact 0399,Procurement Manager,contact0399@example-company-0399.com,+1-555-399-2793,SQL Server,Technology Directory,87,Hot,2026-02-26,Uae,example-company-0399.com,Hot
+L00400,C00400,Germany,Retail,Contact 0400,Procurement Manager,contact0400@example-company-0400.com,+1-555-400-2800,MySQL,Technology Directory,77,Qualified,2026-05-16,Germany,example-company-0400.com,Qualified
+L00401,C00401,Saudi Arabia,Logistics,Contact 0401,IT Director,contact0401@example-company-0401.com,+1-555-401-2807,MySQL,Industry Directory,40,Cold,2026-08-14,Saudi Arabia,example-company-0401.com,Cold
+L00402,C00402,India,Insurance,Contact 0402,Database Manager,contact0402@example-company-0402.com,+1-555-402-2814,MongoDB,Job Posting,62,Warm,2026-02-07,India,example-company-0402.com,Warm
+L00403,C00403,Germany,Retail,Contact 0403,CTO,contact0403@example-company-0403.com,+1-555-403-2821,Oracle,Job Posting,64,Warm,2026-01-11,Germany,example-company-0403.com,Warm
+L00404,C00404,Saudi Arabia,Retail,Contact 0404,CTO,contact0404@example-company-0404.com,+1-555-404-2828,MongoDB,Public Case Study,55,Cold,2026-05-05,Saudi Arabia,example-company-0404.com,Cold
+L00405,C00405,Canada,Insurance,Contact 0405,CIO,contact0405@example-company-0405.com,+1-555-405-2835,MySQL,Technology Directory,93,Hot,2026-08-21,Canada,example-company-0405.com,Hot
+L00406,C00406,Australia,Insurance,Contact 0406,Database Manager,contact0406@example-company-0406.com,+1-555-406-2842,SQL Server,Industry Directory,40,Cold,2026-05-10,Australia,example-company-0406.com,Cold
+L00407,C00407,Canada,Retail,Contact 0407,CTO,contact0407@example-company-0407.com,+1-555-407-2849,MongoDB,Company Website,67,Warm,2026-08-06,Canada,example-company-0407.com,Warm
+L00408,C00408,UK,Logistics,Contact 0408,CIO,contact0408@example-company-0408.com,+1-555-408-2856,Oracle,Company Website,100,Priority,2026-05-31,Uk,example-company-0408.com,Priority
+L00409,C00409,Saudi Arabia,Banking,Contact 0409,CIO,contact0409@example-company-0409.com,+1-555-409-2863,MongoDB,Job Posting,93,Hot,2026-01-08,Saudi Arabia,example-company-0409.com,Hot
+L00410,C00410,USA,Retail,Contact 0410,IT Director,contact0410@example-company-0410.com,+1-555-410-2870,SQL Server,Technology Directory,71,Warm,2026-04-11,Usa,example-company-0410.com,Warm
+L00411,C00411,UK,Banking,Contact 0411,Procurement Manager,contact0411@example-company-0411.com,+1-555-411-2877,PostgreSQL,Industry Directory,100,Priority,2026-06-30,Uk,example-company-0411.com,Priority
+L00412,C00412,UAE,Manufacturing,Contact 0412,IT Manager,contact0412@example-company-0412.com,+1-555-412-2884,Oracle,Technology Directory,67,Warm,2026-04-30,Uae,example-company-0412.com,Warm
+L00413,C00413,UAE,Retail,Contact 0413,CTO,contact0413@example-company-0413.com,+1-555-413-2891,SQL Server,Technology Directory,72,Warm,2026-02-15,Uae,example-company-0413.com,Warm
+L00414,C00414,UK,Logistics,Contact 0414,CTO,contact0414@example-company-0414.com,+1-555-414-2898,PostgreSQL,Company Website,68,Warm,2026-02-12,Uk,example-company-0414.com,Warm
+L00415,C00415,USA,Manufacturing,Contact 0415,IT Director,contact0415@example-company-0415.com,+1-555-415-2905,MySQL,Technology Directory,37,New,2026-06-05,Usa,example-company-0415.com,Low
+L00416,C00416,Singapore,Logistics,Contact 0416,CIO,contact0416@example-company-0416.com,+1-555-416-2912,Oracle,Technology Directory,45,Cold,2026-04-19,Singapore,example-company-0416.com,Cold
+L00417,C00417,Saudi Arabia,Telecom,Contact 0417,Procurement Manager,contact0417@example-company-0417.com,+1-555-417-2919,Oracle,Technology Directory,100,Priority,2026-05-15,Saudi Arabia,example-company-0417.com,Priority
+L00418,C00418,UK,Healthcare,Contact 0418,IT Director,contact0418@example-company-0418.com,+1-555-418-2926,SAP HANA,Public Case Study,45,Cold,2026-03-29,Uk,example-company-0418.com,Cold
+L00419,C00419,UAE,Logistics,Contact 0419,IT Director,contact0419@example-company-0419.com,+1-555-419-2933,Oracle,Technology Directory,64,Warm,2026-03-21,Uae,example-company-0419.com,Warm
+L00420,C00420,Australia,Healthcare,Contact 0420,Procurement Manager,contact0420@example-company-0420.com,+1-555-420-2940,PostgreSQL,Company Website,73,Warm,2026-06-06,Australia,example-company-0420.com,Warm
+L00421,C00421,Saudi Arabia,Education,Contact 0421,Database Manager,contact0421@example-company-0421.com,+1-555-421-2947,MongoDB,Company Website,70,Warm,2026-01-02,Saudi Arabia,example-company-0421.com,Warm
+L00422,C00422,Singapore,Education,Contact 0422,IT Director,contact0422@example-company-0422.com,+1-555-422-2954,Oracle,Company Website,74,Warm,2026-04-13,Singapore,example-company-0422.com,Warm
+L00423,C00423,India,Manufacturing,Contact 0423,CTO,contact0423@example-company-0423.com,+1-555-423-2961,Oracle,Public Case Study,100,Priority,2026-03-29,India,example-company-0423.com,Priority
+L00424,C00424,Australia,Telecom,Contact 0424,IT Manager,contact0424@example-company-0424.com,+1-555-424-2968,PostgreSQL,Industry Directory,88,Hot,2026-07-03,Australia,example-company-0424.com,Hot
+L00425,C00425,Canada,Retail,Contact 0425,CTO,contact0425@example-company-0425.com,+1-555-425-2975,Oracle,Industry Directory,100,Priority,2026-06-21,Canada,example-company-0425.com,Priority
+L00426,C00426,UK,Logistics,Contact 0426,CTO,contact0426@example-company-0426.com,+1-555-426-2982,SQL Server,Job Posting,75,Qualified,2026-04-11,Uk,example-company-0426.com,Qualified
+L00427,C00427,Netherlands,Telecom,Contact 0427,Database Manager,contact0427@example-company-0427.com,+1-555-427-2989,PostgreSQL,Company Website,99,Priority,2026-03-03,Netherlands,example-company-0427.com,Priority
+L00428,C00428,Netherlands,Education,Contact 0428,Database Manager,contact0428@example-company-0428.com,+1-555-428-2996,SQL Server,Public Case Study,71,Warm,2026-02-25,Netherlands,example-company-0428.com,Warm
+L00429,C00429,USA,Retail,Contact 0429,Procurement Manager,contact0429@example-company-0429.com,+1-555-429-3003,MySQL,Company Website,68,Warm,2026-02-19,Usa,example-company-0429.com,Warm
+L00430,C00430,India,Logistics,Contact 0430,CIO,contact0430@example-company-0430.com,+1-555-430-3010,PostgreSQL,Public Case Study,84,Qualified,2026-03-06,India,example-company-0430.com,Qualified
+L00431,C00431,USA,Healthcare,Contact 0431,CIO,contact0431@example-company-0431.com,+1-555-431-3017,SQL Server,Job Posting,87,Hot,2026-06-28,Usa,example-company-0431.com,Hot
+L00432,C00432,India,Insurance,Contact 0432,IT Director,contact0432@example-company-0432.com,+1-555-432-3024,Oracle,Industry Directory,52,Cold,2026-01-11,India,example-company-0432.com,Cold
+L00433,C00433,Netherlands,Insurance,Contact 0433,Database Manager,contact0433@example-company-0433.com,+1-555-433-3031,SQL Server,Public Case Study,95,Priority,2026-01-07,Netherlands,example-company-0433.com,Priority
+L00434,C00434,UK,Manufacturing,Contact 0434,Database Manager,contact0434@example-company-0434.com,+1-555-434-3038,SAP HANA,Public Case Study,77,Qualified,2026-05-07,Uk,example-company-0434.com,Qualified
+L00435,C00435,Canada,Retail,Contact 0435,CTO,contact0435@example-company-0435.com,+1-555-435-3045,PostgreSQL,Technology Directory,89,Hot,2026-02-22,Canada,example-company-0435.com,Hot
+L00436,C00436,UK,Banking,Contact 0436,IT Manager,contact0436@example-company-0436.com,+1-555-436-3052,MySQL,Industry Directory,83,Qualified,2026-07-15,Uk,example-company-0436.com,Qualified
+L00437,C00437,Australia,Healthcare,Contact 0437,CTO,contact0437@example-company-0437.com,+1-555-437-3059,MySQL,Technology Directory,91,Hot,2026-06-26,Australia,example-company-0437.com,Hot
+L00438,C00438,Saudi Arabia,Telecom,Contact 0438,CIO,contact0438@example-company-0438.com,+1-555-438-3066,Oracle,Public Case Study,64,Warm,2026-06-30,Saudi Arabia,example-company-0438.com,Warm
+L00439,C00439,USA,Retail,Contact 0439,Database Manager,contact0439@example-company-0439.com,+1-555-439-3073,Oracle,Job Posting,54,Cold,2026-04-18,Usa,example-company-0439.com,Cold
+L00440,C00440,Germany,Education,Contact 0440,CTO,contact0440@example-company-0440.com,+1-555-440-3080,Oracle,Technology Directory,54,Cold,2026-04-13,Germany,example-company-0440.com,Cold
+L00441,C00441,Saudi Arabia,Logistics,Contact 0441,CTO,contact0441@example-company-0441.com,+1-555-441-3087,MongoDB,Industry Directory,50,Cold,2026-04-11,Saudi Arabia,example-company-0441.com,Cold
+L00442,C00442,Germany,Manufacturing,Contact 0442,CTO,contact0442@example-company-0442.com,+1-555-442-3094,Oracle,Job Posting,56,Cold,2026-02-16,Germany,example-company-0442.com,Cold
+L00443,C00443,UK,Education,Contact 0443,Procurement Manager,contact0443@example-company-0443.com,+1-555-443-3101,SAP HANA,Company Website,61,Warm,2026-05-14,Uk,example-company-0443.com,Warm
+L00444,C00444,Canada,Healthcare,Contact 0444,CIO,contact0444@example-company-0444.com,+1-555-444-3108,Oracle,Job Posting,55,Cold,2026-07-22,Canada,example-company-0444.com,Cold
+L00445,C00445,Australia,Insurance,Contact 0445,CIO,contact0445@example-company-0445.com,+1-555-445-3115,Oracle,Job Posting,57,Cold,2026-03-02,Australia,example-company-0445.com,Cold
+L00446,C00446,Singapore,Banking,Contact 0446,Database Manager,contact0446@example-company-0446.com,+1-555-446-3122,MySQL,Technology Directory,71,Warm,2026-01-14,Singapore,example-company-0446.com,Warm
+L00447,C00447,Germany,Education,Contact 0447,IT Director,contact0447@example-company-0447.com,+1-555-447-3129,MySQL,Company Website,83,Qualified,2026-05-13,Germany,example-company-0447.com,Qualified
+L00448,C00448,Saudi Arabia,Education,Contact 0448,IT Director,contact0448@example-company-0448.com,+1-555-448-3136,PostgreSQL,Company Website,43,Cold,2026-04-04,Saudi Arabia,example-company-0448.com,Cold
+L00449,C00449,Australia,Telecom,Contact 0449,Database Manager,contact0449@example-company-0449.com,+1-555-449-3143,MongoDB,Job Posting,71,Warm,2026-07-07,Australia,example-company-0449.com,Warm
+L00450,C00450,UAE,Banking,Contact 0450,Database Manager,contact0450@example-company-0450.com,+1-555-450-3150,SAP HANA,Technology Directory,80,Qualified,2026-07-21,Uae,example-company-0450.com,Qualified
+L00451,C00451,Saudi Arabia,Retail,Contact 0451,Database Manager,contact0451@example-company-0451.com,+1-555-451-3157,Oracle,Company Website,86,Hot,2026-08-12,Saudi Arabia,example-company-0451.com,Hot
+L00452,C00452,Saudi Arabia,Banking,Contact 0452,IT Director,contact0452@example-company-0452.com,+1-555-452-3164,PostgreSQL,Job Posting,46,Cold,2026-04-03,Saudi Arabia,example-company-0452.com,Cold
+L00453,C00453,Canada,Banking,Contact 0453,Procurement Manager,contact0453@example-company-0453.com,+1-555-453-3171,Oracle,Job Posting,92,Hot,2026-07-31,Canada,example-company-0453.com,Hot
+L00454,C00454,USA,Insurance,Contact 0454,CTO,contact0454@example-company-0454.com,+1-555-454-3178,SAP HANA,Company Website,41,Cold,2026-01-28,Usa,example-company-0454.com,Cold
+L00455,C00455,Australia,Manufacturing,Contact 0455,IT Director,contact0455@example-company-0455.com,+1-555-455-3185,SQL Server,Job Posting,49,Cold,2026-03-29,Australia,example-company-0455.com,Cold
+L00456,C00456,Australia,Banking,Contact 0456,CIO,contact0456@example-company-0456.com,+1-555-456-3192,MySQL,Job Posting,59,Cold,2026-03-04,Australia,example-company-0456.com,Cold
+L00457,C00457,UK,Education,Contact 0457,CIO,contact0457@example-company-0457.com,+1-555-457-3199,Oracle,Company Website,95,Priority,2026-08-05,Uk,example-company-0457.com,Priority
+L00458,C00458,Singapore,Healthcare,Contact 0458,CTO,contact0458@example-company-0458.com,+1-555-458-3206,Oracle,Public Case Study,54,Cold,2026-05-22,Singapore,example-company-0458.com,Cold
+L00459,C00459,Netherlands,Retail,Contact 0459,CTO,contact0459@example-company-0459.com,+1-555-459-3213,Oracle,Company Website,90,Hot,2026-03-27,Netherlands,example-company-0459.com,Hot
+L00460,C00460,UK,Manufacturing,Contact 0460,CTO,contact0460@example-company-0460.com,+1-555-460-3220,SAP HANA,Technology Directory,95,Priority,2026-02-05,Uk,example-company-0460.com,Priority
+L00461,C00461,India,Logistics,Contact 0461,CTO,contact0461@example-company-0461.com,+1-555-461-3227,PostgreSQL,Public Case Study,93,Hot,2026-07-04,India,example-company-0461.com,Hot
+L00462,C00462,UK,Retail,Contact 0462,Procurement Manager,contact0462@example-company-0462.com,+1-555-462-3234,MongoDB,Industry Directory,53,Cold,2026-06-03,Uk,example-company-0462.com,Cold
+L00463,C00463,India,Banking,Contact 0463,Procurement Manager,contact0463@example-company-0463.com,+1-555-463-3241,Oracle,Technology Directory,53,Cold,2026-07-20,India,example-company-0463.com,Cold
+L00464,C00464,Canada,Banking,Contact 0464,CTO,contact0464@example-company-0464.com,+1-555-464-3248,SQL Server,Technology Directory,53,Cold,2026-04-13,Canada,example-company-0464.com,Cold
+L00465,C00465,USA,Logistics,Contact 0465,Procurement Manager,contact0465@example-company-0465.com,+1-555-465-3255,Oracle,Public Case Study,89,Hot,2026-02-05,Usa,example-company-0465.com,Hot
+L00466,C00466,Saudi Arabia,Banking,Contact 0466,IT Manager,contact0466@example-company-0466.com,+1-555-466-3262,SQL Server,Industry Directory,52,Cold,2026-03-20,Saudi Arabia,example-company-0466.com,Cold
+L00467,C00467,UK,Telecom,Contact 0467,IT Manager,contact0467@example-company-0467.com,+1-555-467-3269,MySQL,Job Posting,79,Qualified,2026-05-26,Uk,example-company-0467.com,Qualified
+L00468,C00468,Australia,Healthcare,Contact 0468,CIO,contact0468@example-company-0468.com,+1-555-468-3276,Oracle,Public Case Study,65,Warm,2026-02-26,Australia,example-company-0468.com,Warm
+L00469,C00469,UK,Logistics,Contact 0469,CTO,contact0469@example-company-0469.com,+1-555-469-3283,SQL Server,Technology Directory,81,Qualified,2026-01-17,Uk,example-company-0469.com,Qualified
+L00470,C00470,Saudi Arabia,Banking,Contact 0470,CTO,contact0470@example-company-0470.com,+1-555-470-3290,Oracle,Company Website,84,Qualified,2026-07-13,Saudi Arabia,example-company-0470.com,Qualified
+L00471,C00471,India,Education,Contact 0471,IT Director,contact0471@example-company-0471.com,+1-555-471-3297,MySQL,Public Case Study,70,Warm,2026-05-05,India,example-company-0471.com,Warm
+L00472,C00472,Netherlands,Telecom,Contact 0472,IT Director,contact0472@example-company-0472.com,+1-555-472-3304,SQL Server,Industry Directory,87,Hot,2026-04-04,Netherlands,example-company-0472.com,Hot
+L00473,C00473,Canada,Healthcare,Contact 0473,Database Manager,contact0473@example-company-0473.com,+1-555-473-3311,Oracle,Company Website,100,Priority,2026-05-10,Canada,example-company-0473.com,Priority
+L00474,C00474,Canada,Insurance,Contact 0474,CTO,contact0474@example-company-0474.com,+1-555-474-3318,MongoDB,Company Website,62,Warm,2026-06-23,Canada,example-company-0474.com,Warm
+L00475,C00475,Singapore,Education,Contact 0475,IT Manager,contact0475@example-company-0475.com,+1-555-475-3325,SQL Server,Industry Directory,67,Warm,2026-01-01,Singapore,example-company-0475.com,Warm
+L00476,C00476,India,Retail,Contact 0476,IT Manager,contact0476@example-company-0476.com,+1-555-476-3332,SAP HANA,Technology Directory,73,Warm,2026-04-14,India,example-company-0476.com,Warm
+L00477,C00477,Netherlands,Healthcare,Contact 0477,IT Director,contact0477@example-company-0477.com,+1-555-477-3339,SQL Server,Job Posting,85,Hot,2026-03-01,Netherlands,example-company-0477.com,Hot
+L00478,C00478,USA,Healthcare,Contact 0478,Procurement Manager,contact0478@example-company-0478.com,+1-555-478-3346,PostgreSQL,Public Case Study,64,Warm,2026-01-22,Usa,example-company-0478.com,Warm
+L00479,C00479,Singapore,Insurance,Contact 0479,CTO,contact0479@example-company-0479.com,+1-555-479-3353,PostgreSQL,Job Posting,62,Warm,2026-01-09,Singapore,example-company-0479.com,Warm
+L00480,C00480,UK,Healthcare,Contact 0480,Database Manager,contact0480@example-company-0480.com,+1-555-480-3360,SAP HANA,Job Posting,86,Hot,2026-04-14,Uk,example-company-0480.com,Hot
+L00481,C00481,UAE,Insurance,Contact 0481,Procurement Manager,contact0481@example-company-0481.com,+1-555-481-3367,SQL Server,Job Posting,98,Priority,2026-05-08,Uae,example-company-0481.com,Priority
+L00482,C00482,Netherlands,Banking,Contact 0482,Database Manager,contact0482@example-company-0482.com,+1-555-482-3374,Oracle,Technology Directory,82,Qualified,2026-04-30,Netherlands,example-company-0482.com,Qualified
+L00483,C00483,UAE,Retail,Contact 0483,IT Director,contact0483@example-company-0483.com,+1-555-483-3381,Oracle,Company Website,49,Cold,2026-07-03,Uae,example-company-0483.com,Cold
+L00484,C00484,India,Banking,Contact 0484,CIO,contact0484@example-company-0484.com,+1-555-484-3388,SQL Server,Job Posting,57,Cold,2026-04-18,India,example-company-0484.com,Cold
+L00485,C00485,Canada,Healthcare,Contact 0485,CTO,contact0485@example-company-0485.com,+1-555-485-3395,Oracle,Job Posting,71,Warm,2026-05-19,Canada,example-company-0485.com,Warm
+L00486,C00486,UAE,Logistics,Contact 0486,IT Director,contact0486@example-company-0486.com,+1-555-486-3402,Oracle,Company Website,85,Hot,2026-07-11,Uae,example-company-0486.com,Hot
+L00487,C00487,Germany,Insurance,Contact 0487,CIO,contact0487@example-company-0487.com,+1-555-487-3409,Oracle,Public Case Study,88,Hot,2026-06-04,Germany,example-company-0487.com,Hot
+L00488,C00488,Australia,Banking,Contact 0488,IT Manager,contact0488@example-company-0488.com,+1-555-488-3416,SQL Server,Company Website,90,Hot,2026-08-03,Australia,example-company-0488.com,Hot
+L00489,C00489,India,Banking,Contact 0489,IT Director,contact0489@example-company-0489.com,+1-555-489-3423,Oracle,Industry Directory,49,Cold,2026-02-22,India,example-company-0489.com,Cold
+L00490,C00490,Singapore,Manufacturing,Contact 0490,CIO,contact0490@example-company-0490.com,+1-555-490-3430,SQL Server,Company Website,63,Warm,2026-07-04,Singapore,example-company-0490.com,Warm
+L00491,C00491,Saudi Arabia,Retail,Contact 0491,Database Manager,contact0491@example-company-0491.com,+1-555-491-3437,PostgreSQL,Job Posting,77,Qualified,2026-06-13,Saudi Arabia,example-company-0491.com,Qualified
+L00492,C00492,Netherlands,Healthcare,Contact 0492,IT Director,contact0492@example-company-0492.com,+1-555-492-3444,SAP HANA,Company Website,95,Priority,2026-05-17,Netherlands,example-company-0492.com,Priority
+L00493,C00493,India,Banking,Contact 0493,CIO,contact0493@example-company-0493.com,+1-555-493-3451,MySQL,Job Posting,48,Cold,2026-01-01,India,example-company-0493.com,Cold
+L00494,C00494,Singapore,Retail,Contact 0494,Procurement Manager,contact0494@example-company-0494.com,+1-555-494-3458,SQL Server,Public Case Study,88,Hot,2026-05-08,Singapore,example-company-0494.com,Hot
+L00495,C00495,UAE,Healthcare,Contact 0495,Database Manager,contact0495@example-company-0495.com,+1-555-495-3465,SQL Server,Company Website,35,New,2026-07-21,Uae,example-company-0495.com,Low
+L00496,C00496,Canada,Healthcare,Contact 0496,Procurement Manager,contact0496@example-company-0496.com,+1-555-496-3472,MySQL,Technology Directory,47,Cold,2026-06-01,Canada,example-company-0496.com,Cold
+L00497,C00497,UK,Manufacturing,Contact 0497,CTO,contact0497@example-company-0497.com,+1-555-497-3479,SQL Server,Public Case Study,86,Hot,2026-01-02,Uk,example-company-0497.com,Hot
+L00498,C00498,Germany,Logistics,Contact 0498,Database Manager,contact0498@example-company-0498.com,+1-555-498-3486,Oracle,Technology Directory,90,Hot,2026-03-09,Germany,example-company-0498.com,Hot
+L00499,C00499,Saudi Arabia,Healthcare,Contact 0499,CIO,contact0499@example-company-0499.com,+1-555-499-3493,MongoDB,Company Website,94,Hot,2026-05-14,Saudi Arabia,example-company-0499.com,Hot
+L00500,C00500,Canada,Logistics,Contact 0500,CTO,contact0500@example-company-0500.com,+1-555-500-3500,Oracle,Public Case Study,79,Qualified,2026-07-10,Canada,example-company-0500.com,Qualified
+L00501,C00501,UK,Manufacturing,Contact 0501,CIO,contact0501@example-company-0501.com,+1-555-501-3507,SAP HANA,Company Website,72,Warm,2026-04-15,Uk,example-company-0501.com,Warm
+L00502,C00502,Singapore,Retail,Contact 0502,IT Manager,contact0502@example-company-0502.com,+1-555-502-3514,SQL Server,Company Website,67,Warm,2026-07-21,Singapore,example-company-0502.com,Warm
+L00503,C00503,Saudi Arabia,Insurance,Contact 0503,CIO,contact0503@example-company-0503.com,+1-555-503-3521,Oracle,Technology Directory,79,Qualified,2026-07-07,Saudi Arabia,example-company-0503.com,Qualified
+L00504,C00504,Netherlands,Retail,Contact 0504,CIO,contact0504@example-company-0504.com,+1-555-504-3528,PostgreSQL,Job Posting,66,Warm,2026-03-04,Netherlands,example-company-0504.com,Warm
+L00505,C00505,UAE,Manufacturing,Contact 0505,CTO,contact0505@example-company-0505.com,+1-555-505-3535,Oracle,Company Website,60,Warm,2026-02-15,Uae,example-company-0505.com,Warm
+L00506,C00506,Canada,Insurance,Contact 0506,CTO,contact0506@example-company-0506.com,+1-555-506-3542,PostgreSQL,Public Case Study,92,Hot,2026-08-01,Canada,example-company-0506.com,Hot
+L00507,C00507,Australia,Education,Contact 0507,CIO,contact0507@example-company-0507.com,+1-555-507-3549,SQL Server,Technology Directory,56,Cold,2026-05-19,Australia,example-company-0507.com,Cold
+L00508,C00508,UAE,Healthcare,Contact 0508,CTO,contact0508@example-company-0508.com,+1-555-508-3556,Oracle,Industry Directory,80,Qualified,2026-07-19,Uae,example-company-0508.com,Qualified
+L00509,C00509,UAE,Logistics,Contact 0509,CIO,contact0509@example-company-0509.com,+1-555-509-3563,Oracle,Technology Directory,83,Qualified,2026-08-05,Uae,example-company-0509.com,Qualified
+L00510,C00510,UAE,Telecom,Contact 0510,Procurement Manager,contact0510@example-company-0510.com,+1-555-510-3570,PostgreSQL,Technology Directory,72,Warm,2026-04-10,Uae,example-company-0510.com,Warm
+L00511,C00511,Saudi Arabia,Retail,Contact 0511,Database Manager,contact0511@example-company-0511.com,+1-555-511-3577,Oracle,Industry Directory,80,Qualified,2026-01-11,Saudi Arabia,example-company-0511.com,Qualified
+L00512,C00512,India,Insurance,Contact 0512,Procurement Manager,contact0512@example-company-0512.com,+1-555-512-3584,SAP HANA,Company Website,42,Cold,2026-08-02,India,example-company-0512.com,Cold
+L00513,C00513,Netherlands,Telecom,Contact 0513,Procurement Manager,contact0513@example-company-0513.com,+1-555-513-3591,PostgreSQL,Job Posting,59,Cold,2026-05-18,Netherlands,example-company-0513.com,Cold
+L00514,C00514,Netherlands,Retail,Contact 0514,Database Manager,contact0514@example-company-0514.com,+1-555-514-3598,PostgreSQL,Public Case Study,62,Warm,2026-01-29,Netherlands,example-company-0514.com,Warm
+L00515,C00515,Saudi Arabia,Insurance,Contact 0515,IT Manager,contact0515@example-company-0515.com,+1-555-515-3605,Oracle,Job Posting,72,Warm,2026-05-05,Saudi Arabia,example-company-0515.com,Warm
+L00516,C00516,UK,Education,Contact 0516,IT Director,contact0516@example-company-0516.com,+1-555-516-3612,PostgreSQL,Industry Directory,90,Hot,2026-01-07,Uk,example-company-0516.com,Hot
+L00517,C00517,Netherlands,Healthcare,Contact 0517,Procurement Manager,contact0517@example-company-0517.com,+1-555-517-3619,MongoDB,Job Posting,89,Hot,2026-03-10,Netherlands,example-company-0517.com,Hot
+L00518,C00518,USA,Banking,Contact 0518,CTO,contact0518@example-company-0518.com,+1-555-518-3626,Oracle,Technology Directory,91,Hot,2026-03-23,Usa,example-company-0518.com,Hot
+L00519,C00519,Canada,Healthcare,Contact 0519,IT Manager,contact0519@example-company-0519.com,+1-555-519-3633,MySQL,Industry Directory,56,Cold,2026-04-17,Canada,example-company-0519.com,Cold
+L00520,C00520,Australia,Healthcare,Contact 0520,CIO,contact0520@example-company-0520.com,+1-555-520-3640,Oracle,Job Posting,46,Cold,2026-05-13,Australia,example-company-0520.com,Cold
+L00521,C00521,Germany,Logistics,Contact 0521,IT Director,contact0521@example-company-0521.com,+1-555-521-3647,MySQL,Industry Directory,81,Qualified,2026-07-17,Germany,example-company-0521.com,Qualified
+L00522,C00522,UK,Telecom,Contact 0522,Procurement Manager,contact0522@example-company-0522.com,+1-555-522-3654,PostgreSQL,Company Website,93,Hot,2026-03-24,Uk,example-company-0522.com,Hot
+L00523,C00523,UK,Insurance,Contact 0523,CTO,contact0523@example-company-0523.com,+1-555-523-3661,MySQL,Job Posting,69,Warm,2026-06-22,Uk,example-company-0523.com,Warm
+L00524,C00524,Netherlands,Insurance,Contact 0524,IT Director,contact0524@example-company-0524.com,+1-555-524-3668,SQL Server,Technology Directory,90,Hot,2026-08-10,Netherlands,example-company-0524.com,Hot
+L00525,C00525,Germany,Manufacturing,Contact 0525,Database Manager,contact0525@example-company-0525.com,+1-555-525-3675,MySQL,Technology Directory,91,Hot,2026-06-25,Germany,example-company-0525.com,Hot
+L00526,C00526,Germany,Banking,Contact 0526,IT Director,contact0526@example-company-0526.com,+1-555-526-3682,Oracle,Industry Directory,81,Qualified,2026-03-01,Germany,example-company-0526.com,Qualified
+L00527,C00527,Saudi Arabia,Retail,Contact 0527,CTO,contact0527@example-company-0527.com,+1-555-527-3689,Oracle,Industry Directory,55,Cold,2026-06-09,Saudi Arabia,example-company-0527.com,Cold
+L00528,C00528,UK,Insurance,Contact 0528,IT Manager,contact0528@example-company-0528.com,+1-555-528-3696,SAP HANA,Public Case Study,41,Cold,2026-03-08,Uk,example-company-0528.com,Cold
+L00529,C00529,Saudi Arabia,Banking,Contact 0529,IT Manager,contact0529@example-company-0529.com,+1-555-529-3703,SQL Server,Public Case Study,86,Hot,2026-04-23,Saudi Arabia,example-company-0529.com,Hot
+L00530,C00530,Saudi Arabia,Education,Contact 0530,CTO,contact0530@example-company-0530.com,+1-555-530-3710,MySQL,Job Posting,69,Warm,2026-05-30,Saudi Arabia,example-company-0530.com,Warm
+L00531,C00531,Australia,Banking,Contact 0531,CTO,contact0531@example-company-0531.com,+1-555-531-3717,PostgreSQL,Industry Directory,49,Cold,2026-03-10,Australia,example-company-0531.com,Cold
+L00532,C00532,UK,Banking,Contact 0532,Procurement Manager,contact0532@example-company-0532.com,+1-555-532-3724,Oracle,Public Case Study,51,Cold,2026-01-01,Uk,example-company-0532.com,Cold
+L00533,C00533,UK,Education,Contact 0533,CIO,contact0533@example-company-0533.com,+1-555-533-3731,Oracle,Company Website,100,Priority,2026-07-16,Uk,example-company-0533.com,Priority
+L00534,C00534,UAE,Insurance,Contact 0534,IT Director,contact0534@example-company-0534.com,+1-555-534-3738,Oracle,Industry Directory,67,Warm,2026-06-20,Uae,example-company-0534.com,Warm
+L00535,C00535,Australia,Logistics,Contact 0535,IT Director,contact0535@example-company-0535.com,+1-555-535-3745,MongoDB,Job Posting,54,Cold,2026-01-29,Australia,example-company-0535.com,Cold
+L00536,C00536,UK,Banking,Contact 0536,IT Manager,contact0536@example-company-0536.com,+1-555-536-3752,PostgreSQL,Technology Directory,78,Qualified,2026-03-30,Uk,example-company-0536.com,Qualified
+L00537,C00537,Canada,Insurance,Contact 0537,CTO,contact0537@example-company-0537.com,+1-555-537-3759,SQL Server,Technology Directory,62,Warm,2026-03-03,Canada,example-company-0537.com,Warm
+L00538,C00538,UK,Banking,Contact 0538,IT Director,contact0538@example-company-0538.com,+1-555-538-3766,Oracle,Industry Directory,100,Priority,2026-08-18,Uk,example-company-0538.com,Priority
+L00539,C00539,Australia,Telecom,Contact 0539,CIO,contact0539@example-company-0539.com,+1-555-539-3773,Oracle,Job Posting,89,Hot,2026-08-10,Australia,example-company-0539.com,Hot
+L00540,C00540,USA,Manufacturing,Contact 0540,IT Director,contact0540@example-company-0540.com,+1-555-540-3780,SQL Server,Job Posting,56,Cold,2026-06-12,Usa,example-company-0540.com,Cold
+L00541,C00541,India,Healthcare,Contact 0541,IT Manager,contact0541@example-company-0541.com,+1-555-541-3787,MySQL,Company Website,51,Cold,2026-04-14,India,example-company-0541.com,Cold
+L00542,C00542,USA,Insurance,Contact 0542,CTO,contact0542@example-company-0542.com,+1-555-542-3794,MongoDB,Job Posting,92,Hot,2026-01-13,Usa,example-company-0542.com,Hot
+L00543,C00543,UK,Banking,Contact 0543,IT Director,contact0543@example-company-0543.com,+1-555-543-3801,PostgreSQL,Company Website,76,Qualified,2026-02-28,Uk,example-company-0543.com,Qualified
+L00544,C00544,UK,Manufacturing,Contact 0544,CIO,contact0544@example-company-0544.com,+1-555-544-3808,MySQL,Technology Directory,91,Hot,2026-01-22,Uk,example-company-0544.com,Hot
+L00545,C00545,Netherlands,Insurance,Contact 0545,Database Manager,contact0545@example-company-0545.com,+1-555-545-3815,PostgreSQL,Industry Directory,61,Warm,2026-07-05,Netherlands,example-company-0545.com,Warm
+L00546,C00546,USA,Manufacturing,Contact 0546,Database Manager,contact0546@example-company-0546.com,+1-555-546-3822,MongoDB,Technology Directory,36,New,2026-01-21,Usa,example-company-0546.com,Low
+L00547,C00547,Canada,Telecom,Contact 0547,IT Manager,contact0547@example-company-0547.com,+1-555-547-3829,MySQL,Industry Directory,94,Hot,2026-06-09,Canada,example-company-0547.com,Hot
+L00548,C00548,Australia,Logistics,Contact 0548,IT Director,contact0548@example-company-0548.com,+1-555-548-3836,SQL Server,Industry Directory,49,Cold,2026-08-12,Australia,example-company-0548.com,Cold
+L00549,C00549,Australia,Healthcare,Contact 0549,IT Director,contact0549@example-company-0549.com,+1-555-549-3843,SAP HANA,Company Website,86,Hot,2026-03-14,Australia,example-company-0549.com,Hot
+L00550,C00550,Singapore,Banking,Contact 0550,IT Director,contact0550@example-company-0550.com,+1-555-550-3850,Oracle,Technology Directory,91,Hot,2026-06-10,Singapore,example-company-0550.com,Hot
+L00551,C00551,Netherlands,Retail,Contact 0551,CTO,contact0551@example-company-0551.com,+1-555-551-3857,SAP HANA,Technology Directory,49,Cold,2026-07-26,Netherlands,example-company-0551.com,Cold
+L00552,C00552,Germany,Logistics,Contact 0552,IT Manager,contact0552@example-company-0552.com,+1-555-552-3864,Oracle,Job Posting,89,Hot,2026-04-11,Germany,example-company-0552.com,Hot
+L00553,C00553,Netherlands,Manufacturing,Contact 0553,Database Manager,contact0553@example-company-0553.com,+1-555-553-3871,SQL Server,Industry Directory,39,New,2026-04-16,Netherlands,example-company-0553.com,Low
+L00554,C00554,Germany,Manufacturing,Contact 0554,CIO,contact0554@example-company-0554.com,+1-555-554-3878,PostgreSQL,Job Posting,58,Cold,2026-02-17,Germany,example-company-0554.com,Cold
+L00555,C00555,Saudi Arabia,Healthcare,Contact 0555,Database Manager,contact0555@example-company-0555.com,+1-555-555-3885,SQL Server,Company Website,56,Cold,2026-04-11,Saudi Arabia,example-company-0555.com,Cold
+L00556,C00556,Australia,Insurance,Contact 0556,Database Manager,contact0556@example-company-0556.com,+1-555-556-3892,SQL Server,Technology Directory,80,Qualified,2026-07-25,Australia,example-company-0556.com,Qualified
+L00557,C00557,India,Education,Contact 0557,CIO,contact0557@example-company-0557.com,+1-555-557-3899,SQL Server,Job Posting,67,Warm,2026-06-05,India,example-company-0557.com,Warm
+L00558,C00558,Netherlands,Logistics,Contact 0558,IT Manager,contact0558@example-company-0558.com,+1-555-558-3906,Oracle,Job Posting,80,Qualified,2026-02-17,Netherlands,example-company-0558.com,Qualified
+L00559,C00559,India,Education,Contact 0559,CTO,contact0559@example-company-0559.com,+1-555-559-3913,Oracle,Technology Directory,72,Warm,2026-05-04,India,example-company-0559.com,Warm
+L00560,C00560,Netherlands,Logistics,Contact 0560,IT Director,contact0560@example-company-0560.com,+1-555-560-3920,Oracle,Public Case Study,88,Hot,2026-06-16,Netherlands,example-company-0560.com,Hot
+L00561,C00561,Australia,Retail,Contact 0561,CTO,contact0561@example-company-0561.com,+1-555-561-3927,SQL Server,Job Posting,44,Cold,2026-01-19,Australia,example-company-0561.com,Cold
+L00562,C00562,USA,Retail,Contact 0562,IT Manager,contact0562@example-company-0562.com,+1-555-562-3934,MySQL,Job Posting,78,Qualified,2026-06-29,Usa,example-company-0562.com,Qualified
+L00563,C00563,Canada,Insurance,Contact 0563,IT Manager,contact0563@example-company-0563.com,+1-555-563-3941,Oracle,Company Website,51,Cold,2026-02-17,Canada,example-company-0563.com,Cold
+L00564,C00564,UK,Education,Contact 0564,CIO,contact0564@example-company-0564.com,+1-555-564-3948,SAP HANA,Job Posting,40,Cold,2026-03-11,Uk,example-company-0564.com,Cold
+L00565,C00565,Netherlands,Manufacturing,Contact 0565,IT Manager,contact0565@example-company-0565.com,+1-555-565-3955,MySQL,Technology Directory,79,Qualified,2026-04-08,Netherlands,example-company-0565.com,Qualified
+L00566,C00566,UAE,Healthcare,Contact 0566,CTO,contact0566@example-company-0566.com,+1-555-566-3962,MySQL,Public Case Study,44,Cold,2026-04-29,Uae,example-company-0566.com,Cold
+L00567,C00567,UAE,Education,Contact 0567,CTO,contact0567@example-company-0567.com,+1-555-567-3969,MySQL,Job Posting,81,Qualified,2026-08-04,Uae,example-company-0567.com,Qualified
+L00568,C00568,UAE,Manufacturing,Contact 0568,IT Director,contact0568@example-company-0568.com,+1-555-568-3976,Oracle,Company Website,51,Cold,2026-02-22,Uae,example-company-0568.com,Cold
+L00569,C00569,Singapore,Education,Contact 0569,Procurement Manager,contact0569@example-company-0569.com,+1-555-569-3983,PostgreSQL,Technology Directory,43,Cold,2026-03-02,Singapore,example-company-0569.com,Cold
+L00570,C00570,Australia,Education,Contact 0570,Procurement Manager,contact0570@example-company-0570.com,+1-555-570-3990,MySQL,Public Case Study,91,Hot,2026-03-31,Australia,example-company-0570.com,Hot
+L00571,C00571,Saudi Arabia,Banking,Contact 0571,CIO,contact0571@example-company-0571.com,+1-555-571-3997,Oracle,Company Website,58,Cold,2026-07-21,Saudi Arabia,example-company-0571.com,Cold
+L00572,C00572,Canada,Retail,Contact 0572,Database Manager,contact0572@example-company-0572.com,+1-555-572-4004,MongoDB,Technology Directory,90,Hot,2026-08-15,Canada,example-company-0572.com,Hot
+L00573,C00573,UAE,Telecom,Contact 0573,IT Manager,contact0573@example-company-0573.com,+1-555-573-4011,SAP HANA,Company Website,61,Warm,2026-04-17,Uae,example-company-0573.com,Warm
+L00574,C00574,USA,Logistics,Contact 0574,Database Manager,contact0574@example-company-0574.com,+1-555-574-4018,PostgreSQL,Technology Directory,83,Qualified,2026-06-12,Usa,example-company-0574.com,Qualified
+L00575,C00575,USA,Insurance,Contact 0575,CIO,contact0575@example-company-0575.com,+1-555-575-4025,SAP HANA,Public Case Study,97,Priority,2026-08-04,Usa,example-company-0575.com,Priority
+L00576,C00576,Germany,Retail,Contact 0576,Procurement Manager,contact0576@example-company-0576.com,+1-555-576-4032,SAP HANA,Public Case Study,42,Cold,2026-07-18,Germany,example-company-0576.com,Cold
+L00577,C00577,Saudi Arabia,Manufacturing,Contact 0577,CIO,contact0577@example-company-0577.com,+1-555-577-4039,MySQL,Public Case Study,55,Cold,2026-06-10,Saudi Arabia,example-company-0577.com,Cold
+L00578,C00578,Australia,Logistics,Contact 0578,CTO,contact0578@example-company-0578.com,+1-555-578-4046,SQL Server,Public Case Study,70,Warm,2026-05-08,Australia,example-company-0578.com,Warm
+L00579,C00579,Netherlands,Banking,Contact 0579,CTO,contact0579@example-company-0579.com,+1-555-579-4053,SQL Server,Job Posting,92,Hot,2026-08-20,Netherlands,example-company-0579.com,Hot
+L00580,C00580,UK,Manufacturing,Contact 0580,Procurement Manager,contact0580@example-company-0580.com,+1-555-580-4060,Oracle,Industry Directory,54,Cold,2026-02-26,Uk,example-company-0580.com,Cold
+L00581,C00581,USA,Retail,Contact 0581,Database Manager,contact0581@example-company-0581.com,+1-555-581-4067,Oracle,Job Posting,54,Cold,2026-03-27,Usa,example-company-0581.com,Cold
+L00582,C00582,Netherlands,Insurance,Contact 0582,IT Manager,contact0582@example-company-0582.com,+1-555-582-4074,Oracle,Job Posting,70,Warm,2026-06-17,Netherlands,example-company-0582.com,Warm
+L00583,C00583,UK,Manufacturing,Contact 0583,Procurement Manager,contact0583@example-company-0583.com,+1-555-583-4081,SQL Server,Public Case Study,47,Cold,2026-01-05,Uk,example-company-0583.com,Cold
+L00584,C00584,USA,Healthcare,Contact 0584,Procurement Manager,contact0584@example-company-0584.com,+1-555-584-4088,PostgreSQL,Job Posting,51,Cold,2026-04-28,Usa,example-company-0584.com,Cold
+L00585,C00585,Canada,Telecom,Contact 0585,Procurement Manager,contact0585@example-company-0585.com,+1-555-585-4095,PostgreSQL,Company Website,47,Cold,2026-07-20,Canada,example-company-0585.com,Cold
+L00586,C00586,Saudi Arabia,Retail,Contact 0586,Procurement Manager,contact0586@example-company-0586.com,+1-555-586-4102,MySQL,Public Case Study,85,Hot,2026-02-11,Saudi Arabia,example-company-0586.com,Hot
+L00587,C00587,Singapore,Logistics,Contact 0587,Procurement Manager,contact0587@example-company-0587.com,+1-555-587-4109,Oracle,Public Case Study,91,Hot,2026-07-08,Singapore,example-company-0587.com,Hot
+L00588,C00588,USA,Banking,Contact 0588,Procurement Manager,contact0588@example-company-0588.com,+1-555-588-4116,MySQL,Technology Directory,48,Cold,2026-04-07,Usa,example-company-0588.com,Cold
+L00589,C00589,Netherlands,Logistics,Contact 0589,Database Manager,contact0589@example-company-0589.com,+1-555-589-4123,SQL Server,Company Website,67,Warm,2026-07-22,Netherlands,example-company-0589.com,Warm
+L00590,C00590,Netherlands,Banking,Contact 0590,IT Director,contact0590@example-company-0590.com,+1-555-590-4130,SAP HANA,Public Case Study,79,Qualified,2026-05-30,Netherlands,example-company-0590.com,Qualified
+L00591,C00591,Netherlands,Telecom,Contact 0591,IT Director,contact0591@example-company-0591.com,+1-555-591-4137,SAP HANA,Company Website,78,Qualified,2026-02-06,Netherlands,example-company-0591.com,Qualified
+L00592,C00592,Saudi Arabia,Retail,Contact 0592,IT Manager,contact0592@example-company-0592.com,+1-555-592-4144,SAP HANA,Technology Directory,95,Priority,2026-06-22,Saudi Arabia,example-company-0592.com,Priority
+L00593,C00593,UAE,Healthcare,Contact 0593,CIO,contact0593@example-company-0593.com,+1-555-593-4151,SAP HANA,Technology Directory,74,Warm,2026-01-14,Uae,example-company-0593.com,Warm
+L00594,C00594,Saudi Arabia,Banking,Contact 0594,IT Manager,contact0594@example-company-0594.com,+1-555-594-4158,MongoDB,Public Case Study,81,Qualified,2026-02-27,Saudi Arabia,example-company-0594.com,Qualified
+L00595,C00595,Germany,Telecom,Contact 0595,Procurement Manager,contact0595@example-company-0595.com,+1-555-595-4165,MySQL,Industry Directory,42,Cold,2026-07-28,Germany,example-company-0595.com,Cold
+L00596,C00596,Netherlands,Insurance,Contact 0596,Database Manager,contact0596@example-company-0596.com,+1-555-596-4172,Oracle,Company Website,52,Cold,2026-07-25,Netherlands,example-company-0596.com,Cold
+L00597,C00597,Australia,Telecom,Contact 0597,IT Manager,contact0597@example-company-0597.com,+1-555-597-4179,Oracle,Company Website,85,Hot,2026-01-11,Australia,example-company-0597.com,Hot
+L00598,C00598,India,Telecom,Contact 0598,CIO,contact0598@example-company-0598.com,+1-555-598-4186,MySQL,Technology Directory,95,Priority,2026-03-31,India,example-company-0598.com,Priority
+L00599,C00599,Singapore,Logistics,Contact 0599,CTO,contact0599@example-company-0599.com,+1-555-599-4193,Oracle,Industry Directory,67,Warm,2026-01-23,Singapore,example-company-0599.com,Warm
+L00600,C00600,Singapore,Telecom,Contact 0600,Procurement Manager,contact0600@example-company-0600.com,+1-555-600-4200,Oracle,Company Website,87,Hot,2026-03-05,Singapore,example-company-0600.com,Hot
+L00601,C00601,Singapore,Retail,Contact 0601,IT Manager,contact0601@example-company-0601.com,+1-555-601-4207,MongoDB,Technology Directory,47,Cold,2026-08-16,Singapore,example-company-0601.com,Cold
+L00602,C00602,India,Telecom,Contact 0602,CIO,contact0602@example-company-0602.com,+1-555-602-4214,Oracle,Technology Directory,75,Qualified,2026-02-15,India,example-company-0602.com,Qualified
+L00603,C00603,India,Logistics,Contact 0603,Procurement Manager,contact0603@example-company-0603.com,+1-555-603-4221,MongoDB,Job Posting,80,Qualified,2026-05-31,India,example-company-0603.com,Qualified
+L00604,C00604,UK,Retail,Contact 0604,CTO,contact0604@example-company-0604.com,+1-555-604-4228,PostgreSQL,Public Case Study,75,Qualified,2026-07-08,Uk,example-company-0604.com,Qualified
+L00605,C00605,Netherlands,Banking,Contact 0605,Procurement Manager,contact0605@example-company-0605.com,+1-555-605-4235,SQL Server,Job Posting,46,Cold,2026-07-27,Netherlands,example-company-0605.com,Cold
+L00606,C00606,Australia,Education,Contact 0606,Database Manager,contact0606@example-company-0606.com,+1-555-606-4242,PostgreSQL,Technology Directory,88,Hot,2026-03-25,Australia,example-company-0606.com,Hot
+L00607,C00607,Germany,Insurance,Contact 0607,Database Manager,contact0607@example-company-0607.com,+1-555-607-4249,MySQL,Industry Directory,96,Priority,2026-06-13,Germany,example-company-0607.com,Priority
+L00608,C00608,Australia,Manufacturing,Contact 0608,IT Director,contact0608@example-company-0608.com,+1-555-608-4256,SQL Server,Job Posting,64,Warm,2026-04-24,Australia,example-company-0608.com,Warm
+L00609,C00609,Saudi Arabia,Insurance,Contact 0609,CTO,contact0609@example-company-0609.com,+1-555-609-4263,Oracle,Company Website,68,Warm,2026-01-26,Saudi Arabia,example-company-0609.com,Warm
+L00610,C00610,Netherlands,Insurance,Contact 0610,IT Manager,contact0610@example-company-0610.com,+1-555-610-4270,MongoDB,Industry Directory,72,Warm,2026-02-22,Netherlands,example-company-0610.com,Warm
+L00611,C00611,Netherlands,Logistics,Contact 0611,Procurement Manager,contact0611@example-company-0611.com,+1-555-611-4277,MySQL,Job Posting,83,Qualified,2026-06-25,Netherlands,example-company-0611.com,Qualified
+L00612,C00612,Canada,Insurance,Contact 0612,IT Director,contact0612@example-company-0612.com,+1-555-612-4284,Oracle,Public Case Study,75,Qualified,2026-06-11,Canada,example-company-0612.com,Qualified
+L00613,C00613,India,Telecom,Contact 0613,IT Director,contact0613@example-company-0613.com,+1-555-613-4291,PostgreSQL,Public Case Study,41,Cold,2026-05-03,India,example-company-0613.com,Cold
+L00614,C00614,Germany,Telecom,Contact 0614,IT Manager,contact0614@example-company-0614.com,+1-555-614-4298,SQL Server,Technology Directory,44,Cold,2026-07-03,Germany,example-company-0614.com,Cold
+L00615,C00615,Singapore,Banking,Contact 0615,CTO,contact0615@example-company-0615.com,+1-555-615-4305,MySQL,Company Website,89,Hot,2026-06-12,Singapore,example-company-0615.com,Hot
+L00616,C00616,Singapore,Insurance,Contact 0616,Procurement Manager,contact0616@example-company-0616.com,+1-555-616-4312,SQL Server,Industry Directory,88,Hot,2026-03-21,Singapore,example-company-0616.com,Hot
+L00617,C00617,UAE,Logistics,Contact 0617,IT Director,contact0617@example-company-0617.com,+1-555-617-4319,Oracle,Public Case Study,90,Hot,2026-03-11,Uae,example-company-0617.com,Hot
+L00618,C00618,UAE,Manufacturing,Contact 0618,CTO,contact0618@example-company-0618.com,+1-555-618-4326,PostgreSQL,Technology Directory,42,Cold,2026-08-11,Uae,example-company-0618.com,Cold
+L00619,C00619,USA,Banking,Contact 0619,IT Director,contact0619@example-company-0619.com,+1-555-619-4333,Oracle,Industry Directory,58,Cold,2026-08-17,Usa,example-company-0619.com,Cold
+L00620,C00620,UK,Education,Contact 0620,IT Manager,contact0620@example-company-0620.com,+1-555-620-4340,Oracle,Public Case Study,67,Warm,2026-01-08,Uk,example-company-0620.com,Warm
+L00621,C00621,Canada,Retail,Contact 0621,Procurement Manager,contact0621@example-company-0621.com,+1-555-621-4347,Oracle,Public Case Study,57,Cold,2026-07-05,Canada,example-company-0621.com,Cold
+L00622,C00622,Canada,Banking,Contact 0622,IT Director,contact0622@example-company-0622.com,+1-555-622-4354,MySQL,Company Website,63,Warm,2026-02-01,Canada,example-company-0622.com,Warm
+L00623,C00623,UK,Education,Contact 0623,CIO,contact0623@example-company-0623.com,+1-555-623-4361,MySQL,Public Case Study,69,Warm,2026-07-22,Uk,example-company-0623.com,Warm
+L00624,C00624,Canada,Banking,Contact 0624,Procurement Manager,contact0624@example-company-0624.com,+1-555-624-4368,MySQL,Job Posting,57,Cold,2026-05-19,Canada,example-company-0624.com,Cold
+L00625,C00625,Singapore,Manufacturing,Contact 0625,IT Director,contact0625@example-company-0625.com,+1-555-625-4375,Oracle,Company Website,50,Cold,2026-06-11,Singapore,example-company-0625.com,Cold
+L00626,C00626,UAE,Education,Contact 0626,Procurement Manager,contact0626@example-company-0626.com,+1-555-626-4382,Oracle,Job Posting,67,Warm,2026-06-14,Uae,example-company-0626.com,Warm
+L00627,C00627,Germany,Manufacturing,Contact 0627,Procurement Manager,contact0627@example-company-0627.com,+1-555-627-4389,SQL Server,Company Website,79,Qualified,2026-05-23,Germany,example-company-0627.com,Qualified
+L00628,C00628,Germany,Manufacturing,Contact 0628,IT Director,contact0628@example-company-0628.com,+1-555-628-4396,Oracle,Company Website,80,Qualified,2026-02-28,Germany,example-company-0628.com,Qualified
+L00629,C00629,Australia,Healthcare,Contact 0629,IT Director,contact0629@example-company-0629.com,+1-555-629-4403,PostgreSQL,Public Case Study,54,Cold,2026-07-09,Australia,example-company-0629.com,Cold
+L00630,C00630,Germany,Insurance,Contact 0630,IT Manager,contact0630@example-company-0630.com,+1-555-630-4410,MongoDB,Technology Directory,58,Cold,2026-05-11,Germany,example-company-0630.com,Cold
+L00631,C00631,India,Manufacturing,Contact 0631,IT Director,contact0631@example-company-0631.com,+1-555-631-4417,MySQL,Job Posting,70,Warm,2026-05-09,India,example-company-0631.com,Warm
+L00632,C00632,Germany,Education,Contact 0632,Database Manager,contact0632@example-company-0632.com,+1-555-632-4424,SAP HANA,Company Website,45,Cold,2026-03-16,Germany,example-company-0632.com,Cold
+L00633,C00633,Canada,Banking,Contact 0633,IT Director,contact0633@example-company-0633.com,+1-555-633-4431,Oracle,Public Case Study,98,Priority,2026-01-03,Canada,example-company-0633.com,Priority
+L00634,C00634,Germany,Education,Contact 0634,Database Manager,contact0634@example-company-0634.com,+1-555-634-4438,Oracle,Public Case Study,96,Priority,2026-05-11,Germany,example-company-0634.com,Priority
+L00635,C00635,UK,Healthcare,Contact 0635,CTO,contact0635@example-company-0635.com,+1-555-635-4445,PostgreSQL,Technology Directory,36,New,2026-03-23,Uk,example-company-0635.com,Low
+L00636,C00636,Singapore,Manufacturing,Contact 0636,IT Manager,contact0636@example-company-0636.com,+1-555-636-4452,PostgreSQL,Company Website,94,Hot,2026-06-04,Singapore,example-company-0636.com,Hot
+L00637,C00637,UAE,Insurance,Contact 0637,Procurement Manager,contact0637@example-company-0637.com,+1-555-637-4459,SAP HANA,Company Website,41,Cold,2026-03-27,Uae,example-company-0637.com,Cold
+L00638,C00638,UAE,Manufacturing,Contact 0638,CTO,contact0638@example-company-0638.com,+1-555-638-4466,Oracle,Company Website,70,Warm,2026-08-17,Uae,example-company-0638.com,Warm
+L00639,C00639,India,Insurance,Contact 0639,Database Manager,contact0639@example-company-0639.com,+1-555-639-4473,PostgreSQL,Company Website,80,Qualified,2026-06-10,India,example-company-0639.com,Qualified
+L00640,C00640,Saudi Arabia,Retail,Contact 0640,Database Manager,contact0640@example-company-0640.com,+1-555-640-4480,MySQL,Industry Directory,54,Cold,2026-04-18,Saudi Arabia,example-company-0640.com,Cold
+L00641,C00641,Singapore,Telecom,Contact 0641,Procurement Manager,contact0641@example-company-0641.com,+1-555-641-4487,MySQL,Job Posting,52,Cold,2026-06-16,Singapore,example-company-0641.com,Cold
+L00642,C00642,Saudi Arabia,Banking,Contact 0642,CIO,contact0642@example-company-0642.com,+1-555-642-4494,Oracle,Public Case Study,50,Cold,2026-06-02,Saudi Arabia,example-company-0642.com,Cold
+L00643,C00643,Netherlands,Healthcare,Contact 0643,CIO,contact0643@example-company-0643.com,+1-555-643-4501,MongoDB,Industry Directory,79,Qualified,2026-05-26,Netherlands,example-company-0643.com,Qualified
+L00644,C00644,Canada,Manufacturing,Contact 0644,CTO,contact0644@example-company-0644.com,+1-555-644-4508,Oracle,Industry Directory,45,Cold,2026-05-16,Canada,example-company-0644.com,Cold
+L00645,C00645,India,Insurance,Contact 0645,IT Manager,contact0645@example-company-0645.com,+1-555-645-4515,SAP HANA,Job Posting,69,Warm,2026-08-07,India,example-company-0645.com,Warm
+L00646,C00646,Germany,Retail,Contact 0646,Procurement Manager,contact0646@example-company-0646.com,+1-555-646-4522,SQL Server,Technology Directory,58,Cold,2026-03-16,Germany,example-company-0646.com,Cold
+L00647,C00647,Canada,Retail,Contact 0647,CIO,contact0647@example-company-0647.com,+1-555-647-4529,PostgreSQL,Technology Directory,94,Hot,2026-04-12,Canada,example-company-0647.com,Hot
+L00648,C00648,Australia,Telecom,Contact 0648,IT Director,contact0648@example-company-0648.com,+1-555-648-4536,PostgreSQL,Company Website,96,Priority,2026-03-01,Australia,example-company-0648.com,Priority
+L00649,C00649,Saudi Arabia,Education,Contact 0649,Database Manager,contact0649@example-company-0649.com,+1-555-649-4543,SAP HANA,Public Case Study,84,Qualified,2026-05-14,Saudi Arabia,example-company-0649.com,Qualified
+L00650,C00650,Netherlands,Logistics,Contact 0650,Database Manager,contact0650@example-company-0650.com,+1-555-650-4550,Oracle,Technology Directory,87,Hot,2026-08-21,Netherlands,example-company-0650.com,Hot
+L00651,C00651,Canada,Insurance,Contact 0651,CTO,contact0651@example-company-0651.com,+1-555-651-4557,Oracle,Job Posting,81,Qualified,2026-05-23,Canada,example-company-0651.com,Qualified
+L00652,C00652,Singapore,Banking,Contact 0652,CIO,contact0652@example-company-0652.com,+1-555-652-4564,SQL Server,Technology Directory,61,Warm,2026-02-18,Singapore,example-company-0652.com,Warm
+L00653,C00653,UAE,Banking,Contact 0653,Procurement Manager,contact0653@example-company-0653.com,+1-555-653-4571,MySQL,Public Case Study,50,Cold,2026-08-05,Uae,example-company-0653.com,Cold
+L00654,C00654,Netherlands,Manufacturing,Contact 0654,Procurement Manager,contact0654@example-company-0654.com,+1-555-654-4578,Oracle,Company Website,100,Priority,2026-07-05,Netherlands,example-company-0654.com,Priority
+L00655,C00655,Australia,Insurance,Contact 0655,IT Manager,contact0655@example-company-0655.com,+1-555-655-4585,Oracle,Public Case Study,71,Warm,2026-04-14,Australia,example-company-0655.com,Warm
+L00656,C00656,Australia,Insurance,Contact 0656,Database Manager,contact0656@example-company-0656.com,+1-555-656-4592,MySQL,Industry Directory,66,Warm,2026-02-04,Australia,example-company-0656.com,Warm
+L00657,C00657,India,Logistics,Contact 0657,CIO,contact0657@example-company-0657.com,+1-555-657-4599,Oracle,Public Case Study,51,Cold,2026-04-05,India,example-company-0657.com,Cold
+L00658,C00658,Singapore,Logistics,Contact 0658,CTO,contact0658@example-company-0658.com,+1-555-658-4606,Oracle,Public Case Study,59,Cold,2026-07-09,Singapore,example-company-0658.com,Cold
+L00659,C00659,USA,Logistics,Contact 0659,IT Director,contact0659@example-company-0659.com,+1-555-659-4613,SAP HANA,Company Website,73,Warm,2026-05-16,Usa,example-company-0659.com,Warm
+L00660,C00660,UAE,Retail,Contact 0660,CIO,contact0660@example-company-0660.com,+1-555-660-4620,MySQL,Public Case Study,61,Warm,2026-02-13,Uae,example-company-0660.com,Warm
+L00661,C00661,UK,Manufacturing,Contact 0661,CTO,contact0661@example-company-0661.com,+1-555-661-4627,MongoDB,Public Case Study,70,Warm,2026-02-07,Uk,example-company-0661.com,Warm
+L00662,C00662,India,Manufacturing,Contact 0662,CTO,contact0662@example-company-0662.com,+1-555-662-4634,MongoDB,Technology Directory,47,Cold,2026-08-16,India,example-company-0662.com,Cold
+L00663,C00663,USA,Insurance,Contact 0663,IT Director,contact0663@example-company-0663.com,+1-555-663-4641,Oracle,Technology Directory,53,Cold,2026-04-16,Usa,example-company-0663.com,Cold
+L00664,C00664,UAE,Manufacturing,Contact 0664,Procurement Manager,contact0664@example-company-0664.com,+1-555-664-4648,PostgreSQL,Public Case Study,89,Hot,2026-06-11,Uae,example-company-0664.com,Hot
+L00665,C00665,Australia,Manufacturing,Contact 0665,CIO,contact0665@example-company-0665.com,+1-555-665-4655,SQL Server,Company Website,61,Warm,2026-03-26,Australia,example-company-0665.com,Warm
+L00666,C00666,Singapore,Healthcare,Contact 0666,Database Manager,contact0666@example-company-0666.com,+1-555-666-4662,PostgreSQL,Job Posting,57,Cold,2026-01-22,Singapore,example-company-0666.com,Cold
+L00667,C00667,Australia,Logistics,Contact 0667,CTO,contact0667@example-company-0667.com,+1-555-667-4669,Oracle,Public Case Study,60,Warm,2026-04-07,Australia,example-company-0667.com,Warm
+L00668,C00668,Netherlands,Telecom,Contact 0668,CTO,contact0668@example-company-0668.com,+1-555-668-4676,Oracle,Industry Directory,88,Hot,2026-06-12,Netherlands,example-company-0668.com,Hot
+L00669,C00669,Saudi Arabia,Manufacturing,Contact 0669,Procurement Manager,contact0669@example-company-0669.com,+1-555-669-4683,Oracle,Job Posting,77,Qualified,2026-03-20,Saudi Arabia,example-company-0669.com,Qualified
+L00670,C00670,UK,Telecom,Contact 0670,IT Manager,contact0670@example-company-0670.com,+1-555-670-4690,SQL Server,Technology Directory,63,Warm,2026-05-22,Uk,example-company-0670.com,Warm
+L00671,C00671,Saudi Arabia,Logistics,Contact 0671,Procurement Manager,contact0671@example-company-0671.com,+1-555-671-4697,MongoDB,Industry Directory,91,Hot,2026-04-13,Saudi Arabia,example-company-0671.com,Hot
+L00672,C00672,Singapore,Manufacturing,Contact 0672,CTO,contact0672@example-company-0672.com,+1-555-672-4704,PostgreSQL,Company Website,90,Hot,2026-03-21,Singapore,example-company-0672.com,Hot
+L00673,C00673,Singapore,Retail,Contact 0673,CIO,contact0673@example-company-0673.com,+1-555-673-4711,PostgreSQL,Job Posting,47,Cold,2026-03-01,Singapore,example-company-0673.com,Cold
+L00674,C00674,USA,Logistics,Contact 0674,CTO,contact0674@example-company-0674.com,+1-555-674-4718,MongoDB,Company Website,74,Warm,2026-03-03,Usa,example-company-0674.com,Warm
+L00675,C00675,Singapore,Telecom,Contact 0675,Database Manager,contact0675@example-company-0675.com,+1-555-675-4725,PostgreSQL,Job Posting,99,Priority,2026-03-02,Singapore,example-company-0675.com,Priority
+L00676,C00676,India,Education,Contact 0676,CTO,contact0676@example-company-0676.com,+1-555-676-4732,Oracle,Public Case Study,72,Warm,2026-06-18,India,example-company-0676.com,Warm
+L00677,C00677,Australia,Insurance,Contact 0677,CTO,contact0677@example-company-0677.com,+1-555-677-4739,SAP HANA,Job Posting,41,Cold,2026-03-21,Australia,example-company-0677.com,Cold
+L00678,C00678,USA,Healthcare,Contact 0678,IT Director,contact0678@example-company-0678.com,+1-555-678-4746,MySQL,Industry Directory,43,Cold,2026-06-24,Usa,example-company-0678.com,Cold
+L00679,C00679,Australia,Education,Contact 0679,Database Manager,contact0679@example-company-0679.com,+1-555-679-4753,Oracle,Industry Directory,83,Qualified,2026-03-15,Australia,example-company-0679.com,Qualified
+L00680,C00680,Saudi Arabia,Manufacturing,Contact 0680,IT Manager,contact0680@example-company-0680.com,+1-555-680-4760,SQL Server,Industry Directory,90,Hot,2026-03-18,Saudi Arabia,example-company-0680.com,Hot
+L00681,C00681,India,Education,Contact 0681,Database Manager,contact0681@example-company-0681.com,+1-555-681-4767,MongoDB,Public Case Study,42,Cold,2026-08-06,India,example-company-0681.com,Cold
+L00682,C00682,UK,Banking,Contact 0682,Procurement Manager,contact0682@example-company-0682.com,+1-555-682-4774,Oracle,Public Case Study,81,Qualified,2026-07-25,Uk,example-company-0682.com,Qualified
+L00683,C00683,Saudi Arabia,Banking,Contact 0683,Procurement Manager,contact0683@example-company-0683.com,+1-555-683-4781,SQL Server,Technology Directory,70,Warm,2026-04-05,Saudi Arabia,example-company-0683.com,Warm
+L00684,C00684,Saudi Arabia,Logistics,Contact 0684,Procurement Manager,contact0684@example-company-0684.com,+1-555-684-4788,Oracle,Industry Directory,60,Warm,2026-03-05,Saudi Arabia,example-company-0684.com,Warm
+L00685,C00685,UK,Retail,Contact 0685,IT Director,contact0685@example-company-0685.com,+1-555-685-4795,Oracle,Company Website,81,Qualified,2026-06-18,Uk,example-company-0685.com,Qualified
+L00686,C00686,Netherlands,Manufacturing,Contact 0686,Procurement Manager,contact0686@example-company-0686.com,+1-555-686-4802,Oracle,Public Case Study,96,Priority,2026-01-17,Netherlands,example-company-0686.com,Priority
+L00687,C00687,Canada,Healthcare,Contact 0687,CTO,contact0687@example-company-0687.com,+1-555-687-4809,PostgreSQL,Company Website,49,Cold,2026-04-18,Canada,example-company-0687.com,Cold
+L00688,C00688,Australia,Healthcare,Contact 0688,CTO,contact0688@example-company-0688.com,+1-555-688-4816,SAP HANA,Job Posting,38,New,2026-05-21,Australia,example-company-0688.com,Low
+L00689,C00689,Canada,Education,Contact 0689,CTO,contact0689@example-company-0689.com,+1-555-689-4823,Oracle,Job Posting,64,Warm,2026-06-08,Canada,example-company-0689.com,Warm
+L00690,C00690,India,Banking,Contact 0690,CIO,contact0690@example-company-0690.com,+1-555-690-4830,Oracle,Public Case Study,67,Warm,2026-01-26,India,example-company-0690.com,Warm
+L00691,C00691,Saudi Arabia,Logistics,Contact 0691,Procurement Manager,contact0691@example-company-0691.com,+1-555-691-4837,Oracle,Public Case Study,87,Hot,2026-01-01,Saudi Arabia,example-company-0691.com,Hot
+L00692,C00692,India,Education,Contact 0692,Database Manager,contact0692@example-company-0692.com,+1-555-692-4844,Oracle,Company Website,75,Qualified,2026-03-07,India,example-company-0692.com,Qualified
+L00693,C00693,Saudi Arabia,Telecom,Contact 0693,Procurement Manager,contact0693@example-company-0693.com,+1-555-693-4851,SQL Server,Public Case Study,41,Cold,2026-01-29,Saudi Arabia,example-company-0693.com,Cold
+L00694,C00694,Saudi Arabia,Healthcare,Contact 0694,Procurement Manager,contact0694@example-company-0694.com,+1-555-694-4858,PostgreSQL,Job Posting,55,Cold,2026-04-30,Saudi Arabia,example-company-0694.com,Cold
+L00695,C00695,USA,Insurance,Contact 0695,CTO,contact0695@example-company-0695.com,+1-555-695-4865,SQL Server,Company Website,84,Qualified,2026-08-05,Usa,example-company-0695.com,Qualified
+L00696,C00696,UAE,Telecom,Contact 0696,IT Manager,contact0696@example-company-0696.com,+1-555-696-4872,MySQL,Technology Directory,69,Warm,2026-03-09,Uae,example-company-0696.com,Warm
+L00697,C00697,India,Healthcare,Contact 0697,Database Manager,contact0697@example-company-0697.com,+1-555-697-4879,SQL Server,Technology Directory,69,Warm,2026-04-17,India,example-company-0697.com,Warm
+L00698,C00698,Australia,Insurance,Contact 0698,CTO,contact0698@example-company-0698.com,+1-555-698-4886,Oracle,Job Posting,64,Warm,2026-02-20,Australia,example-company-0698.com,Warm
+L00699,C00699,USA,Retail,Contact 0699,IT Manager,contact0699@example-company-0699.com,+1-555-699-4893,Oracle,Job Posting,62,Warm,2026-01-11,Usa,example-company-0699.com,Warm
+L00700,C00700,USA,Education,Contact 0700,IT Manager,contact0700@example-company-0700.com,+1-555-700-4900,MongoDB,Industry Directory,42,Cold,2026-06-15,Usa,example-company-0700.com,Cold
+L00701,C00701,Australia,Retail,Contact 0701,Procurement Manager,contact0701@example-company-0701.com,+1-555-701-4907,PostgreSQL,Job Posting,39,New,2026-03-02,Australia,example-company-0701.com,Low
+L00702,C00702,Singapore,Insurance,Contact 0702,IT Manager,contact0702@example-company-0702.com,+1-555-702-4914,MongoDB,Industry Directory,42,Cold,2026-05-09,Singapore,example-company-0702.com,Cold
+L00703,C00703,UK,Telecom,Contact 0703,Database Manager,contact0703@example-company-0703.com,+1-555-703-4921,SAP HANA,Industry Directory,78,Qualified,2026-06-10,Uk,example-company-0703.com,Qualified
+L00704,C00704,UK,Insurance,Contact 0704,Procurement Manager,contact0704@example-company-0704.com,+1-555-704-4928,SQL Server,Job Posting,49,Cold,2026-07-17,Uk,example-company-0704.com,Cold
+L00705,C00705,UK,Education,Contact 0705,IT Director,contact0705@example-company-0705.com,+1-555-705-4935,MongoDB,Technology Directory,70,Warm,2026-02-13,Uk,example-company-0705.com,Warm
+L00706,C00706,Australia,Logistics,Contact 0706,IT Manager,contact0706@example-company-0706.com,+1-555-706-4942,MySQL,Public Case Study,93,Hot,2026-05-17,Australia,example-company-0706.com,Hot
+L00707,C00707,USA,Education,Contact 0707,CTO,contact0707@example-company-0707.com,+1-555-707-4949,Oracle,Technology Directory,85,Hot,2026-08-03,Usa,example-company-0707.com,Hot
+L00708,C00708,Australia,Education,Contact 0708,CTO,contact0708@example-company-0708.com,+1-555-708-4956,Oracle,Technology Directory,78,Qualified,2026-04-24,Australia,example-company-0708.com,Qualified
+L00709,C00709,Canada,Insurance,Contact 0709,IT Manager,contact0709@example-company-0709.com,+1-555-709-4963,Oracle,Job Posting,55,Cold,2026-01-10,Canada,example-company-0709.com,Cold
+L00710,C00710,Canada,Insurance,Contact 0710,CIO,contact0710@example-company-0710.com,+1-555-710-4970,Oracle,Company Website,77,Qualified,2026-03-03,Canada,example-company-0710.com,Qualified
+L00711,C00711,Singapore,Retail,Contact 0711,Procurement Manager,contact0711@example-company-0711.com,+1-555-711-4977,MySQL,Company Website,89,Hot,2026-07-06,Singapore,example-company-0711.com,Hot
+L00712,C00712,Australia,Healthcare,Contact 0712,CTO,contact0712@example-company-0712.com,+1-555-712-4984,PostgreSQL,Job Posting,58,Cold,2026-07-06,Australia,example-company-0712.com,Cold
+L00713,C00713,India,Education,Contact 0713,CTO,contact0713@example-company-0713.com,+1-555-713-4991,PostgreSQL,Public Case Study,85,Hot,2026-03-15,India,example-company-0713.com,Hot
+L00714,C00714,India,Telecom,Contact 0714,CIO,contact0714@example-company-0714.com,+1-555-714-4998,SQL Server,Job Posting,83,Qualified,2026-02-16,India,example-company-0714.com,Qualified
+L00715,C00715,Saudi Arabia,Telecom,Contact 0715,CTO,contact0715@example-company-0715.com,+1-555-715-5005,Oracle,Company Website,64,Warm,2026-03-10,Saudi Arabia,example-company-0715.com,Warm
+L00716,C00716,India,Education,Contact 0716,Procurement Manager,contact0716@example-company-0716.com,+1-555-716-5012,PostgreSQL,Job Posting,43,Cold,2026-02-26,India,example-company-0716.com,Cold
+L00717,C00717,Australia,Telecom,Contact 0717,IT Director,contact0717@example-company-0717.com,+1-555-717-5019,MySQL,Technology Directory,41,Cold,2026-06-24,Australia,example-company-0717.com,Cold
+L00718,C00718,Canada,Healthcare,Contact 0718,Database Manager,contact0718@example-company-0718.com,+1-555-718-5026,Oracle,Job Posting,59,Cold,2026-07-17,Canada,example-company-0718.com,Cold
+L00719,C00719,UAE,Healthcare,Contact 0719,Procurement Manager,contact0719@example-company-0719.com,+1-555-719-5033,Oracle,Job Posting,63,Warm,2026-01-11,Uae,example-company-0719.com,Warm
+L00720,C00720,Australia,Manufacturing,Contact 0720,CTO,contact0720@example-company-0720.com,+1-555-720-5040,MySQL,Company Website,75,Qualified,2026-06-24,Australia,example-company-0720.com,Qualified
+L00721,C00721,UK,Banking,Contact 0721,Database Manager,contact0721@example-company-0721.com,+1-555-721-5047,Oracle,Job Posting,82,Qualified,2026-06-26,Uk,example-company-0721.com,Qualified
+L00722,C00722,Saudi Arabia,Telecom,Contact 0722,CTO,contact0722@example-company-0722.com,+1-555-722-5054,SAP HANA,Job Posting,69,Warm,2026-05-25,Saudi Arabia,example-company-0722.com,Warm
+L00723,C00723,Netherlands,Telecom,Contact 0723,IT Director,contact0723@example-company-0723.com,+1-555-723-5061,PostgreSQL,Industry Directory,84,Qualified,2026-07-24,Netherlands,example-company-0723.com,Qualified
+L00724,C00724,UK,Telecom,Contact 0724,Database Manager,contact0724@example-company-0724.com,+1-555-724-5068,PostgreSQL,Industry Directory,86,Hot,2026-01-10,Uk,example-company-0724.com,Hot
+L00725,C00725,India,Manufacturing,Contact 0725,Procurement Manager,contact0725@example-company-0725.com,+1-555-725-5075,Oracle,Job Posting,86,Hot,2026-06-14,India,example-company-0725.com,Hot
+L00726,C00726,UK,Logistics,Contact 0726,Database Manager,contact0726@example-company-0726.com,+1-555-726-5082,SAP HANA,Company Website,89,Hot,2026-01-30,Uk,example-company-0726.com,Hot
+L00727,C00727,India,Education,Contact 0727,CTO,contact0727@example-company-0727.com,+1-555-727-5089,PostgreSQL,Company Website,56,Cold,2026-07-30,India,example-company-0727.com,Cold
+L00728,C00728,USA,Manufacturing,Contact 0728,IT Director,contact0728@example-company-0728.com,+1-555-728-5096,Oracle,Job Posting,93,Hot,2026-04-28,Usa,example-company-0728.com,Hot
+L00729,C00729,Canada,Healthcare,Contact 0729,Procurement Manager,contact0729@example-company-0729.com,+1-555-729-5103,SQL Server,Technology Directory,60,Warm,2026-01-22,Canada,example-company-0729.com,Warm
+L00730,C00730,Singapore,Banking,Contact 0730,Procurement Manager,contact0730@example-company-0730.com,+1-555-730-5110,SQL Server,Technology Directory,51,Cold,2026-06-25,Singapore,example-company-0730.com,Cold
+L00731,C00731,India,Logistics,Contact 0731,Procurement Manager,contact0731@example-company-0731.com,+1-555-731-5117,MySQL,Job Posting,43,Cold,2026-06-26,India,example-company-0731.com,Cold
+L00732,C00732,Canada,Education,Contact 0732,CTO,contact0732@example-company-0732.com,+1-555-732-5124,Oracle,Job Posting,48,Cold,2026-04-20,Canada,example-company-0732.com,Cold
+L00733,C00733,Saudi Arabia,Telecom,Contact 0733,Database Manager,contact0733@example-company-0733.com,+1-555-733-5131,SQL Server,Job Posting,98,Priority,2026-03-14,Saudi Arabia,example-company-0733.com,Priority
+L00734,C00734,India,Logistics,Contact 0734,CTO,contact0734@example-company-0734.com,+1-555-734-5138,Oracle,Technology Directory,53,Cold,2026-01-05,India,example-company-0734.com,Cold
+L00735,C00735,UAE,Logistics,Contact 0735,CIO,contact0735@example-company-0735.com,+1-555-735-5145,Oracle,Public Case Study,93,Hot,2026-08-02,Uae,example-company-0735.com,Hot
+L00736,C00736,Singapore,Logistics,Contact 0736,CIO,contact0736@example-company-0736.com,+1-555-736-5152,Oracle,Company Website,90,Hot,2026-02-13,Singapore,example-company-0736.com,Hot
+L00737,C00737,India,Manufacturing,Contact 0737,CTO,contact0737@example-company-0737.com,+1-555-737-5159,MongoDB,Technology Directory,61,Warm,2026-07-18,India,example-company-0737.com,Warm
+L00738,C00738,Germany,Banking,Contact 0738,Database Manager,contact0738@example-company-0738.com,+1-555-738-5166,Oracle,Public Case Study,100,Priority,2026-05-19,Germany,example-company-0738.com,Priority
+L00739,C00739,India,Banking,Contact 0739,IT Director,contact0739@example-company-0739.com,+1-555-739-5173,MySQL,Public Case Study,95,Priority,2026-06-11,India,example-company-0739.com,Priority
+L00740,C00740,Netherlands,Insurance,Contact 0740,IT Manager,contact0740@example-company-0740.com,+1-555-740-5180,MySQL,Technology Directory,96,Priority,2026-06-13,Netherlands,example-company-0740.com,Priority
+L00741,C00741,Netherlands,Healthcare,Contact 0741,CTO,contact0741@example-company-0741.com,+1-555-741-5187,SAP HANA,Technology Directory,65,Warm,2026-07-21,Netherlands,example-company-0741.com,Warm
+L00742,C00742,India,Telecom,Contact 0742,Procurement Manager,contact0742@example-company-0742.com,+1-555-742-5194,SQL Server,Public Case Study,58,Cold,2026-01-08,India,example-company-0742.com,Cold
+L00743,C00743,Singapore,Healthcare,Contact 0743,CIO,contact0743@example-company-0743.com,+1-555-743-5201,SAP HANA,Job Posting,37,New,2026-08-21,Singapore,example-company-0743.com,Low
+L00744,C00744,UAE,Banking,Contact 0744,IT Director,contact0744@example-company-0744.com,+1-555-744-5208,Oracle,Technology Directory,99,Priority,2026-01-11,Uae,example-company-0744.com,Priority
+L00745,C00745,India,Insurance,Contact 0745,CIO,contact0745@example-company-0745.com,+1-555-745-5215,Oracle,Job Posting,100,Priority,2026-08-23,India,example-company-0745.com,Priority
+L00746,C00746,Germany,Education,Contact 0746,Procurement Manager,contact0746@example-company-0746.com,+1-555-746-5222,SQL Server,Technology Directory,67,Warm,2026-03-03,Germany,example-company-0746.com,Warm
+L00747,C00747,Australia,Education,Contact 0747,CIO,contact0747@example-company-0747.com,+1-555-747-5229,MySQL,Company Website,39,New,2026-07-18,Australia,example-company-0747.com,Low
+L00748,C00748,Germany,Healthcare,Contact 0748,IT Manager,contact0748@example-company-0748.com,+1-555-748-5236,SAP HANA,Job Posting,85,Hot,2026-01-20,Germany,example-company-0748.com,Hot
+L00749,C00749,Germany,Logistics,Contact 0749,Procurement Manager,contact0749@example-company-0749.com,+1-555-749-5243,SAP HANA,Company Website,53,Cold,2026-04-19,Germany,example-company-0749.com,Cold
+L00750,C00750,UK,Telecom,Contact 0750,CIO,contact0750@example-company-0750.com,+1-555-750-5250,MySQL,Job Posting,73,Warm,2026-05-08,Uk,example-company-0750.com,Warm
+L00751,C00751,Saudi Arabia,Education,Contact 0751,Database Manager,contact0751@example-company-0751.com,+1-555-751-5257,MongoDB,Technology Directory,75,Qualified,2026-08-13,Saudi Arabia,example-company-0751.com,Qualified
+L00752,C00752,UK,Education,Contact 0752,CIO,contact0752@example-company-0752.com,+1-555-752-5264,SQL Server,Technology Directory,43,Cold,2026-01-30,Uk,example-company-0752.com,Cold
+L00753,C00753,USA,Telecom,Contact 0753,CTO,contact0753@example-company-0753.com,+1-555-753-5271,Oracle,Industry Directory,51,Cold,2026-01-09,Usa,example-company-0753.com,Cold
+L00754,C00754,Saudi Arabia,Healthcare,Contact 0754,CIO,contact0754@example-company-0754.com,+1-555-754-5278,SQL Server,Company Website,39,New,2026-06-02,Saudi Arabia,example-company-0754.com,Low
+L00755,C00755,Australia,Telecom,Contact 0755,IT Manager,contact0755@example-company-0755.com,+1-555-755-5285,Oracle,Industry Directory,100,Priority,2026-01-12,Australia,example-company-0755.com,Priority
+L00756,C00756,Canada,Retail,Contact 0756,Procurement Manager,contact0756@example-company-0756.com,+1-555-756-5292,SAP HANA,Job Posting,93,Hot,2026-07-02,Canada,example-company-0756.com,Hot
+L00757,C00757,India,Retail,Contact 0757,CIO,contact0757@example-company-0757.com,+1-555-757-5299,Oracle,Public Case Study,69,Warm,2026-01-10,India,example-company-0757.com,Warm
+L00758,C00758,Germany,Manufacturing,Contact 0758,CIO,contact0758@example-company-0758.com,+1-555-758-5306,MySQL,Public Case Study,60,Warm,2026-08-17,Germany,example-company-0758.com,Warm
+L00759,C00759,UK,Manufacturing,Contact 0759,IT Manager,contact0759@example-company-0759.com,+1-555-759-5313,SQL Server,Industry Directory,59,Cold,2026-05-06,Uk,example-company-0759.com,Cold
+L00760,C00760,India,Manufacturing,Contact 0760,CTO,contact0760@example-company-0760.com,+1-555-760-5320,Oracle,Company Website,64,Warm,2026-08-11,India,example-company-0760.com,Warm
+L00761,C00761,UK,Healthcare,Contact 0761,Database Manager,contact0761@example-company-0761.com,+1-555-761-5327,Oracle,Industry Directory,76,Qualified,2026-01-30,Uk,example-company-0761.com,Qualified
+L00762,C00762,Australia,Healthcare,Contact 0762,IT Manager,contact0762@example-company-0762.com,+1-555-762-5334,PostgreSQL,Company Website,56,Cold,2026-03-06,Australia,example-company-0762.com,Cold
+L00763,C00763,Saudi Arabia,Banking,Contact 0763,IT Director,contact0763@example-company-0763.com,+1-555-763-5341,Oracle,Industry Directory,85,Hot,2026-04-17,Saudi Arabia,example-company-0763.com,Hot
+L00764,C00764,Saudi Arabia,Manufacturing,Contact 0764,Procurement Manager,contact0764@example-company-0764.com,+1-555-764-5348,MySQL,Public Case Study,58,Cold,2026-01-07,Saudi Arabia,example-company-0764.com,Cold
+L00765,C00765,Germany,Manufacturing,Contact 0765,CTO,contact0765@example-company-0765.com,+1-555-765-5355,MySQL,Technology Directory,73,Warm,2026-01-25,Germany,example-company-0765.com,Warm
+L00766,C00766,India,Education,Contact 0766,Database Manager,contact0766@example-company-0766.com,+1-555-766-5362,Oracle,Job Posting,100,Priority,2026-03-19,India,example-company-0766.com,Priority
+L00767,C00767,Singapore,Manufacturing,Contact 0767,CTO,contact0767@example-company-0767.com,+1-555-767-5369,Oracle,Company Website,55,Cold,2026-06-23,Singapore,example-company-0767.com,Cold
+L00768,C00768,Canada,Healthcare,Contact 0768,IT Manager,contact0768@example-company-0768.com,+1-555-768-5376,PostgreSQL,Industry Directory,38,New,2026-06-16,Canada,example-company-0768.com,Low
+L00769,C00769,UK,Banking,Contact 0769,Database Manager,contact0769@example-company-0769.com,+1-555-769-5383,MongoDB,Public Case Study,72,Warm,2026-01-21,Uk,example-company-0769.com,Warm
+L00770,C00770,Germany,Insurance,Contact 0770,CIO,contact0770@example-company-0770.com,+1-555-770-5390,Oracle,Industry Directory,55,Cold,2026-01-15,Germany,example-company-0770.com,Cold
+L00771,C00771,Singapore,Retail,Contact 0771,CIO,contact0771@example-company-0771.com,+1-555-771-5397,MongoDB,Public Case Study,49,Cold,2026-06-04,Singapore,example-company-0771.com,Cold
+L00772,C00772,Saudi Arabia,Healthcare,Contact 0772,Procurement Manager,contact0772@example-company-0772.com,+1-555-772-5404,SQL Server,Industry Directory,83,Qualified,2026-03-26,Saudi Arabia,example-company-0772.com,Qualified
+L00773,C00773,USA,Retail,Contact 0773,Database Manager,contact0773@example-company-0773.com,+1-555-773-5411,SQL Server,Industry Directory,60,Warm,2026-07-06,Usa,example-company-0773.com,Warm
+L00774,C00774,India,Healthcare,Contact 0774,CIO,contact0774@example-company-0774.com,+1-555-774-5418,PostgreSQL,Technology Directory,68,Warm,2026-03-12,India,example-company-0774.com,Warm
+L00775,C00775,Netherlands,Logistics,Contact 0775,IT Director,contact0775@example-company-0775.com,+1-555-775-5425,PostgreSQL,Public Case Study,82,Qualified,2026-03-27,Netherlands,example-company-0775.com,Qualified
+L00776,C00776,Saudi Arabia,Insurance,Contact 0776,IT Director,contact0776@example-company-0776.com,+1-555-776-5432,SAP HANA,Job Posting,47,Cold,2026-02-21,Saudi Arabia,example-company-0776.com,Cold
+L00777,C00777,Canada,Retail,Contact 0777,Procurement Manager,contact0777@example-company-0777.com,+1-555-777-5439,SQL Server,Public Case Study,64,Warm,2026-03-04,Canada,example-company-0777.com,Warm
+L00778,C00778,UK,Insurance,Contact 0778,Procurement Manager,contact0778@example-company-0778.com,+1-555-778-5446,SQL Server,Public Case Study,42,Cold,2026-06-15,Uk,example-company-0778.com,Cold
+L00779,C00779,UAE,Retail,Contact 0779,CTO,contact0779@example-company-0779.com,+1-555-779-5453,MySQL,Technology Directory,65,Warm,2026-04-21,Uae,example-company-0779.com,Warm
+L00780,C00780,Netherlands,Telecom,Contact 0780,CIO,contact0780@example-company-0780.com,+1-555-780-5460,Oracle,Public Case Study,61,Warm,2026-06-04,Netherlands,example-company-0780.com,Warm
+L00781,C00781,Netherlands,Banking,Contact 0781,CTO,contact0781@example-company-0781.com,+1-555-781-5467,PostgreSQL,Job Posting,95,Priority,2026-01-19,Netherlands,example-company-0781.com,Priority
+L00782,C00782,Singapore,Retail,Contact 0782,IT Director,contact0782@example-company-0782.com,+1-555-782-5474,Oracle,Public Case Study,58,Cold,2026-05-06,Singapore,example-company-0782.com,Cold
+L00783,C00783,UK,Banking,Contact 0783,Database Manager,contact0783@example-company-0783.com,+1-555-783-5481,Oracle,Technology Directory,60,Warm,2026-04-18,Uk,example-company-0783.com,Warm
+L00784,C00784,UK,Education,Contact 0784,Database Manager,contact0784@example-company-0784.com,+1-555-784-5488,Oracle,Job Posting,43,Cold,2026-08-03,Uk,example-company-0784.com,Cold
+L00785,C00785,Canada,Telecom,Contact 0785,Procurement Manager,contact0785@example-company-0785.com,+1-555-785-5495,Oracle,Industry Directory,56,Cold,2026-04-10,Canada,example-company-0785.com,Cold
+L00786,C00786,Australia,Insurance,Contact 0786,CIO,contact0786@example-company-0786.com,+1-555-786-5502,SQL Server,Company Website,53,Cold,2026-01-25,Australia,example-company-0786.com,Cold
+L00787,C00787,USA,Insurance,Contact 0787,CIO,contact0787@example-company-0787.com,+1-555-787-5509,SQL Server,Public Case Study,53,Cold,2026-06-13,Usa,example-company-0787.com,Cold
+L00788,C00788,Singapore,Banking,Contact 0788,IT Director,contact0788@example-company-0788.com,+1-555-788-5516,MySQL,Job Posting,85,Hot,2026-02-05,Singapore,example-company-0788.com,Hot
+L00789,C00789,Australia,Healthcare,Contact 0789,CTO,contact0789@example-company-0789.com,+1-555-789-5523,Oracle,Job Posting,97,Priority,2026-08-02,Australia,example-company-0789.com,Priority
+L00790,C00790,USA,Logistics,Contact 0790,Database Manager,contact0790@example-company-0790.com,+1-555-790-5530,MySQL,Company Website,87,Hot,2026-04-01,Usa,example-company-0790.com,Hot
+L00791,C00791,USA,Manufacturing,Contact 0791,IT Director,contact0791@example-company-0791.com,+1-555-791-5537,MySQL,Company Website,93,Hot,2026-07-04,Usa,example-company-0791.com,Hot
+L00792,C00792,Canada,Education,Contact 0792,IT Manager,contact0792@example-company-0792.com,+1-555-792-5544,PostgreSQL,Company Website,89,Hot,2026-06-04,Canada,example-company-0792.com,Hot
+L00793,C00793,India,Retail,Contact 0793,CTO,contact0793@example-company-0793.com,+1-555-793-5551,SQL Server,Industry Directory,62,Warm,2026-04-20,India,example-company-0793.com,Warm
+L00794,C00794,Netherlands,Retail,Contact 0794,IT Manager,contact0794@example-company-0794.com,+1-555-794-5558,SQL Server,Industry Directory,58,Cold,2026-05-18,Netherlands,example-company-0794.com,Cold
+L00795,C00795,Canada,Healthcare,Contact 0795,CTO,contact0795@example-company-0795.com,+1-555-795-5565,SQL Server,Technology Directory,74,Warm,2026-02-12,Canada,example-company-0795.com,Warm
+L00796,C00796,UAE,Insurance,Contact 0796,IT Director,contact0796@example-company-0796.com,+1-555-796-5572,MongoDB,Company Website,59,Cold,2026-01-18,Uae,example-company-0796.com,Cold
+L00797,C00797,Saudi Arabia,Education,Contact 0797,IT Director,contact0797@example-company-0797.com,+1-555-797-5579,PostgreSQL,Industry Directory,71,Warm,2026-06-30,Saudi Arabia,example-company-0797.com,Warm
+L00798,C00798,Canada,Insurance,Contact 0798,Database Manager,contact0798@example-company-0798.com,+1-555-798-5586,SQL Server,Public Case Study,100,Priority,2026-08-14,Canada,example-company-0798.com,Priority
+L00799,C00799,Germany,Healthcare,Contact 0799,Database Manager,contact0799@example-company-0799.com,+1-555-799-5593,MySQL,Technology Directory,47,Cold,2026-07-22,Germany,example-company-0799.com,Cold
+L00800,C00800,Canada,Manufacturing,Contact 0800,IT Manager,contact0800@example-company-0800.com,+1-555-800-5600,Oracle,Industry Directory,89,Hot,2026-03-13,Canada,example-company-0800.com,Hot
+L00801,C00801,USA,Banking,Contact 0801,Procurement Manager,contact0801@example-company-0801.com,+1-555-801-5607,MongoDB,Technology Directory,97,Priority,2026-03-26,Usa,example-company-0801.com,Priority
+L00802,C00802,Germany,Healthcare,Contact 0802,IT Director,contact0802@example-company-0802.com,+1-555-802-5614,MySQL,Job Posting,67,Warm,2026-03-26,Germany,example-company-0802.com,Warm
+L00803,C00803,Australia,Healthcare,Contact 0803,CIO,contact0803@example-company-0803.com,+1-555-803-5621,Oracle,Public Case Study,64,Warm,2026-06-15,Australia,example-company-0803.com,Warm
+L00804,C00804,Saudi Arabia,Retail,Contact 0804,CIO,contact0804@example-company-0804.com,+1-555-804-5628,MongoDB,Technology Directory,50,Cold,2026-05-27,Saudi Arabia,example-company-0804.com,Cold
+L00805,C00805,India,Insurance,Contact 0805,IT Director,contact0805@example-company-0805.com,+1-555-805-5635,PostgreSQL,Public Case Study,50,Cold,2026-07-07,India,example-company-0805.com,Cold
+L00806,C00806,India,Banking,Contact 0806,IT Director,contact0806@example-company-0806.com,+1-555-806-5642,Oracle,Public Case Study,67,Warm,2026-08-11,India,example-company-0806.com,Warm
+L00807,C00807,Australia,Banking,Contact 0807,IT Director,contact0807@example-company-0807.com,+1-555-807-5649,Oracle,Industry Directory,93,Hot,2026-04-03,Australia,example-company-0807.com,Hot
+L00808,C00808,UK,Healthcare,Contact 0808,Database Manager,contact0808@example-company-0808.com,+1-555-808-5656,Oracle,Job Posting,74,Warm,2026-06-05,Uk,example-company-0808.com,Warm
+L00809,C00809,Germany,Banking,Contact 0809,IT Director,contact0809@example-company-0809.com,+1-555-809-5663,SQL Server,Company Website,53,Cold,2026-04-28,Germany,example-company-0809.com,Cold
+L00810,C00810,Saudi Arabia,Education,Contact 0810,CIO,contact0810@example-company-0810.com,+1-555-810-5670,Oracle,Technology Directory,76,Qualified,2026-08-13,Saudi Arabia,example-company-0810.com,Qualified
+L00811,C00811,USA,Insurance,Contact 0811,IT Director,contact0811@example-company-0811.com,+1-555-811-5677,MongoDB,Public Case Study,89,Hot,2026-03-25,Usa,example-company-0811.com,Hot
+L00812,C00812,Netherlands,Telecom,Contact 0812,IT Manager,contact0812@example-company-0812.com,+1-555-812-5684,MongoDB,Industry Directory,40,Cold,2026-02-14,Netherlands,example-company-0812.com,Cold
+L00813,C00813,Singapore,Telecom,Contact 0813,Database Manager,contact0813@example-company-0813.com,+1-555-813-5691,SQL Server,Job Posting,41,Cold,2026-03-31,Singapore,example-company-0813.com,Cold
+L00814,C00814,UAE,Healthcare,Contact 0814,Procurement Manager,contact0814@example-company-0814.com,+1-555-814-5698,SQL Server,Public Case Study,93,Hot,2026-05-26,Uae,example-company-0814.com,Hot
+L00815,C00815,India,Education,Contact 0815,IT Director,contact0815@example-company-0815.com,+1-555-815-5705,Oracle,Industry Directory,88,Hot,2026-08-13,India,example-company-0815.com,Hot
+L00816,C00816,Netherlands,Banking,Contact 0816,CIO,contact0816@example-company-0816.com,+1-555-816-5712,Oracle,Industry Directory,83,Qualified,2026-07-14,Netherlands,example-company-0816.com,Qualified
+L00817,C00817,USA,Insurance,Contact 0817,CTO,contact0817@example-company-0817.com,+1-555-817-5719,PostgreSQL,Industry Directory,95,Priority,2026-01-05,Usa,example-company-0817.com,Priority
+L00818,C00818,UK,Retail,Contact 0818,Database Manager,contact0818@example-company-0818.com,+1-555-818-5726,Oracle,Industry Directory,78,Qualified,2026-04-30,Uk,example-company-0818.com,Qualified
+L00819,C00819,Singapore,Insurance,Contact 0819,IT Director,contact0819@example-company-0819.com,+1-555-819-5733,Oracle,Public Case Study,79,Qualified,2026-02-07,Singapore,example-company-0819.com,Qualified
+L00820,C00820,Saudi Arabia,Retail,Contact 0820,CIO,contact0820@example-company-0820.com,+1-555-820-5740,MySQL,Job Posting,47,Cold,2026-03-27,Saudi Arabia,example-company-0820.com,Cold
+L00821,C00821,USA,Retail,Contact 0821,CTO,contact0821@example-company-0821.com,+1-555-821-5747,Oracle,Technology Directory,92,Hot,2026-08-10,Usa,example-company-0821.com,Hot
+L00822,C00822,Singapore,Logistics,Contact 0822,IT Director,contact0822@example-company-0822.com,+1-555-822-5754,MySQL,Public Case Study,81,Qualified,2026-08-20,Singapore,example-company-0822.com,Qualified
+L00823,C00823,UK,Retail,Contact 0823,CTO,contact0823@example-company-0823.com,+1-555-823-5761,PostgreSQL,Job Posting,53,Cold,2026-02-06,Uk,example-company-0823.com,Cold
+L00824,C00824,Singapore,Education,Contact 0824,IT Manager,contact0824@example-company-0824.com,+1-555-824-5768,SAP HANA,Public Case Study,79,Qualified,2026-02-03,Singapore,example-company-0824.com,Qualified
+L00825,C00825,Singapore,Logistics,Contact 0825,Database Manager,contact0825@example-company-0825.com,+1-555-825-5775,SQL Server,Technology Directory,79,Qualified,2026-06-13,Singapore,example-company-0825.com,Qualified
+L00826,C00826,USA,Education,Contact 0826,CTO,contact0826@example-company-0826.com,+1-555-826-5782,SAP HANA,Public Case Study,40,Cold,2026-04-07,Usa,example-company-0826.com,Cold
+L00827,C00827,Singapore,Banking,Contact 0827,CTO,contact0827@example-company-0827.com,+1-555-827-5789,MySQL,Technology Directory,49,Cold,2026-04-12,Singapore,example-company-0827.com,Cold
+L00828,C00828,Netherlands,Education,Contact 0828,Procurement Manager,contact0828@example-company-0828.com,+1-555-828-5796,SAP HANA,Public Case Study,71,Warm,2026-07-25,Netherlands,example-company-0828.com,Warm
+L00829,C00829,Netherlands,Manufacturing,Contact 0829,Database Manager,contact0829@example-company-0829.com,+1-555-829-5803,SQL Server,Company Website,73,Warm,2026-08-05,Netherlands,example-company-0829.com,Warm
+L00830,C00830,USA,Education,Contact 0830,Database Manager,contact0830@example-company-0830.com,+1-555-830-5810,Oracle,Public Case Study,83,Qualified,2026-07-31,Usa,example-company-0830.com,Qualified
+L00831,C00831,UAE,Retail,Contact 0831,Procurement Manager,contact0831@example-company-0831.com,+1-555-831-5817,MongoDB,Industry Directory,57,Cold,2026-07-04,Uae,example-company-0831.com,Cold
+L00832,C00832,UAE,Education,Contact 0832,IT Director,contact0832@example-company-0832.com,+1-555-832-5824,Oracle,Industry Directory,93,Hot,2026-08-19,Uae,example-company-0832.com,Hot
+L00833,C00833,Canada,Manufacturing,Contact 0833,IT Director,contact0833@example-company-0833.com,+1-555-833-5831,Oracle,Industry Directory,70,Warm,2026-06-19,Canada,example-company-0833.com,Warm
+L00834,C00834,UK,Banking,Contact 0834,CTO,contact0834@example-company-0834.com,+1-555-834-5838,Oracle,Job Posting,60,Warm,2026-07-27,Uk,example-company-0834.com,Warm
+L00835,C00835,Netherlands,Healthcare,Contact 0835,CIO,contact0835@example-company-0835.com,+1-555-835-5845,MySQL,Company Website,42,Cold,2026-05-07,Netherlands,example-company-0835.com,Cold
+L00836,C00836,India,Insurance,Contact 0836,CIO,contact0836@example-company-0836.com,+1-555-836-5852,MySQL,Public Case Study,93,Hot,2026-01-12,India,example-company-0836.com,Hot
+L00837,C00837,Netherlands,Education,Contact 0837,IT Director,contact0837@example-company-0837.com,+1-555-837-5859,SQL Server,Company Website,78,Qualified,2026-07-11,Netherlands,example-company-0837.com,Qualified
+L00838,C00838,UK,Retail,Contact 0838,Procurement Manager,contact0838@example-company-0838.com,+1-555-838-5866,SAP HANA,Job Posting,63,Warm,2026-08-07,Uk,example-company-0838.com,Warm
+L00839,C00839,USA,Insurance,Contact 0839,Database Manager,contact0839@example-company-0839.com,+1-555-839-5873,Oracle,Public Case Study,60,Warm,2026-03-15,Usa,example-company-0839.com,Warm
+L00840,C00840,Saudi Arabia,Manufacturing,Contact 0840,IT Manager,contact0840@example-company-0840.com,+1-555-840-5880,SQL Server,Technology Directory,40,Cold,2026-04-11,Saudi Arabia,example-company-0840.com,Cold
+L00841,C00841,UAE,Healthcare,Contact 0841,IT Director,contact0841@example-company-0841.com,+1-555-841-5887,MySQL,Public Case Study,44,Cold,2026-05-15,Uae,example-company-0841.com,Cold
+L00842,C00842,Singapore,Banking,Contact 0842,CTO,contact0842@example-company-0842.com,+1-555-842-5894,SAP HANA,Public Case Study,46,Cold,2026-06-03,Singapore,example-company-0842.com,Cold
+L00843,C00843,Saudi Arabia,Logistics,Contact 0843,Database Manager,contact0843@example-company-0843.com,+1-555-843-5901,Oracle,Company Website,75,Qualified,2026-06-08,Saudi Arabia,example-company-0843.com,Qualified
+L00844,C00844,USA,Logistics,Contact 0844,Database Manager,contact0844@example-company-0844.com,+1-555-844-5908,Oracle,Public Case Study,55,Cold,2026-04-03,Usa,example-company-0844.com,Cold
+L00845,C00845,USA,Telecom,Contact 0845,IT Manager,contact0845@example-company-0845.com,+1-555-845-5915,SQL Server,Technology Directory,47,Cold,2026-07-20,Usa,example-company-0845.com,Cold
+L00846,C00846,USA,Manufacturing,Contact 0846,IT Manager,contact0846@example-company-0846.com,+1-555-846-5922,PostgreSQL,Technology Directory,52,Cold,2026-07-11,Usa,example-company-0846.com,Cold
+L00847,C00847,UK,Healthcare,Contact 0847,CTO,contact0847@example-company-0847.com,+1-555-847-5929,PostgreSQL,Technology Directory,77,Qualified,2026-08-10,Uk,example-company-0847.com,Qualified
+L00848,C00848,USA,Manufacturing,Contact 0848,IT Manager,contact0848@example-company-0848.com,+1-555-848-5936,SQL Server,Technology Directory,65,Warm,2026-05-16,Usa,example-company-0848.com,Warm
+L00849,C00849,Netherlands,Manufacturing,Contact 0849,CIO,contact0849@example-company-0849.com,+1-555-849-5943,PostgreSQL,Technology Directory,44,Cold,2026-01-19,Netherlands,example-company-0849.com,Cold
+L00850,C00850,Singapore,Insurance,Contact 0850,IT Director,contact0850@example-company-0850.com,+1-555-850-5950,MySQL,Job Posting,85,Hot,2026-07-18,Singapore,example-company-0850.com,Hot
+L00851,C00851,Saudi Arabia,Banking,Contact 0851,Procurement Manager,contact0851@example-company-0851.com,+1-555-851-5957,Oracle,Job Posting,77,Qualified,2026-01-19,Saudi Arabia,example-company-0851.com,Qualified
+L00852,C00852,Netherlands,Retail,Contact 0852,IT Director,contact0852@example-company-0852.com,+1-555-852-5964,Oracle,Company Website,54,Cold,2026-02-15,Netherlands,example-company-0852.com,Cold
+L00853,C00853,Saudi Arabia,Healthcare,Contact 0853,CIO,contact0853@example-company-0853.com,+1-555-853-5971,Oracle,Job Posting,85,Hot,2026-03-09,Saudi Arabia,example-company-0853.com,Hot
+L00854,C00854,UAE,Insurance,Contact 0854,IT Director,contact0854@example-company-0854.com,+1-555-854-5978,MySQL,Job Posting,100,Priority,2026-02-13,Uae,example-company-0854.com,Priority
+L00855,C00855,UAE,Banking,Contact 0855,CIO,contact0855@example-company-0855.com,+1-555-855-5985,SQL Server,Technology Directory,72,Warm,2026-06-20,Uae,example-company-0855.com,Warm
+L00856,C00856,Netherlands,Logistics,Contact 0856,CTO,contact0856@example-company-0856.com,+1-555-856-5992,MySQL,Industry Directory,44,Cold,2026-04-14,Netherlands,example-company-0856.com,Cold
+L00857,C00857,UAE,Retail,Contact 0857,IT Director,contact0857@example-company-0857.com,+1-555-857-5999,SQL Server,Company Website,53,Cold,2026-02-21,Uae,example-company-0857.com,Cold
+L00858,C00858,USA,Manufacturing,Contact 0858,CTO,contact0858@example-company-0858.com,+1-555-858-6006,SQL Server,Job Posting,71,Warm,2026-01-02,Usa,example-company-0858.com,Warm
+L00859,C00859,Singapore,Manufacturing,Contact 0859,Procurement Manager,contact0859@example-company-0859.com,+1-555-859-6013,PostgreSQL,Company Website,95,Priority,2026-02-20,Singapore,example-company-0859.com,Priority
+L00860,C00860,Netherlands,Telecom,Contact 0860,IT Director,contact0860@example-company-0860.com,+1-555-860-6020,PostgreSQL,Industry Directory,96,Priority,2026-06-12,Netherlands,example-company-0860.com,Priority
+L00861,C00861,Saudi Arabia,Telecom,Contact 0861,Procurement Manager,contact0861@example-company-0861.com,+1-555-861-6027,MySQL,Public Case Study,96,Priority,2026-07-06,Saudi Arabia,example-company-0861.com,Priority
+L00862,C00862,Saudi Arabia,Retail,Contact 0862,CTO,contact0862@example-company-0862.com,+1-555-862-6034,MySQL,Job Posting,85,Hot,2026-03-11,Saudi Arabia,example-company-0862.com,Hot
+L00863,C00863,UK,Logistics,Contact 0863,Database Manager,contact0863@example-company-0863.com,+1-555-863-6041,SQL Server,Technology Directory,70,Warm,2026-01-18,Uk,example-company-0863.com,Warm
+L00864,C00864,India,Retail,Contact 0864,CTO,contact0864@example-company-0864.com,+1-555-864-6048,SQL Server,Public Case Study,74,Warm,2026-05-11,India,example-company-0864.com,Warm
+L00865,C00865,Netherlands,Logistics,Contact 0865,CIO,contact0865@example-company-0865.com,+1-555-865-6055,MySQL,Industry Directory,79,Qualified,2026-07-03,Netherlands,example-company-0865.com,Qualified
+L00866,C00866,Singapore,Healthcare,Contact 0866,IT Director,contact0866@example-company-0866.com,+1-555-866-6062,MySQL,Technology Directory,78,Qualified,2026-01-17,Singapore,example-company-0866.com,Qualified
+L00867,C00867,Netherlands,Banking,Contact 0867,Database Manager,contact0867@example-company-0867.com,+1-555-867-6069,PostgreSQL,Job Posting,78,Qualified,2026-07-06,Netherlands,example-company-0867.com,Qualified
+L00868,C00868,Netherlands,Logistics,Contact 0868,Procurement Manager,contact0868@example-company-0868.com,+1-555-868-6076,SQL Server,Public Case Study,43,Cold,2026-02-10,Netherlands,example-company-0868.com,Cold
+L00869,C00869,Canada,Banking,Contact 0869,Database Manager,contact0869@example-company-0869.com,+1-555-869-6083,Oracle,Public Case Study,100,Priority,2026-03-02,Canada,example-company-0869.com,Priority
+L00870,C00870,USA,Logistics,Contact 0870,Database Manager,contact0870@example-company-0870.com,+1-555-870-6090,MySQL,Public Case Study,35,New,2026-05-27,Usa,example-company-0870.com,Low
+L00871,C00871,Canada,Banking,Contact 0871,Database Manager,contact0871@example-company-0871.com,+1-555-871-6097,SAP HANA,Company Website,65,Warm,2026-01-13,Canada,example-company-0871.com,Warm
+L00872,C00872,UAE,Insurance,Contact 0872,CTO,contact0872@example-company-0872.com,+1-555-872-6104,Oracle,Public Case Study,74,Warm,2026-03-13,Uae,example-company-0872.com,Warm
+L00873,C00873,UK,Manufacturing,Contact 0873,IT Director,contact0873@example-company-0873.com,+1-555-873-6111,SAP HANA,Company Website,95,Priority,2026-02-02,Uk,example-company-0873.com,Priority
+L00874,C00874,UK,Education,Contact 0874,Database Manager,contact0874@example-company-0874.com,+1-555-874-6118,Oracle,Industry Directory,48,Cold,2026-02-20,Uk,example-company-0874.com,Cold
+L00875,C00875,Singapore,Healthcare,Contact 0875,Procurement Manager,contact0875@example-company-0875.com,+1-555-875-6125,SQL Server,Industry Directory,64,Warm,2026-07-01,Singapore,example-company-0875.com,Warm
+L00876,C00876,Australia,Banking,Contact 0876,CIO,contact0876@example-company-0876.com,+1-555-876-6132,MySQL,Technology Directory,61,Warm,2026-02-23,Australia,example-company-0876.com,Warm
+L00877,C00877,Australia,Insurance,Contact 0877,Procurement Manager,contact0877@example-company-0877.com,+1-555-877-6139,Oracle,Public Case Study,53,Cold,2026-01-11,Australia,example-company-0877.com,Cold
+L00878,C00878,India,Education,Contact 0878,Procurement Manager,contact0878@example-company-0878.com,+1-555-878-6146,SAP HANA,Company Website,48,Cold,2026-02-20,India,example-company-0878.com,Cold
+L00879,C00879,Australia,Telecom,Contact 0879,CIO,contact0879@example-company-0879.com,+1-555-879-6153,MySQL,Industry Directory,65,Warm,2026-01-21,Australia,example-company-0879.com,Warm
+L00880,C00880,Singapore,Banking,Contact 0880,Database Manager,contact0880@example-company-0880.com,+1-555-880-6160,MongoDB,Job Posting,95,Priority,2026-05-27,Singapore,example-company-0880.com,Priority
+L00881,C00881,USA,Healthcare,Contact 0881,IT Manager,contact0881@example-company-0881.com,+1-555-881-6167,Oracle,Job Posting,66,Warm,2026-08-17,Usa,example-company-0881.com,Warm
+L00882,C00882,Netherlands,Retail,Contact 0882,CTO,contact0882@example-company-0882.com,+1-555-882-6174,SAP HANA,Public Case Study,88,Hot,2026-02-09,Netherlands,example-company-0882.com,Hot
+L00883,C00883,Canada,Insurance,Contact 0883,IT Manager,contact0883@example-company-0883.com,+1-555-883-6181,MongoDB,Industry Directory,84,Qualified,2026-06-21,Canada,example-company-0883.com,Qualified
+L00884,C00884,UK,Logistics,Contact 0884,Procurement Manager,contact0884@example-company-0884.com,+1-555-884-6188,SQL Server,Technology Directory,84,Qualified,2026-03-27,Uk,example-company-0884.com,Qualified
+L00885,C00885,Netherlands,Manufacturing,Contact 0885,Database Manager,contact0885@example-company-0885.com,+1-555-885-6195,Oracle,Technology Directory,95,Priority,2026-01-17,Netherlands,example-company-0885.com,Priority
+L00886,C00886,India,Insurance,Contact 0886,Procurement Manager,contact0886@example-company-0886.com,+1-555-886-6202,PostgreSQL,Technology Directory,83,Qualified,2026-06-11,India,example-company-0886.com,Qualified
+L00887,C00887,USA,Telecom,Contact 0887,IT Manager,contact0887@example-company-0887.com,+1-555-887-6209,SQL Server,Job Posting,84,Qualified,2026-02-19,Usa,example-company-0887.com,Qualified
+L00888,C00888,UK,Healthcare,Contact 0888,IT Manager,contact0888@example-company-0888.com,+1-555-888-6216,MongoDB,Technology Directory,44,Cold,2026-05-01,Uk,example-company-0888.com,Cold
+L00889,C00889,USA,Banking,Contact 0889,Procurement Manager,contact0889@example-company-0889.com,+1-555-889-6223,MySQL,Industry Directory,83,Qualified,2026-04-30,Usa,example-company-0889.com,Qualified
+L00890,C00890,UAE,Healthcare,Contact 0890,CIO,contact0890@example-company-0890.com,+1-555-890-6230,Oracle,Job Posting,45,Cold,2026-05-21,Uae,example-company-0890.com,Cold
+L00891,C00891,USA,Insurance,Contact 0891,IT Director,contact0891@example-company-0891.com,+1-555-891-6237,Oracle,Public Case Study,92,Hot,2026-02-01,Usa,example-company-0891.com,Hot
+L00892,C00892,India,Insurance,Contact 0892,IT Director,contact0892@example-company-0892.com,+1-555-892-6244,PostgreSQL,Public Case Study,79,Qualified,2026-02-28,India,example-company-0892.com,Qualified
+L00893,C00893,Australia,Education,Contact 0893,CIO,contact0893@example-company-0893.com,+1-555-893-6251,MongoDB,Industry Directory,81,Qualified,2026-06-23,Australia,example-company-0893.com,Qualified
+L00894,C00894,Saudi Arabia,Telecom,Contact 0894,IT Manager,contact0894@example-company-0894.com,+1-555-894-6258,Oracle,Public Case Study,87,Hot,2026-08-08,Saudi Arabia,example-company-0894.com,Hot
+L00895,C00895,India,Insurance,Contact 0895,Database Manager,contact0895@example-company-0895.com,+1-555-895-6265,PostgreSQL,Industry Directory,62,Warm,2026-01-03,India,example-company-0895.com,Warm
+L00896,C00896,Singapore,Logistics,Contact 0896,CTO,contact0896@example-company-0896.com,+1-555-896-6272,MongoDB,Public Case Study,57,Cold,2026-04-08,Singapore,example-company-0896.com,Cold
+L00897,C00897,Australia,Manufacturing,Contact 0897,IT Director,contact0897@example-company-0897.com,+1-555-897-6279,Oracle,Industry Directory,79,Qualified,2026-07-27,Australia,example-company-0897.com,Qualified
+L00898,C00898,USA,Logistics,Contact 0898,IT Manager,contact0898@example-company-0898.com,+1-555-898-6286,Oracle,Public Case Study,71,Warm,2026-03-09,Usa,example-company-0898.com,Warm
+L00899,C00899,USA,Telecom,Contact 0899,CTO,contact0899@example-company-0899.com,+1-555-899-6293,PostgreSQL,Industry Directory,60,Warm,2026-04-16,Usa,example-company-0899.com,Warm
+L00900,C00900,Singapore,Retail,Contact 0900,IT Manager,contact0900@example-company-0900.com,+1-555-900-6300,SQL Server,Industry Directory,64,Warm,2026-08-01,Singapore,example-company-0900.com,Warm
+L00901,C00901,USA,Manufacturing,Contact 0901,IT Director,contact0901@example-company-0901.com,+1-555-901-6307,Oracle,Industry Directory,75,Qualified,2026-08-16,Usa,example-company-0901.com,Qualified
+L00902,C00902,USA,Manufacturing,Contact 0902,CIO,contact0902@example-company-0902.com,+1-555-902-6314,SAP HANA,Technology Directory,49,Cold,2026-06-03,Usa,example-company-0902.com,Cold
+L00903,C00903,UAE,Telecom,Contact 0903,IT Director,contact0903@example-company-0903.com,+1-555-903-6321,SQL Server,Public Case Study,78,Qualified,2026-06-13,Uae,example-company-0903.com,Qualified
+L00904,C00904,Netherlands,Insurance,Contact 0904,CIO,contact0904@example-company-0904.com,+1-555-904-6328,SAP HANA,Industry Directory,59,Cold,2026-05-25,Netherlands,example-company-0904.com,Cold
+L00905,C00905,Canada,Retail,Contact 0905,Procurement Manager,contact0905@example-company-0905.com,+1-555-905-6335,SAP HANA,Job Posting,51,Cold,2026-03-08,Canada,example-company-0905.com,Cold
+L00906,C00906,India,Insurance,Contact 0906,CTO,contact0906@example-company-0906.com,+1-555-906-6342,SAP HANA,Company Website,65,Warm,2026-07-28,India,example-company-0906.com,Warm
+L00907,C00907,Canada,Retail,Contact 0907,CTO,contact0907@example-company-0907.com,+1-555-907-6349,SQL Server,Industry Directory,41,Cold,2026-01-09,Canada,example-company-0907.com,Cold
+L00908,C00908,UK,Insurance,Contact 0908,CIO,contact0908@example-company-0908.com,+1-555-908-6356,Oracle,Public Case Study,84,Qualified,2026-01-14,Uk,example-company-0908.com,Qualified
+L00909,C00909,Germany,Banking,Contact 0909,CIO,contact0909@example-company-0909.com,+1-555-909-6363,SQL Server,Technology Directory,84,Qualified,2026-05-22,Germany,example-company-0909.com,Qualified
+L00910,C00910,USA,Education,Contact 0910,IT Manager,contact0910@example-company-0910.com,+1-555-910-6370,Oracle,Public Case Study,100,Priority,2026-07-16,Usa,example-company-0910.com,Priority
+L00911,C00911,India,Banking,Contact 0911,Procurement Manager,contact0911@example-company-0911.com,+1-555-911-6377,SQL Server,Company Website,57,Cold,2026-07-11,India,example-company-0911.com,Cold
+L00912,C00912,UK,Education,Contact 0912,IT Manager,contact0912@example-company-0912.com,+1-555-912-6384,Oracle,Technology Directory,75,Qualified,2026-06-09,Uk,example-company-0912.com,Qualified
+L00913,C00913,Germany,Banking,Contact 0913,IT Manager,contact0913@example-company-0913.com,+1-555-913-6391,SQL Server,Job Posting,70,Warm,2026-03-30,Germany,example-company-0913.com,Warm
+L00914,C00914,Saudi Arabia,Logistics,Contact 0914,CTO,contact0914@example-company-0914.com,+1-555-914-6398,Oracle,Job Posting,87,Hot,2026-03-26,Saudi Arabia,example-company-0914.com,Hot
+L00915,C00915,Australia,Retail,Contact 0915,IT Director,contact0915@example-company-0915.com,+1-555-915-6405,Oracle,Industry Directory,81,Qualified,2026-04-11,Australia,example-company-0915.com,Qualified
+L00916,C00916,Canada,Manufacturing,Contact 0916,IT Manager,contact0916@example-company-0916.com,+1-555-916-6412,Oracle,Technology Directory,92,Hot,2026-03-02,Canada,example-company-0916.com,Hot
+L00917,C00917,Australia,Retail,Contact 0917,IT Manager,contact0917@example-company-0917.com,+1-555-917-6419,SQL Server,Company Website,86,Hot,2026-04-09,Australia,example-company-0917.com,Hot
+L00918,C00918,India,Healthcare,Contact 0918,Database Manager,contact0918@example-company-0918.com,+1-555-918-6426,PostgreSQL,Job Posting,41,Cold,2026-01-25,India,example-company-0918.com,Cold
+L00919,C00919,UAE,Healthcare,Contact 0919,IT Director,contact0919@example-company-0919.com,+1-555-919-6433,Oracle,Job Posting,64,Warm,2026-03-17,Uae,example-company-0919.com,Warm
+L00920,C00920,Singapore,Manufacturing,Contact 0920,IT Manager,contact0920@example-company-0920.com,+1-555-920-6440,SAP HANA,Industry Directory,74,Warm,2026-08-10,Singapore,example-company-0920.com,Warm
+L00921,C00921,Netherlands,Healthcare,Contact 0921,Procurement Manager,contact0921@example-company-0921.com,+1-555-921-6447,SAP HANA,Job Posting,68,Warm,2026-06-16,Netherlands,example-company-0921.com,Warm
+L00922,C00922,Australia,Manufacturing,Contact 0922,CIO,contact0922@example-company-0922.com,+1-555-922-6454,MySQL,Job Posting,64,Warm,2026-02-03,Australia,example-company-0922.com,Warm
+L00923,C00923,Canada,Logistics,Contact 0923,IT Director,contact0923@example-company-0923.com,+1-555-923-6461,SQL Server,Job Posting,45,Cold,2026-03-09,Canada,example-company-0923.com,Cold
+L00924,C00924,UK,Healthcare,Contact 0924,IT Manager,contact0924@example-company-0924.com,+1-555-924-6468,MySQL,Company Website,69,Warm,2026-03-02,Uk,example-company-0924.com,Warm
+L00925,C00925,UAE,Retail,Contact 0925,CIO,contact0925@example-company-0925.com,+1-555-925-6475,Oracle,Public Case Study,88,Hot,2026-03-08,Uae,example-company-0925.com,Hot
+L00926,C00926,Saudi Arabia,Insurance,Contact 0926,IT Manager,contact0926@example-company-0926.com,+1-555-926-6482,SQL Server,Technology Directory,42,Cold,2026-06-12,Saudi Arabia,example-company-0926.com,Cold
+L00927,C00927,Australia,Retail,Contact 0927,IT Manager,contact0927@example-company-0927.com,+1-555-927-6489,Oracle,Technology Directory,79,Qualified,2026-07-30,Australia,example-company-0927.com,Qualified
+L00928,C00928,Germany,Insurance,Contact 0928,CIO,contact0928@example-company-0928.com,+1-555-928-6496,SAP HANA,Job Posting,95,Priority,2026-06-16,Germany,example-company-0928.com,Priority
+L00929,C00929,Canada,Insurance,Contact 0929,IT Director,contact0929@example-company-0929.com,+1-555-929-6503,MongoDB,Public Case Study,74,Warm,2026-04-25,Canada,example-company-0929.com,Warm
+L00930,C00930,Australia,Education,Contact 0930,Database Manager,contact0930@example-company-0930.com,+1-555-930-6510,SAP HANA,Company Website,93,Hot,2026-02-07,Australia,example-company-0930.com,Hot
+L00931,C00931,Australia,Banking,Contact 0931,CTO,contact0931@example-company-0931.com,+1-555-931-6517,SQL Server,Industry Directory,61,Warm,2026-02-03,Australia,example-company-0931.com,Warm
+L00932,C00932,Singapore,Healthcare,Contact 0932,Procurement Manager,contact0932@example-company-0932.com,+1-555-932-6524,SQL Server,Technology Directory,35,New,2026-07-11,Singapore,example-company-0932.com,Low
+L00933,C00933,UAE,Logistics,Contact 0933,CTO,contact0933@example-company-0933.com,+1-555-933-6531,MongoDB,Job Posting,76,Qualified,2026-06-09,Uae,example-company-0933.com,Qualified
+L00934,C00934,Singapore,Education,Contact 0934,CIO,contact0934@example-company-0934.com,+1-555-934-6538,Oracle,Technology Directory,55,Cold,2026-04-30,Singapore,example-company-0934.com,Cold
+L00935,C00935,Canada,Insurance,Contact 0935,Procurement Manager,contact0935@example-company-0935.com,+1-555-935-6545,Oracle,Industry Directory,48,Cold,2026-05-16,Canada,example-company-0935.com,Cold
+L00936,C00936,Saudi Arabia,Insurance,Contact 0936,IT Manager,contact0936@example-company-0936.com,+1-555-936-6552,SQL Server,Company Website,50,Cold,2026-07-19,Saudi Arabia,example-company-0936.com,Cold
+L00937,C00937,UK,Retail,Contact 0937,Database Manager,contact0937@example-company-0937.com,+1-555-937-6559,MySQL,Technology Directory,91,Hot,2026-07-11,Uk,example-company-0937.com,Hot
+L00938,C00938,UK,Manufacturing,Contact 0938,Procurement Manager,contact0938@example-company-0938.com,+1-555-938-6566,MySQL,Technology Directory,82,Qualified,2026-01-21,Uk,example-company-0938.com,Qualified
+L00939,C00939,Canada,Education,Contact 0939,IT Manager,contact0939@example-company-0939.com,+1-555-939-6573,Oracle,Industry Directory,59,Cold,2026-04-03,Canada,example-company-0939.com,Cold
+L00940,C00940,Australia,Insurance,Contact 0940,Procurement Manager,contact0940@example-company-0940.com,+1-555-940-6580,SQL Server,Technology Directory,76,Qualified,2026-01-11,Australia,example-company-0940.com,Qualified
+L00941,C00941,Singapore,Insurance,Contact 0941,IT Manager,contact0941@example-company-0941.com,+1-555-941-6587,Oracle,Public Case Study,68,Warm,2026-04-01,Singapore,example-company-0941.com,Warm
+L00942,C00942,Canada,Retail,Contact 0942,CTO,contact0942@example-company-0942.com,+1-555-942-6594,Oracle,Public Case Study,53,Cold,2026-05-30,Canada,example-company-0942.com,Cold
+L00943,C00943,Saudi Arabia,Logistics,Contact 0943,IT Director,contact0943@example-company-0943.com,+1-555-943-6601,Oracle,Industry Directory,100,Priority,2026-02-18,Saudi Arabia,example-company-0943.com,Priority
+L00944,C00944,Canada,Banking,Contact 0944,Database Manager,contact0944@example-company-0944.com,+1-555-944-6608,MySQL,Job Posting,89,Hot,2026-02-05,Canada,example-company-0944.com,Hot
+L00945,C00945,UK,Healthcare,Contact 0945,IT Manager,contact0945@example-company-0945.com,+1-555-945-6615,SAP HANA,Public Case Study,57,Cold,2026-04-26,Uk,example-company-0945.com,Cold
+L00946,C00946,UK,Banking,Contact 0946,Procurement Manager,contact0946@example-company-0946.com,+1-555-946-6622,MySQL,Job Posting,61,Warm,2026-05-04,Uk,example-company-0946.com,Warm
+L00947,C00947,Saudi Arabia,Insurance,Contact 0947,IT Manager,contact0947@example-company-0947.com,+1-555-947-6629,PostgreSQL,Industry Directory,89,Hot,2026-06-17,Saudi Arabia,example-company-0947.com,Hot
+L00948,C00948,UK,Education,Contact 0948,Database Manager,contact0948@example-company-0948.com,+1-555-948-6636,PostgreSQL,Industry Directory,63,Warm,2026-01-04,Uk,example-company-0948.com,Warm
+L00949,C00949,Saudi Arabia,Banking,Contact 0949,Database Manager,contact0949@example-company-0949.com,+1-555-949-6643,MySQL,Job Posting,62,Warm,2026-02-28,Saudi Arabia,example-company-0949.com,Warm
+L00950,C00950,UAE,Retail,Contact 0950,IT Director,contact0950@example-company-0950.com,+1-555-950-6650,SAP HANA,Technology Directory,58,Cold,2026-07-03,Uae,example-company-0950.com,Cold
+L00951,C00951,USA,Education,Contact 0951,IT Director,contact0951@example-company-0951.com,+1-555-951-6657,PostgreSQL,Industry Directory,62,Warm,2026-06-10,Usa,example-company-0951.com,Warm
+L00952,C00952,Germany,Manufacturing,Contact 0952,IT Director,contact0952@example-company-0952.com,+1-555-952-6664,SQL Server,Company Website,66,Warm,2026-07-31,Germany,example-company-0952.com,Warm
+L00953,C00953,Singapore,Banking,Contact 0953,Procurement Manager,contact0953@example-company-0953.com,+1-555-953-6671,Oracle,Public Case Study,50,Cold,2026-07-11,Singapore,example-company-0953.com,Cold
+L00954,C00954,Canada,Healthcare,Contact 0954,IT Manager,contact0954@example-company-0954.com,+1-555-954-6678,Oracle,Industry Directory,72,Warm,2026-07-17,Canada,example-company-0954.com,Warm
+L00955,C00955,India,Education,Contact 0955,CIO,contact0955@example-company-0955.com,+1-555-955-6685,MongoDB,Industry Directory,61,Warm,2026-05-01,India,example-company-0955.com,Warm
+L00956,C00956,Singapore,Healthcare,Contact 0956,CTO,contact0956@example-company-0956.com,+1-555-956-6692,PostgreSQL,Company Website,51,Cold,2026-08-14,Singapore,example-company-0956.com,Cold
+L00957,C00957,Canada,Manufacturing,Contact 0957,CTO,contact0957@example-company-0957.com,+1-555-957-6699,MongoDB,Public Case Study,56,Cold,2026-04-08,Canada,example-company-0957.com,Cold
+L00958,C00958,Singapore,Manufacturing,Contact 0958,CIO,contact0958@example-company-0958.com,+1-555-958-6706,SAP HANA,Public Case Study,60,Warm,2026-08-01,Singapore,example-company-0958.com,Warm
+L00959,C00959,Saudi Arabia,Telecom,Contact 0959,CTO,contact0959@example-company-0959.com,+1-555-959-6713,Oracle,Company Website,70,Warm,2026-04-03,Saudi Arabia,example-company-0959.com,Warm
+L00960,C00960,Canada,Insurance,Contact 0960,CTO,contact0960@example-company-0960.com,+1-555-960-6720,PostgreSQL,Public Case Study,95,Priority,2026-04-15,Canada,example-company-0960.com,Priority
+L00961,C00961,UK,Logistics,Contact 0961,IT Manager,contact0961@example-company-0961.com,+1-555-961-6727,MySQL,Public Case Study,67,Warm,2026-06-11,Uk,example-company-0961.com,Warm
+L00962,C00962,Canada,Education,Contact 0962,IT Manager,contact0962@example-company-0962.com,+1-555-962-6734,PostgreSQL,Industry Directory,65,Warm,2026-04-04,Canada,example-company-0962.com,Warm
+L00963,C00963,Netherlands,Insurance,Contact 0963,IT Director,contact0963@example-company-0963.com,+1-555-963-6741,Oracle,Company Website,64,Warm,2026-02-04,Netherlands,example-company-0963.com,Warm
+L00964,C00964,UAE,Logistics,Contact 0964,CTO,contact0964@example-company-0964.com,+1-555-964-6748,Oracle,Industry Directory,98,Priority,2026-07-30,Uae,example-company-0964.com,Priority
+L00965,C00965,Saudi Arabia,Logistics,Contact 0965,Procurement Manager,contact0965@example-company-0965.com,+1-555-965-6755,PostgreSQL,Technology Directory,36,New,2026-04-17,Saudi Arabia,example-company-0965.com,Low
+L00966,C00966,Australia,Telecom,Contact 0966,Procurement Manager,contact0966@example-company-0966.com,+1-555-966-6762,PostgreSQL,Job Posting,73,Warm,2026-08-06,Australia,example-company-0966.com,Warm
+L00967,C00967,Singapore,Retail,Contact 0967,IT Manager,contact0967@example-company-0967.com,+1-555-967-6769,SQL Server,Job Posting,45,Cold,2026-04-04,Singapore,example-company-0967.com,Cold
+L00968,C00968,Germany,Healthcare,Contact 0968,IT Manager,contact0968@example-company-0968.com,+1-555-968-6776,MySQL,Public Case Study,81,Qualified,2026-08-17,Germany,example-company-0968.com,Qualified
+L00969,C00969,Saudi Arabia,Logistics,Contact 0969,IT Director,contact0969@example-company-0969.com,+1-555-969-6783,MySQL,Industry Directory,58,Cold,2026-05-22,Saudi Arabia,example-company-0969.com,Cold
+L00970,C00970,USA,Insurance,Contact 0970,Procurement Manager,contact0970@example-company-0970.com,+1-555-970-6790,MongoDB,Job Posting,57,Cold,2026-06-30,Usa,example-company-0970.com,Cold
+L00971,C00971,UAE,Logistics,Contact 0971,IT Manager,contact0971@example-company-0971.com,+1-555-971-6797,MySQL,Industry Directory,38,New,2026-06-27,Uae,example-company-0971.com,Low
+L00972,C00972,Canada,Education,Contact 0972,Procurement Manager,contact0972@example-company-0972.com,+1-555-972-6804,MySQL,Public Case Study,83,Qualified,2026-02-17,Canada,example-company-0972.com,Qualified
+L00973,C00973,Canada,Telecom,Contact 0973,Procurement Manager,contact0973@example-company-0973.com,+1-555-973-6811,SQL Server,Company Website,64,Warm,2026-07-11,Canada,example-company-0973.com,Warm
+L00974,C00974,Canada,Retail,Contact 0974,CIO,contact0974@example-company-0974.com,+1-555-974-6818,MySQL,Technology Directory,51,Cold,2026-08-11,Canada,example-company-0974.com,Cold
+L00975,C00975,UK,Manufacturing,Contact 0975,IT Director,contact0975@example-company-0975.com,+1-555-975-6825,SQL Server,Industry Directory,86,Hot,2026-06-05,Uk,example-company-0975.com,Hot
+L00976,C00976,UAE,Banking,Contact 0976,Database Manager,contact0976@example-company-0976.com,+1-555-976-6832,MySQL,Company Website,41,Cold,2026-08-11,Uae,example-company-0976.com,Cold
+L00977,C00977,USA,Education,Contact 0977,CTO,contact0977@example-company-0977.com,+1-555-977-6839,SAP HANA,Company Website,63,Warm,2026-07-18,Usa,example-company-0977.com,Warm
+L00978,C00978,Australia,Retail,Contact 0978,IT Director,contact0978@example-company-0978.com,+1-555-978-6846,SAP HANA,Company Website,44,Cold,2026-06-06,Australia,example-company-0978.com,Cold
+L00979,C00979,Germany,Banking,Contact 0979,CIO,contact0979@example-company-0979.com,+1-555-979-6853,MongoDB,Technology Directory,47,Cold,2026-04-23,Germany,example-company-0979.com,Cold
+L00980,C00980,Australia,Logistics,Contact 0980,Procurement Manager,contact0980@example-company-0980.com,+1-555-980-6860,SQL Server,Company Website,36,New,2026-07-21,Australia,example-company-0980.com,Low
+L00981,C00981,Australia,Telecom,Contact 0981,CTO,contact0981@example-company-0981.com,+1-555-981-6867,MySQL,Industry Directory,51,Cold,2026-02-13,Australia,example-company-0981.com,Cold
+L00982,C00982,India,Manufacturing,Contact 0982,CIO,contact0982@example-company-0982.com,+1-555-982-6874,PostgreSQL,Company Website,92,Hot,2026-05-12,India,example-company-0982.com,Hot
+L00983,C00983,Australia,Banking,Contact 0983,Database Manager,contact0983@example-company-0983.com,+1-555-983-6881,SAP HANA,Company Website,67,Warm,2026-07-11,Australia,example-company-0983.com,Warm
+L00984,C00984,Singapore,Logistics,Contact 0984,Database Manager,contact0984@example-company-0984.com,+1-555-984-6888,SQL Server,Job Posting,95,Priority,2026-08-10,Singapore,example-company-0984.com,Priority
+L00985,C00985,Australia,Telecom,Contact 0985,CIO,contact0985@example-company-0985.com,+1-555-985-6895,PostgreSQL,Public Case Study,56,Cold,2026-03-04,Australia,example-company-0985.com,Cold
+L00986,C00986,Singapore,Logistics,Contact 0986,Procurement Manager,contact0986@example-company-0986.com,+1-555-986-6902,PostgreSQL,Industry Directory,81,Qualified,2026-01-23,Singapore,example-company-0986.com,Qualified
+L00987,C00987,Singapore,Logistics,Contact 0987,Database Manager,contact0987@example-company-0987.com,+1-555-987-6909,PostgreSQL,Job Posting,40,Cold,2026-03-20,Singapore,example-company-0987.com,Cold
+L00988,C00988,Germany,Insurance,Contact 0988,IT Director,contact0988@example-company-0988.com,+1-555-988-6916,PostgreSQL,Technology Directory,46,Cold,2026-07-23,Germany,example-company-0988.com,Cold
+L00989,C00989,UAE,Insurance,Contact 0989,CIO,contact0989@example-company-0989.com,+1-555-989-6923,Oracle,Public Case Study,49,Cold,2026-05-04,Uae,example-company-0989.com,Cold
+L00990,C00990,India,Education,Contact 0990,Procurement Manager,contact0990@example-company-0990.com,+1-555-990-6930,SQL Server,Public Case Study,89,Hot,2026-01-14,India,example-company-0990.com,Hot
+L00991,C00991,Germany,Manufacturing,Contact 0991,IT Director,contact0991@example-company-0991.com,+1-555-991-6937,SQL Server,Company Website,75,Qualified,2026-01-29,Germany,example-company-0991.com,Qualified
+L00992,C00992,Australia,Healthcare,Contact 0992,IT Director,contact0992@example-company-0992.com,+1-555-992-6944,Oracle,Industry Directory,88,Hot,2026-03-21,Australia,example-company-0992.com,Hot
+L00993,C00993,UK,Retail,Contact 0993,Database Manager,contact0993@example-company-0993.com,+1-555-993-6951,SAP HANA,Industry Directory,91,Hot,2026-03-22,Uk,example-company-0993.com,Hot
+L00994,C00994,Canada,Telecom,Contact 0994,CTO,contact0994@example-company-0994.com,+1-555-994-6958,SQL Server,Public Case Study,60,Warm,2026-02-01,Canada,example-company-0994.com,Warm
+L00995,C00995,Australia,Logistics,Contact 0995,CIO,contact0995@example-company-0995.com,+1-555-995-6965,Oracle,Technology Directory,87,Hot,2026-04-27,Australia,example-company-0995.com,Hot
+L00996,C00996,Singapore,Banking,Contact 0996,CTO,contact0996@example-company-0996.com,+1-555-996-6972,SAP HANA,Job Posting,70,Warm,2026-04-23,Singapore,example-company-0996.com,Warm
+L00997,C00997,Australia,Manufacturing,Contact 0997,CIO,contact0997@example-company-0997.com,+1-555-997-6979,PostgreSQL,Industry Directory,68,Warm,2026-02-16,Australia,example-company-0997.com,Warm
+L00998,C00998,Germany,Education,Contact 0998,CTO,contact0998@example-company-0998.com,+1-555-998-6986,PostgreSQL,Industry Directory,75,Qualified,2026-02-24,Germany,example-company-0998.com,Qualified
+L00999,C00999,Saudi Arabia,Retail,Contact 0999,CIO,contact0999@example-company-0999.com,+1-555-999-6993,MySQL,Technology Directory,63,Warm,2026-06-06,Saudi Arabia,example-company-0999.com,Warm
+L01000,C01000,Australia,Retail,Contact 1000,Database Manager,contact1000@example-company-1000.com,+1-555-000-7000,SAP HANA,Public Case Study,36,New,2026-08-12,Australia,example-company-1000.com,Low
