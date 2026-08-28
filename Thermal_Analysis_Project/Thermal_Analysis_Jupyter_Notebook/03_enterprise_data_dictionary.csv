@@ -1,0 +1,16 @@
+Area,Coverage
+Instruments,"Manufacturer, type, model, serial, asset, location, status"
+Calibration,"Calibration dates, due dates, standards, certificates, result"
+Maintenance,"Preventive/corrective/service, downtime, vendor, cost"
+Commercial,"Customers, projects"
+Sample genealogy,"Materials, batches, samples"
+Standards,ASTM/ISO standard master and revisions
+Methods,"Technique, atmosphere, thermal/rheology parameters"
+Runs,"Test execution, operator, source file, status"
+Raw DSC,"Temperature, heat flow, normalized heat flow"
+Raw TGA,"Temperature, mass, mass %, derivative mass loss"
+Raw DMA,"Temperature, frequency, modulus, tan delta, stress/strain"
+Raw TMA,"Temperature, displacement, dimension, force"
+Raw Rheology,"Shear rate/stress, viscosity, frequency, G', G'', tan delta"
+QC,Limits and evaluated QC status
+Power BI,"Fact, utilization, QC, calibration views"

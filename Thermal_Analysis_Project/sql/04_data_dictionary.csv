@@ -1,0 +1,37 @@
+Table,Column,Purpose
+instruments,manufacturer,"Instrument vendor, e.g. TA Instruments or Anton Paar"
+instruments,instrument_type,"DSC, TGA, DMA, TMA or RHEOMETER"
+instruments,model,Instrument model identifier
+instruments,serial_number,Unique instrument serial number
+materials,material_code,Internal material identifier
+materials,material_name,Material/product name
+samples,sample_code,Unique laboratory sample identifier
+samples,mass_mg,Prepared sample mass
+methods,technique,Test technique
+methods,standard_name,Referenced test standard
+test_runs,run_datetime,Test execution timestamp
+test_runs,file_name,Original exported data filename
+dsc_results,glass_transition_c,DSC Tg result
+dsc_results,melting_peak_c,DSC melting peak
+dsc_results,melting_enthalpy_j_g,Melting enthalpy
+tga_results,t5_c,Temperature at 5% mass loss
+tga_results,t10_c,Temperature at 10% mass loss
+tga_results,residue_percent,Remaining residue percentage
+dma_results,storage_modulus_mpa,Storage modulus
+dma_results,loss_modulus_mpa,Loss modulus
+dma_results,tan_delta,Loss/storage modulus ratio
+tma_results,cte_um_m_mk,Coefficient of thermal expansion
+tma_results,softening_temp_c,Softening temperature
+rheology_results,test_mode,"Flow, oscillation, creep, recovery, stress relaxation"
+rheology_results,viscosity_pa_s,Dynamic/apparent viscosity as applicable
+rheology_results,shear_rate_s_1,Shear rate
+rheology_results,storage_modulus_pa,Rheological storage modulus
+rheology_results,loss_modulus_pa,Rheological loss modulus
+raw_measurements,elapsed_s,Point-level elapsed time
+raw_measurements,temperature_c,Point-level temperature
+raw_measurements,mass_mg,Point-level mass
+raw_measurements,heat_flow_mw,Point-level DSC heat flow
+raw_measurements,displacement_um,Point-level displacement
+raw_measurements,force_n,Point-level force
+raw_measurements,shear_rate_s_1,Point-level shear rate
+raw_measurements,viscosity_pa_s,Point-level viscosity

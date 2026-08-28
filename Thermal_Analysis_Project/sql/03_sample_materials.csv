@@ -1,0 +1,6 @@
+material_code,material_name,material_type,supplier,lot_number
+MAT-001,Polymer A,Polymer,Supplier Alpha,LOT-A001
+MAT-002,Polymer B,Polymer,Supplier Beta,LOT-B001
+MAT-003,Filled Polymer,Composite,Supplier Gamma,LOT-C001
+MAT-004,Adhesive Resin,Resin,Supplier Delta,LOT-D001
+MAT-005,Elastomer X,Elastomer,Supplier Epsilon,LOT-E001
